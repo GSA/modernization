@@ -1,10 +1,9 @@
 ---
-title: home
-layout: docs
-permalink: /
-top: true
+layout: base
 
-sidenav: primary
+title: Home
+permalink: /
+
 subnav:
   - text: Program Guidelines
     href: '#program-guidelines'
