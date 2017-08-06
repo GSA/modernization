@@ -1,6 +1,6 @@
 # If upgrading the version of USWDS, bump the version here
 # to update the URLs.
-uswds_path: assets/uswds-1.1.0
+uswds_path: assets/uswds-1.3.0
 
 # OpenGraph / Twitter metadata
 title: IT Modernization
