@@ -144,15 +144,28 @@
 // Main Content --------- //
 
 .main-content {
+  font-family: $font-serif;
+
   position: absolute;
   top: 4rem;
   right: 0;
   bottom: 0;
   display: inline-block; // starting: not scrolled
-  margin-top: 4rem; // starting: not scrolled
   position: relative;
   width: 100%;
   top: 6.3rem; // height of disclaimer + navbar on mobile
+
+  padding-top: 0;
+  margin-top: 0;
+
+  padding-right: 3rem;
+  padding-left: 3rem;
+
+  font-size: 1.5rem;
+
+  p {
+    line-height: 1.8;
+  }
 
   @include media($nav-width) {
     width: calc(100% - #{$width-nav-sidebar});
@@ -162,18 +175,9 @@
   .lt-ie9 & {
     width: 75%;
   }
-}
-
-.main-content {
-  padding-top: 0;
-  margin-top: 0;
-
-  padding-right: 3rem;
-  padding-left: 3rem;
 
   h1 {
     display: inline-block;
     margin-top: 0;
   }
 }
-
