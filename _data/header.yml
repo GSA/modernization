@@ -1,6 +1,0 @@
-# primary:
-#   links: primary
-
-secondary:
-  links: secondary
-  search: false
