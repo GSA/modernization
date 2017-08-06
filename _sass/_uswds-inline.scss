@@ -6,6 +6,12 @@
 
 $width-nav-sidebar: 250px;
 
+$text-max-width:      53rem !default;
+$lead-max-width:      77rem !default;
+$site-max-width:      1040px !default;
+$site-margins:        3rem !default;
+$site-margins-mobile: 1.5rem !default;
+
 // Typography
 // Removing the !default from $em-base so we are not inheriting that
 // value from Bourbon.

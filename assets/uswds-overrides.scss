@@ -113,7 +113,7 @@
 }
 
 
-/*// Sidebar Nav --------- //
+// Sidebar Nav --------- //
 
 .sidenav {
   display: none;
@@ -126,7 +126,7 @@
     padding-right: 1rem;
     padding-left: 3rem;
     overflow-y: auto;
-    top: 5rem;
+    top: 0rem;
     width: $width-nav-sidebar;
   }
 
@@ -163,6 +163,17 @@
     width: 75%;
   }
 }
-*/
 
+.main-content {
+  padding-top: 0;
+  margin-top: 0;
+
+  padding-right: 3rem;
+  padding-left: 3rem;
+
+  h1 {
+    display: inline-block;
+    margin-top: 0;
+  }
+}
 
