@@ -1,0 +1,35 @@
+# If upgrading the version of USWDS, bump the version here
+# to update the URLs.
+uswds_path: assets/uswds-1.3.0
+
+# OpenGraph / Twitter metadata
+title: IT Modernization
+description: Test framework.
+
+# GA and GitHub data
+google_analytics_ua:
+repo: https://github.com/GSA/modernization
+
+exclude:
+- CONTRIBUTING.md
+- _config.yml
+- .travis.yml
+- .gitignore
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+collections:
+  pages:
+    output: true
+    #permalink: /:path/
+

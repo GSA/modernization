@@ -1,0 +1,34 @@
+---
+
+---
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  {% include head.html %}
+</head>
+
+<body class="{{ layout.class }} {{ page.class }}">
+
+
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+{% include header.html %}
+
+<main id="main-content" class="usa-grid usa-section usa-content usa-layout-docs">
+
+  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    {% include sidenav.html links=site.data.navigation.primary %}
+  </aside>
+
+  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    {{ content }}
+  </div>
+
+</main>
+
+{% include footer.html %}
+{% include scripts.html %}
+
+
+</body>
+</html>

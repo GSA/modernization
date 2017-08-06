@@ -1,0 +1,8 @@
+.sass-cache
+_site
+.DS_Store
+todo.txt
+.jekyll-metadata
+/vendor
+.ruby-version
+*.pyc
