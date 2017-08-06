@@ -1,5 +1,6 @@
-# Using https://github.com/18F/uswds-jekyll
-theme: uswds-jekyll
+# If upgrading the version of USWDS, bump the version here
+# to update the URLs.
+uswds_path: assets/uswds-1.1.0
 
 # OpenGraph / Twitter metadata
 title: IT Modernization
@@ -19,10 +20,6 @@ exclude:
 - LICENSE.md
 - README.md
 - vendor
-
-styles:
-  - /assets/uswds/css/uswds.min.css
-  - /assets/uswds-overrides.css
 
 defaults:
   - scope:
