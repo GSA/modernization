@@ -14,16 +14,14 @@
 
 {% include header.html %}
 
-<main id="main-content" class="usa-grid usa-section usa-content usa-layout-docs">
+<aside class="sidenav sticky">
+  {% include sidenav.html links=site.data.navigation.primary %}
+</aside>
 
-  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-    {% include sidenav.html links=site.data.navigation.primary %}
-  </aside>
-
-  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+<main id="main-content" class="main-content">
+  <div class="usa-content">
     {{ content }}
   </div>
-
 </main>
 
 {% include footer.html %}

@@ -1,5 +1,183 @@
 ---
-# Style tweaks.
+# Customizations from USWDS.
 ---
 
+@import 'uswds-inline';
 
+
+/***************************************
+  Begin site customizations.
+****************************************/
+
+.usa-banner-inner {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.site-header-navbar {
+  border-bottom: none;
+
+  @include media($nav-width) {
+    height: 8rem;
+    width: 100%;
+    display: block;
+  }
+
+  // Firefox fix so that navbar buttons to align right
+  @-moz-document url-prefix() {
+    @include media($nav-width) {
+      padding-top: 1px;
+    }
+  }
+}
+
+.site-header {
+
+  background-color: $color-primary-darkest;
+
+  @include media($nav-width) {
+    border-bottom: none;
+  }
+
+  .site-logo {
+    margin-left: $site-margins-mobile;
+
+    @include media($nav-width) {
+      margin-left: $site-margins;
+    }
+  }
+
+  .usa-banner-inner {
+    max-width: 100%;
+  }
+
+  .usa-banner-content {
+    margin-left: 0;
+  }
+
+  .usa-button-list {
+    float: right;
+    display: none;
+    margin-top: -5px;
+
+    @include media($nav-width) {
+      line-height: 8rem;
+      margin-top: 0;
+      display: block;
+      padding-right: $site-margins;
+    }
+
+    li {
+      display: inline;
+      font-family: $font-sans;
+
+      &:last-child .usa-button {
+        margin-right: 0;
+      }
+    }
+  }
+}
+
+.site-logo {
+  @include media($nav-width) {
+    margin-top: 0;
+  }
+
+  a {
+    color: $color-white;
+  }
+
+  em {
+    font-family: $font-serif;
+    font-size: 1.4rem;
+    line-height: 4rem;
+
+    @include media($nav-width) {
+      font-size: $h2-font-size;
+      line-height: 8rem;
+    }
+  }
+}
+
+// Header -------------- //
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+
+  &:before,
+  &:after {
+    content: '';
+    display: table;
+  }
+}
+
+
+// Sidebar Nav --------- //
+
+.sidenav {
+  display: none;
+
+  @include media($nav-width) {
+    display: block;
+    float: left;
+    margin-bottom: 525px;
+    margin-top: 50px;
+    padding-right: 1rem;
+    padding-left: 3rem;
+    overflow-y: auto;
+    top: 0rem;
+    width: $width-nav-sidebar;
+  }
+
+  .lt-ie9 & {
+    width: 25%;
+  }
+
+  .usa-navigation-submenu {
+    &[aria-hidden="false"] {
+      display: block;
+    }
+  }
+}
+
+// Main Content --------- //
+
+.main-content {
+  font-family: $font-serif;
+
+  position: absolute;
+  top: 4rem;
+  right: 0;
+  bottom: 0;
+  display: inline-block; // starting: not scrolled
+  position: relative;
+  width: 100%;
+  top: 6.3rem; // height of disclaimer + navbar on mobile
+
+  padding-top: 0;
+  margin-top: 0;
+
+  padding-right: 3rem;
+  padding-left: 3rem;
+
+  font-size: 1.5rem;
+
+  p {
+    line-height: 1.8;
+  }
+
+  @include media($nav-width) {
+    width: calc(100% - #{$width-nav-sidebar});
+    top: 0;
+  }
+
+  .lt-ie9 & {
+    width: 75%;
+  }
+
+  h1 {
+    display: inline-block;
+    margin-top: 0;
+  }
+}
