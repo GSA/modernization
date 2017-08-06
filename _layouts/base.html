@@ -1,0 +1,24 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="{{ layout.class }} {{ page.class }}">
+
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+    {% include header.html %}
+
+    <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
+    {{ content }}
+    </main>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

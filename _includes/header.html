@@ -1,10 +1,9 @@
-<!-- Edited to remove some uses of relative_url. -->
+{% assign header = site.data.header %}
 
-{% if header %}
 <header class="usa-header usa-header-{{ header.type | default: 'extended' }}" role="banner">
+
   {% include banner.html %}
 
-  {% if header %}
   <div class="usa-navbar">
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo" id="logo">
@@ -96,8 +95,7 @@
 
     </div>
   </nav>
-  {% endif %}
 
 </header>
+
 <div class="usa-overlay"></div>
-{% endif %}

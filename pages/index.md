@@ -4,7 +4,12 @@ layout: docs
 permalink: /
 top: true
 
-sidenav: hosted
+sidenav: primary
+subnav:
+  - text: Program Guidelines
+    href: '#program-guidelines'
+  - text: Domain Guidelines
+    href: '#domain-guidelines'
 ---
 
 # Policies and Guidelines
