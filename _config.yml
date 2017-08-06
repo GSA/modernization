@@ -1,0 +1,38 @@
+# Using https://github.com/18F/uswds-jekyll
+theme: uswds-jekyll
+
+# OpenGraph / Twitter metadata
+title: IT Modernization
+description: Test framework.
+
+# GA and GitHub data
+google_analytics_ua:
+repo: https://github.com/GSA/modernization
+
+exclude:
+- CONTRIBUTING.md
+- _config.yml
+- .travis.yml
+- .gitignore
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- vendor
+
+styles:
+  - /assets/uswds/css/uswds.min.css
+  - /assets/uswds-overrides.css
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+collections:
+  pages:
+    output: true
+    #permalink: /:path/
+
