@@ -117,12 +117,13 @@
 
 .sidenav {
   display: none;
+  clear: both;
 
   @include media($nav-width) {
     display: block;
     float: left;
     margin-bottom: 525px;
-    margin-top: 50px;
+    margin-top: 0px;
     padding-right: 1rem;
     padding-left: 3rem;
     overflow-y: auto;
