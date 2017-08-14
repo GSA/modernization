@@ -1,9 +1,9 @@
----
-# Customizations from USWDS.
----
+// USWDS SASS variable overrides go here, before we import USWDS itself.
 
-@import 'uswds-inline';
+$font-path: './vendor/uswds/fonts';
+$image-path: './vendor/uswds/img';
 
+@import 'uswds';
 
 /***************************************
   Begin site customizations.
