@@ -1,5 +1,6 @@
 node_modules
 /assets/vendor
+/assets/css
 /vendor
 .sass-cache
 _site
