@@ -3,7 +3,7 @@
 uswds_path: assets/vendor/uswds
 
 # OpenGraph / Twitter metadata
-title: Federal IT Modernization
+title: Modernization
 description: Test framework.
 
 # GA and GitHub data
@@ -19,6 +19,10 @@ exclude:
 - Gemfile.lock
 - LICENSE.md
 - README.md
+- node_modules
+- gulpfile.js
+- package.json
+- todo.txt
 - vendor
 
 defaults:

@@ -2,9 +2,5 @@
 primary:
   - text: Home
     href: /
-  - text: Policy
-    href: /policy/
-  - text: HSTS Preloading
-    href: /hsts-preloading/
-  - text: FAQs
-    href: /faqs/
+  - text: Testing
+    href: /
