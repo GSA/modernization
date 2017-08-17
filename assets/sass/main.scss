@@ -130,6 +130,10 @@ $image-path: '../vendor/uswds/img';
     font-size: 1.4rem;
     line-height: 4rem;
 
+    @media screen and (min-width: 951px) {
+      font-size: 2.6rem !important;
+    }
+
     @include media($nav-width) {
       font-size: $h2-font-size;
       line-height: 8rem;
@@ -217,6 +221,12 @@ $image-path: '../vendor/uswds/img';
     width: 75%;
   }
 
+  @media screen and (max-width: 481px) {
+    h1 {font-size: 3rem;}
+    h2 {font-size: 2.2rem;}
+    h3 {font-size: 1.7rem;}
+  }
+
   h1 {
     display: inline-block;
     margin-top: 0;
@@ -230,7 +240,7 @@ $image-path: '../vendor/uswds/img';
   }
 
   h1, h2, h3 {
-    color: #1072bd
+    color: #1072bd;
   }
 }
 
