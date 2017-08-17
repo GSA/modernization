@@ -48,6 +48,9 @@ $image-path: '../vendor/uswds/img';
 
   @media screen and (max-width: 481px) {
     .usa-banner-header {
+      padding-top: 0;
+      padding-bottom: 0;
+
       p {
         padding-top: 5px;
       }
