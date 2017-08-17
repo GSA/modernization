@@ -1,0 +1,6 @@
+---
+applications:
+- name: itmod
+  memory: 64M
+  buildpack: staticfile_buildpack
+
