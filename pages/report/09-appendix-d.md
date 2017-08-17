@@ -8,7 +8,7 @@ Government-As-One-Purchaser"
 permalink: /report/appendices/acquisition-pilot/
 ---
 
-## Applying Nash Equilibrium to Federal Acquisition of Cloud Email
+### Applying Nash Equilibrium to Federal Acquisition of Cloud Email
 
 Several challenges must be overcome in the acquisition cycle in order to
 comply with EO 13800 and facilitate shared services, such as cloud
