@@ -6,8 +6,16 @@
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo site-logo" id="logo">
       <em class="usa-logo-text">
-        <a href="{{ site.baseurl }}/" title="Home">
+        <a href="{{ site.baseurl }}/" title="{{ site.title }}">
           {{ site.title }}
+        </a>
+      </em>
+    </div>
+
+    <div class="usa-logo site-logo" id="logo_small">
+      <em class="usa-logo-text">
+        <a href="{{ site.baseurl }}/" title="{{ site.title }}">
+          {{ site.small_title }}
         </a>
       </em>
     </div>
@@ -31,8 +39,6 @@
   </nav>
 
 </header>
-
-<div class="usa-overlay"></div>
 
 <!-- Mobile nav -->
 <nav role="navigation" class="usa-nav sidenav-mobile">

@@ -42,6 +42,16 @@ $image-path: '../vendor/uswds/img';
     }
   }
 
+  @media screen and (max-width: 481px) {
+      #logo {display: none;}
+      #logo_small {display: inherit;}
+  }
+
+  @media screen and (min-width: 482px) {
+      #logo {display: inherit;}
+      #logo_small {display: none;}
+  }
+
   .usa-banner {
     padding-bottom: 0;
   }
@@ -160,13 +170,12 @@ $image-path: '../vendor/uswds/img';
   font-family: $font-serif;
 
   position: absolute;
-  top: 4rem;
   right: 0;
   bottom: 0;
   display: inline-block; // starting: not scrolled
   position: relative;
   width: 100%;
-  top: 6.3rem; // height of disclaimer + navbar on mobile
+  top: 3rem; // height of disclaimer + navbar on mobile
 
   padding-top: 0;
   margin-top: 0;
