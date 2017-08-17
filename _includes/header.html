@@ -34,6 +34,7 @@
 
 <div class="usa-overlay"></div>
 
+<!-- Mobile nav -->
 <nav role="navigation" class="usa-nav sidenav-mobile">
   <div class="usa-nav-inner">
     <button class="usa-nav-close">
@@ -41,7 +42,7 @@
     </button>
 
     <ul class="usa-sidenav-list usa-accordion">
-      {% for section in site.data.navigation.primary %}
+      {% for section in site.data.navigation.mobile %}
         <li>
           <a href="{{ section.href }}">{{ section.text }}</a>
         </li>
