@@ -9,11 +9,6 @@ $image-path: '../vendor/uswds/img';
   Begin site customizations.
 ****************************************/
 
-.usa-banner-inner {
-  padding-top: 3px;
-  padding-bottom: 3px;
-}
-
 .site-header-navbar {
   border-bottom: none;
 
@@ -47,8 +42,22 @@ $image-path: '../vendor/uswds/img';
     }
   }
 
+  .usa-banner {
+    padding-bottom: 0;
+  }
+
+  @media screen and (max-width: 481px) {
+    .usa-banner-header {
+      p {
+        padding-top: 5px;
+      }
+    }
+  }
+
   .usa-banner-inner {
     max-width: 100%;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   .usa-banner-content {
