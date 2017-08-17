@@ -1,6 +1,26 @@
 
 primary:
-  - text: Home
+  - text: Request For Comment
     href: /
-  - text: Testing
-    href: /
+  - text: "Preface"
+    href: /report/preface/
+  - text: "Executive Summary"
+    href: /report/executive-summary/
+  - text: "Network Modernization & Consolidation"
+    href: /report/network-modernization/
+  - text: "Shared Services to Enable Future Network Architectures"
+    href: /report/shared-services/
+  - text: "Conclusions"
+    href: /report/conclusions/
+  - text: "Appendix A"
+    href: /report/appendices/data-level-protections/
+  - text: "Appendix B"
+    href: /report/appendices/cloud-security-protections/
+  - text: "Appendix C"
+    href: /report/appendices/challenges-to-perimeter-security/
+  - text: "Appendix D"
+    href: /report/appendices/acquisition-pilot/
+  - text: "Appendix E"
+    href: /report/appendices/legal-considerations/
+  - text: "Appendix F"
+    href: /report/appendices/summary-of-recommendations/

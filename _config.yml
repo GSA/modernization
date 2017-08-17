@@ -1,14 +1,14 @@
-# If upgrading the version of USWDS, bump the version here
-# to update the URLs.
-uswds_path: assets/vendor/uswds
-
 # OpenGraph / Twitter metadata
-title: Modernization
-description: Test framework.
+title: Report to the President on Federal IT Modernization
+description: Report to the President on Federal IT Modernization.
+
+report_url: "#"
 
 # GA and GitHub data
-google_analytics_ua:
+google_analytics_ua: UA-104788385-1
 repo: https://github.com/GSA/modernization
+
+uswds_path: assets/vendor/uswds
 
 exclude:
 - CONTRIBUTING.md
@@ -19,11 +19,18 @@ exclude:
 - Gemfile.lock
 - LICENSE.md
 - README.md
-- node_modules
-- gulpfile.js
-- package.json
-- todo.txt
 - vendor
+- gulpfile.js
+- manifest.yml
+- package.json
+- Staticfile
+- Staticfile.auth
+- node_modules
+- .nvmrc
+- .sass-cache
+- todo.txt
+- assets/sass
+
 
 defaults:
   - scope:
