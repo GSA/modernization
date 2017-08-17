@@ -42,27 +42,43 @@ $image-path: '../vendor/uswds/img';
     }
   }
 
-  @media screen and (max-width: 481px) {
-      #logo {display: none;}
-      #logo_small {display: inherit;}
+  @media screen and (max-width: 349px) {
+      #logo-text {display: none;}
+      #logo-text-small {display: none;}
+      #logo-text-smallest {display: inherit;}
+  }
+
+  @media screen and (min-width: 350px) and (max-width: 481px) {
+      #logo-text {display: none;}
+      #logo-text-small {display: inherit;}
+      #logo-text-smallest {display: none;}
   }
 
   @media screen and (min-width: 482px) {
-      #logo {display: inherit;}
-      #logo_small {display: none;}
+      #logo-text {display: inherit;}
+      #logo-text-small {display: none;}
+      #logo-text-smallest {display: none;}
   }
 
   .usa-banner {
     padding-bottom: 0;
   }
 
-  @media screen and (max-width: 481px) {
+  @media screen and (max-width: 480px) {
     .usa-banner-header {
       padding-top: 0;
       padding-bottom: 0;
 
       p {
         padding-top: 5px;
+      }
+    }
+  }
+
+  @media screen and (min-width: 481px) {
+    .usa-banner-header {
+      p {
+        margin-top: 1px;
       }
     }
   }
