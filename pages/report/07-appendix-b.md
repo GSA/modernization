@@ -72,8 +72,7 @@ protections in a cloud-based application stack:
     application.
 
 An example diagram showing data-centric security in a cloud provider is
-shown in **Figure 1**. ![ATC Networks - Cloud
-Moderate.png]({{ site.baseurl }}/assets/img/image1.png)
+shown in **Figure 1**. ![ATC Networks - Cloud Moderate.png]({{ site.baseurl }}/assets/img/image1.png)
 
 **Figure 1**
 

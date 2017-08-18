@@ -28,15 +28,14 @@ modern Federal IT architecture where agencies are able to maximize
 secure use of cloud computing, modernize Government-hosted applications,
 and securely maintain legacy systems. Specific actions in this report
 focus on the first two areas, where securely maintaining legacy systems
-is addressed in other areas of EO 13800. These actions enable agencies
+is addressed in other areas of [EO 13800][EO13800]. These actions enable agencies
 to move from protection of their network perimeters and managing legacy
 physical deployments toward protection of Federal data and
 cloud-optimized deployments. The report also emphasizes a risk-based
 approach that focuses agency resources on their highest value assets,
-per OMB’s authorities provided by the Federal Information Security
-Modernization Act of 2014 (FISMA) [^4] and OMB Memorandum M-17-25,
-*Reporting Guidance for Executive Order on Strengthening the
-Cybersecurity of Federal Networks and Critical Infrastructure*. The
+per OMB’s authorities provided by [the Federal Information Security
+Modernization Act of 2014 (FISMA)][FISMA2014] and OMB Memorandum M-17-25,
+[*Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure*][M-17-25]. The
 report addresses current impediments obstacles to adopting modernized
 cloud technologies by piloting new implementation approaches, and using
 these test cases to inform rapid policy updates. The report also focuses
@@ -44,15 +43,14 @@ on consolidating and improving acquisition of network services so that
 management of security services for networks are consolidated where
 possible and managed to high standards. Specific actions include:
 
-1.  **Prioritize the Modernization of High-Risk High Value Assets
-    (HVAs).** Prioritize modernization of legacy IT by focusing on
+1.  **Prioritize the Modernization of High-Risk High Value Assets (HVAs).**
+    Prioritize modernization of legacy IT by focusing on
     enhancement of security and privacy controls for those assets that
     are essential for Federal agencies to serve the American people and
     whose security posture is most vulnerable.
 
-2.  **Modernize the Trusted Internet Connections (TIC) and National
-    Cybersecurity Protection System (NCPS) Program to Enable Cloud
-    Migration.** Use real world implementation test cases to identify
+2.  **Modernize the Trusted Internet Connections (TIC) and National Cybersecurity Protection System (NCPS) Program to Enable Cloud Migration.**
+    Use real world implementation test cases to identify
     solutions to current barriers regarding agency cloud adoption.
     Update relevant network security policies and architectures to
     enable agencies to focus on both network and data-level security and
@@ -83,8 +81,8 @@ and other security shared services. Specific actions include:
     set of agencies to migrate to commercial email and collaboration
     suites.
 
-3.  **Improve Existing and Provide Additional Security Shared
-    Services.** Provide centralized capabilities that replace or augment
+3.  **Improve Existing and Provide Additional Security Shared Services.**
+    Provide centralized capabilities that replace or augment
     existing agency-specific technology to improve both visibility and
     security.
 
@@ -114,5 +112,8 @@ important to customers of Government services.
 [^3]: Not to include national security systems as defined in Section
     3552(b)(6) of Title 44, United States Code.
 
-[^4]: *Federal Information Security Modernization Act of 2014* (Pub. L.
-    No. 113-283, 128 Stat. 3073), as amended.
+[FISMA2014]: https://www.congress.gov/113/plaws/publ283/PLAW-113publ283.pdf
+
+[M-17-25]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-25.pdf
+
+[EO13800]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal

@@ -29,8 +29,7 @@ modification, or destruction could cause a significant impact to the
 United States' national security interests, foreign relations, economy,
 or to the public confidence, civil liberties, or public health and
 safety of the American people. This definition is codified in OMB
-Memorandum M-17-09, *Management of Federal High Value Assets*. As such,
-the protection of HVAs should be among the highest priority
+Memorandum M-17-09, [*Management of Federal High Value Assets*][M-17-09]. As such, the protection of HVAs should be among the highest priority
 cybersecurity activities for Federal agencies.
 
 ## Foundational Capabilities
@@ -56,8 +55,7 @@ an attacker.
 
 **Timely Patching.** One of the most significant threats to IT systems
 remains unpatched software vulnerabilities. For that reason, OMB, under
-OMB Memorandum M-15-01, *Fiscal Year 2014-2015 Guidance on Improving
-Federal Information Security and Privacy Management Practices*, required
+OMB Memorandum M-15-01, [*Fiscal Year 2014-2015 Guidance on Improving Federal Information Security and Privacy Management Practices*][M-15-01], required
 agencies to sign memorandums of agreement or understanding to allow the
 DHS to scan their external-facing systems for unpatched vulnerabilities.
 Under Binding Operational Directive 15-01, DHS then required agencies to
@@ -109,7 +107,7 @@ HVAs. Agencies should establish a vulnerability disclosure policy for
 public-facing services so that security researchers and members of the
 public can report vulnerabilities they discover. Teams wishing to go
 further should consider running bug bounty programs, such as those run
-by the Department of Defense or GSA.[^24]
+by the [Department of Defense][HACK-THE-PENTAGON] or GSA.
 
 **Threat Modeling.** Engineering teams should use threat modeling to
 understand and drive improvements in the security of the HVA. Threat
@@ -179,13 +177,20 @@ constraints on modification that remove opportunities for attackers to
 persist in a deployed environment.
 
 
-[^23]: See NIST SP 800-133, *Recommendation for Cryptographic Key
-    Generation*.
+[^23]: See NIST SP 800-133, [*Recommendation for Cryptographic Key Generation*][SP-800-133].
 
-[^24]: United States Digital Service, *July 2017 Report to Congress,*
-    “Hack the Pentagon.” July 2017.
+[^25]: See NIST SP 800-167, [*Guide to Application Whitelisting*][SP-800-167].
 
-[^25]: See NIST SP 800-167, *Guide to Application Whitelisting*.
+[^26]: See NIST SP 800-124, [*Guidelines for Managing the Security of Mobile Devices in the Enterprise*][SP-800-124].
 
-[^26]: See NIST SP 800-124, *Guidelines for Managing the Security of
-    Mobile Devices in the Enterprise*.
+[HACK-THE-PENTAGON]: https://www.usds.gov/report-to-congress/2017/07/hack-the-pentagon/
+
+[M-17-09]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-09.pdf
+
+[M-15-01]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-01.pdf
+
+[SP-800-133]: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133.pdf
+
+[SP-800-167]: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-167.pdf
+
+[SP-800-124]: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-124r1.pdf

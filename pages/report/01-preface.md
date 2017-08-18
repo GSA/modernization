@@ -18,11 +18,10 @@ better leverage American innovations through increased use of commercial
 technology.
 
 As a demonstration of this commitment, on May 1, 2017, the President
-established the American Technology Council (ATC) to effectuate the
-secure and efficient use of IT across the Federal Government.[^1] Just
+[established the American Technology Council][1] (ATC) to effectuate the
+secure and efficient use of IT across the Federal Government. Just
 days later, on May 11, 2017, the President signed Executive Order (EO)
-13800, *Strengthening the Cybersecurity of Federal Networks and Critical
-Infrastructure*.[^2] The latter EO tasks the Director of ATC to
+13800, [*Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure*][EO13800]. The latter EO tasks the Director of ATC to
 coordinate a report to the President from the Secretary of the
 Department of Homeland Security (DHS), the Director of the Office of
 Management and Budget (OMB), and the Administrator of the General
@@ -47,9 +46,7 @@ intends to seek further input to ensure successful implementation of
 modernization recommendations.
 
 
-[^1]: *Presidential Executive Order on the Establishment of the American
-    Technology Council*. May 2017.
+[1]: https://www.whitehouse.gov/the-press-office/2017/05/01/presidential-executive-order-establishment-american-technology-council
 
-[^2]: *Presidential Executive Order on Strengthening the Cybersecurity
-    of Federal Networks and Critical Infrastructure*. May 2017.
+[EO13800]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
 

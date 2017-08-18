@@ -22,13 +22,10 @@ Summary of Efforts to Date
 The Federal Government has engaged in several efforts to modernize
 existing IT systems, to improve processes for the acquisition and
 development of new solutions, and to restructure underlying frameworks
-for service and lifecycle management. The *E-Government Act of 2002*
+for service and lifecycle management. The [*E-Government Act of 2002*][EGOV2002]
 recognized the importance of a well-managed, modern, and secure Federal
 IT ecosystem, building upon concepts captured in the Clinger-Cohen Act,
-the *Paperwork Reduction Act*, and OMB Circular A-130, *Managing
-Information as a Strategic Resource*.[^5] Additionally, the *Federal
-Information Security Management Act of 2002* and its reauthorization in
-2014 serve as the governing authority for OMB to provide overall
+the *Paperwork Reduction Act*, and OMB Circular A-130, [*Managing Information as a Strategic Resource*][A-130].[^5] Additionally, the [*Federal Information Security Management Act of 2002*][FISMA2002] and its [reauthorization in 2014][FISMA2014] serve as the governing authority for OMB to provide overall
 guidance and policy for Government-wide Federal cybersecurity.
 
 Pursuant to these authorities, OMB established the IT Infrastructure
@@ -213,133 +210,133 @@ Government, yet are also most vulnerable, should be addressed first.
 
 Next steps to support this recommendation are as follows:
 
-> **Immediate Action:**
->
-> It is recommended that the President direct the implementation of the
-> plan outlined below to improve the security of high-risk HVAs by
-> migrating to a modernized architecture and employing security best
-> practices.
->
-> **Upon Approval of the President and within a Timeline of 30 Days:**
->
-> Consistent with relevant portions of the enterprise risk management
-> plan to be developed pursuant to Section 1(c)(iv) of EO 13800,
-> Commerce’s National Institute of Standards and Technology (NIST) will
-> provide OMB with a plan to promote a risk management culture that
-> focuses agency effort on the operational performance and compliance of
-> their most valuable systems, while simultaneously allowing for the
-> deployment of low-impact systems in a less burdensome and less costly
-> manner. This plan will include a process and timeline for revising
-> Federal Information Processing Standard (FIPS) Publication 199,
-> *Standards for Security Categorization of Federal Information and
-> Information Systems*, and FIPS Publication 200, *Minimum Security
-> Requirements for Federal Information and Information Systems*. The
-> plan should also include proposed updates to any other relevant NIST
-> Special Publications (SPs) to enable and support improvements in
-> agency risk management processes that lead to the appropriate
-> selection, implementation, and continuous monitoring of controls and
-> capabilities commensurate with the risk to information, systems,
-> agency missions, and individuals. These updates should include the use
-> of the NIST Framework for Improving Critical Infrastructure
-> Cybersecurity (Cybersecurity Framework), and, where appropriate,
-> incorporate lessons from other control and compliance frameworks, such
-> as ISO, SOC 2 Compliance Audits, and Payment Card Industry. These
-> updates should review the security requirements for these other
-> frameworks and system approval processes used, and assess the use of
-> overlays of these frameworks as a viable approach and intended for
-> inclusion into the proposed updates of the relevant Special
-> Publications.
->
-> CIOs, Chief Information Security Officers (CISOs), and SAOPs will
-> review their latest submission of HVAs to the DHS and OMB, and will
-> make any necessary changes to reflect the latest information on system
-> prioritization in tandem with the assessments made under their risk
-> assessments as part of Section 1 of Executive Order 13800.
->
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> Consistent with Section 1(c)(iv)(B) of EO 13800, DHS, in consultation
-> with OMB, will provide a report which identifies common areas of
-> weakness in Government HVAs. The report will include recommendations
-> for addressing these risks Government-wide, informed by agency risk
-> assessments, as well as past and current Risk Vulnerability
-> Assessments (RVAs), and Security Architecture Reviews (SARs) DHS has
-> performed on various agency HVAs.
->
-> **Upon Approval of the President and within a Timeline of 75 Days:**
->
-> Consistent with Section 1(c)(iv)(B) of EO 13800 and in execution of
-> independent statutory authorities, OMB, in consultation with DHS, will
-> develop a strategy and framework for an approach that clearly
-> describes the lines of authority and operating procedures necessary to
-> optimally leverage resources across agencies in order to reduce the
-> risk to the Federal enterprise in response to cybersecurity incidents.
-> These efforts should align with the plan to adequately protect the
-> executive branch enterprise in response to agency risk management
-> reports, per Section 1.c.iv of EO 13800.
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will update the annual FISMA metrics as well as the Cybersecurity
-> Cross-Agency Priority (CAP) Goal metrics to focus on those critical
-> capabilities that are most commonly lacking among agencies. OMB will
-> focus oversight efforts, including CyberStat Reviews and President’s
-> Management Council (PMC) Cybersecurity Assessments, on driving
-> progress on these capabilities, with a specific focus on HVAs.
->
-> DHS, in consultation with OMB will direct Government-wide mitigation
-> actions to address common areas of risk identified in the Report to
-> the President on Risk Management in accordance with their authorities
-> under FISMA and other relevant statutory authority.
->
-> **Upon Approval of the President and within a Timeline of 80 Days:**
->
-> Consistent with the current HVA Program that is administered by DHS
-> and overseen by OMB, any agency that has an HVA that has been
-> identified as having a major or critical weakness in either a risk
-> assessment, RVA, SAR, or Inspector General (IG) report will identify a
-> remediation plan, including a proposal for accelerating modernization
-> within one year and identification of impediments in policy, resource
-> allocation, workforce, or operations. This plan should maximize use of
-> shared IT services, implement application and data-level protections,
-> and emphasize appropriate use of commercial cloud-based architectures.
-> Specific recommendations for modern security approaches are detailed
-> in Appendix A. Agencies should prioritize existing financial and human
-> resources and should identify other systems of concern that may suffer
-> from similar issues, but that are not categorized as HVAs.
->
-> **Upon Approval of the President and within a Timeline of 100 Days:**
->
-> DHS, OMB, and the National Security Council (NSC) will review HVA
-> lists submitted to DHS by Federal agencies and will produce a
-> prioritized list of systems for Government-wide intervention. Six HVAs
-> will be selected to receive centralized interventions in staffing and
-> technical support, and the broader, prioritized list will be vetted by
-> the PMC. Additionally, agencies will work with OMB to reallocate their
-> IT resources appropriately in order to alight and appropriately
-> resource the modernization of HVAs.
->
-> Where possible and subject to funding, OMB, through the U.S. Digital
-> Service (USDS), and GSA will support DHS in providing hands-on
-> technical assistance to agencies in bolstering protections for systems
-> identified through this process as having the greatest need for
-> modernization.
->
-> Additionally, DHS will work to expand the availability of RVAs and
-> SARs for agency HVAs. OMB will also work with DHS to refocus these
-> assessments to concentrate on hands-on technical engineering
-> interventions, de-emphasizing the review of system documentation and
-> policies. In addition, OMB and DHS will work with GSA to expand the
-> visibility, offerings, and agency use of the Highly Adaptive
-> Cybersecurity Services Special Item Numbers (HACS SINs) on IT Schedule
-> 70.
->
-> **Upon Approval of the President and within a Timeline of 365 Days:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB,
-> will work with DHS, GSA, and other stakeholders to capture standard
-> operating procedures for the protection of HVAs and will develop a
-> playbook that agencies can leverage to expand this approach to other
-> systems in a prioritized, risk-based fashion in accordance with FISMA.
+**Immediate Action:**
+
+It is recommended that the President direct the implementation of the
+plan outlined below to improve the security of high-risk HVAs by
+migrating to a modernized architecture and employing security best
+practices.
+
+**Upon Approval of the President and within a Timeline of 30 Days:**
+
+Consistent with relevant portions of the enterprise risk management
+plan to be developed pursuant to Section 1(c)(iv) of EO 13800,
+Commerce’s National Institute of Standards and Technology (NIST) will
+provide OMB with a plan to promote a risk management culture that
+focuses agency effort on the operational performance and compliance of
+their most valuable systems, while simultaneously allowing for the
+deployment of low-impact systems in a less burdensome and less costly
+manner. This plan will include a process and timeline for revising
+Federal Information Processing Standard (FIPS) Publication 199,
+*Standards for Security Categorization of Federal Information and
+Information Systems*, and FIPS Publication 200, *Minimum Security
+Requirements for Federal Information and Information Systems*. The
+plan should also include proposed updates to any other relevant NIST
+Special Publications (SPs) to enable and support improvements in
+agency risk management processes that lead to the appropriate
+selection, implementation, and continuous monitoring of controls and
+capabilities commensurate with the risk to information, systems,
+agency missions, and individuals. These updates should include the use
+of the NIST Framework for Improving Critical Infrastructure
+Cybersecurity (Cybersecurity Framework), and, where appropriate,
+incorporate lessons from other control and compliance frameworks, such
+as ISO, SOC 2 Compliance Audits, and Payment Card Industry. These
+updates should review the security requirements for these other
+frameworks and system approval processes used, and assess the use of
+overlays of these frameworks as a viable approach and intended for
+inclusion into the proposed updates of the relevant Special
+Publications.
+
+CIOs, Chief Information Security Officers (CISOs), and SAOPs will
+review their latest submission of HVAs to the DHS and OMB, and will
+make any necessary changes to reflect the latest information on system
+prioritization in tandem with the assessments made under their risk
+assessments as part of Section 1 of Executive Order 13800.
+
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+Consistent with Section 1(c)(iv)(B) of EO 13800, DHS, in consultation
+with OMB, will provide a report which identifies common areas of
+weakness in Government HVAs. The report will include recommendations
+for addressing these risks Government-wide, informed by agency risk
+assessments, as well as past and current Risk Vulnerability
+Assessments (RVAs), and Security Architecture Reviews (SARs) DHS has
+performed on various agency HVAs.
+
+**Upon Approval of the President and within a Timeline of 75 Days:**
+
+Consistent with Section 1(c)(iv)(B) of EO 13800 and in execution of
+independent statutory authorities, OMB, in consultation with DHS, will
+develop a strategy and framework for an approach that clearly
+describes the lines of authority and operating procedures necessary to
+optimally leverage resources across agencies in order to reduce the
+risk to the Federal enterprise in response to cybersecurity incidents.
+These efforts should align with the plan to adequately protect the
+executive branch enterprise in response to agency risk management
+reports, per Section 1.c.iv of EO 13800.
+
+Pursuant to its statutory authorities and in execution thereof, OMB
+will update the annual FISMA metrics as well as the Cybersecurity
+Cross-Agency Priority (CAP) Goal metrics to focus on those critical
+capabilities that are most commonly lacking among agencies. OMB will
+focus oversight efforts, including CyberStat Reviews and President’s
+Management Council (PMC) Cybersecurity Assessments, on driving
+progress on these capabilities, with a specific focus on HVAs.
+
+DHS, in consultation with OMB will direct Government-wide mitigation
+actions to address common areas of risk identified in the Report to
+the President on Risk Management in accordance with their authorities
+under FISMA and other relevant statutory authority.
+
+**Upon Approval of the President and within a Timeline of 80 Days:**
+
+Consistent with the current HVA Program that is administered by DHS
+and overseen by OMB, any agency that has an HVA that has been
+identified as having a major or critical weakness in either a risk
+assessment, RVA, SAR, or Inspector General (IG) report will identify a
+remediation plan, including a proposal for accelerating modernization
+within one year and identification of impediments in policy, resource
+allocation, workforce, or operations. This plan should maximize use of
+shared IT services, implement application and data-level protections,
+and emphasize appropriate use of commercial cloud-based architectures.
+Specific recommendations for modern security approaches are detailed
+in Appendix A. Agencies should prioritize existing financial and human
+resources and should identify other systems of concern that may suffer
+from similar issues, but that are not categorized as HVAs.
+
+**Upon Approval of the President and within a Timeline of 100 Days:**
+
+DHS, OMB, and the National Security Council (NSC) will review HVA
+lists submitted to DHS by Federal agencies and will produce a
+prioritized list of systems for Government-wide intervention. Six HVAs
+will be selected to receive centralized interventions in staffing and
+technical support, and the broader, prioritized list will be vetted by
+the PMC. Additionally, agencies will work with OMB to reallocate their
+IT resources appropriately in order to alight and appropriately
+resource the modernization of HVAs.
+
+Where possible and subject to funding, OMB, through the U.S. Digital
+Service (USDS), and GSA will support DHS in providing hands-on
+technical assistance to agencies in bolstering protections for systems
+identified through this process as having the greatest need for
+modernization.
+
+Additionally, DHS will work to expand the availability of RVAs and
+SARs for agency HVAs. OMB will also work with DHS to refocus these
+assessments to concentrate on hands-on technical engineering
+interventions, de-emphasizing the review of system documentation and
+policies. In addition, OMB and DHS will work with GSA to expand the
+visibility, offerings, and agency use of the Highly Adaptive
+Cybersecurity Services Special Item Numbers (HACS SINs) on IT Schedule
+70.
+
+**Upon Approval of the President and within a Timeline of 365 Days:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB,
+will work with DHS, GSA, and other stakeholders to capture standard
+operating procedures for the protection of HVAs and will develop a
+playbook that agencies can leverage to expand this approach to other
+systems in a prioritized, risk-based fashion in accordance with FISMA.
 
 ### 2. Modernize the Trusted Internet Connections (TIC) and National Cybersecurity Protection System (NCPS) to Improve Protections, Remove Barriers, and Enable Commercial Cloud Migration.
 
@@ -383,44 +380,44 @@ modern computing in the commercial cloud.
 
 Next steps to support this recommendation are as follows:
 
-> **Immediate Action:**
->
-> It is recommended that the President direct the implementation of the
-> plan outlined below to accelerate secure use of commercial cloud
-> through the modernization of the NCPS Program and TIC capabilities,
-> policies, reference architectures, and associated cloud security
-> authorization baselines. This effort will support the prioritization
-> of security resources from lower-value assets to higher-value assets,
-> enabling agencies to build out data-level protections in furtherance
-> of a layered security architecture, and directly accelerating
-> commercial cloud adoption. This effort will be driven by agency use
-> cases, which will also be used to inform rapid updates to policy. This
-> modernization effort will prioritize work to focus on cloud-ready
-> projects and target agencies struggling to comply with the TIC policy
-> and cloud adoption efforts to provide more immediate relief. The goal
-> is to accelerate migration on three cloud-ready systems within the
-> next year. OMB will codify this plan in an initial update to TIC
-> policy, to provide agencies clear direction on the path forward. The
-> entire process described below will be overseen directly by the ATC,
-> including weekly status updates to the Director of the ATC regarding
-> progress.
->
-> **Upon Approval of the President and within a Timeline of 30 Days:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will submit a data call to agencies requesting submission of both
-> in-progress and pending projects for cloud migration. Agencies should
-> focus submissions on projects that have experienced delays due to
-> constraints in current TIC policy and NCPS program implementation, and
-> should propose a migration plan that, highlights needed changes to
-> requisite policies and capabilities to facilitate faster migration.
->
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> The ATC, supported by GSA, will include the FedRAMP PMO and the
-> Technology Transformation Service (TTS), DHS, OMB to include USDS,
-> NSC, and other relevant parties will review these submissions and
-> bucket them into three categories:
+**Immediate Action:**
+
+It is recommended that the President direct the implementation of the
+plan outlined below to accelerate secure use of commercial cloud
+through the modernization of the NCPS Program and TIC capabilities,
+policies, reference architectures, and associated cloud security
+authorization baselines. This effort will support the prioritization
+of security resources from lower-value assets to higher-value assets,
+enabling agencies to build out data-level protections in furtherance
+of a layered security architecture, and directly accelerating
+commercial cloud adoption. This effort will be driven by agency use
+cases, which will also be used to inform rapid updates to policy. This
+modernization effort will prioritize work to focus on cloud-ready
+projects and target agencies struggling to comply with the TIC policy
+and cloud adoption efforts to provide more immediate relief. The goal
+is to accelerate migration on three cloud-ready systems within the
+next year. OMB will codify this plan in an initial update to TIC
+policy, to provide agencies clear direction on the path forward. The
+entire process described below will be overseen directly by the ATC,
+including weekly status updates to the Director of the ATC regarding
+progress.
+
+**Upon Approval of the President and within a Timeline of 30 Days:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB
+will submit a data call to agencies requesting submission of both
+in-progress and pending projects for cloud migration. Agencies should
+focus submissions on projects that have experienced delays due to
+constraints in current TIC policy and NCPS program implementation, and
+should propose a migration plan that, highlights needed changes to
+requisite policies and capabilities to facilitate faster migration.
+
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+The ATC, supported by GSA, will include the FedRAMP PMO and the
+Technology Transformation Service (TTS), DHS, OMB to include USDS,
+NSC, and other relevant parties will review these submissions and
+bucket them into three categories:
 
 1.  Systems that are sufficiently low risk to migrate to cloud
     immediately. These systems will be migrated to the cloud, and
@@ -447,13 +444,13 @@ Next steps to support this recommendation are as follows:
     offerings available to agencies wanting to migrate high impact data
     to the cloud.
 
-> To codify this approach, OMB will provide a preliminary update to the
-> TIC policy that introduces a 90 day sprint during which projects
-> approved by OMB will pilot proposed changes in TIC requirements and
-> formalizes the approach outlined above and in the subsequent two
-> sections.
->
-> **Upon Approval of the President and within a Timeline of 90 Days:**
+To codify this approach, OMB will provide a preliminary update to the
+TIC policy that introduces a 90 day sprint during which projects
+approved by OMB will pilot proposed changes in TIC requirements and
+formalizes the approach outlined above and in the subsequent two
+sections.
+
+**Upon Approval of the President and within a Timeline of 90 Days:**
 
 1.  For Category 1 of projects above, agencies will be given approval to
     begin cloud migration by following their proposed migration plans.
@@ -486,16 +483,16 @@ Next steps to support this recommendation are as follows:
     available to agencies wanting to migrate high-impact data to the
     cloud.
 
-> **Upon Approval of the President and within a Timeline of 180 Days:**
->
-> DHS, GSA, and OMB will use the information gathered from the
-> activities listed in the section immediately preceding to inform rapid
-> updates to the TIC policy, reference architectures (RA), and NCPS
-> operational models to facilitate outcomes in commercial cloud. The
-> updates will codify the findings from these case studies, as well as
-> holistically address incentives and barriers for agencies in securely
-> migrating to commercial cloud solutions. This update would at a
-> minimum address the following issue areas:
+**Upon Approval of the President and within a Timeline of 180 Days:**
+
+DHS, GSA, and OMB will use the information gathered from the
+activities listed in the section immediately preceding to inform rapid
+updates to the TIC policy, reference architectures (RA), and NCPS
+operational models to facilitate outcomes in commercial cloud. The
+updates will codify the findings from these case studies, as well as
+holistically address incentives and barriers for agencies in securely
+migrating to commercial cloud solutions. This update would at a
+minimum address the following issue areas:
 
 -   A recommendation as to whether (1) “all information” traveling to
     and from agency information systems hosted by commercial cloud
@@ -515,43 +512,43 @@ Next steps to support this recommendation are as follows:
     management is applied, information is shared, and new updates are
     deployed rapidly;
 
-    -   How agencies can best incorporate intrusion detection and
-        > prevention capabilities into their use of cloud services in a
-        > way that ensures adequate visibility to agency operators and
-        > helps DHS to protect Federal information. Updates to the
-        > capabilities outlined in applicable OMB Memoranda and DHS’s
-        > TIC RA to revisit the critical capabilities for boundary
-        > protection, de-emphasize the prescribed architectural
-        > implementation, and focus on capabilities, especially those
-        > that serve as compensating controls for commercial cloud
-        > environments;
+-   How agencies can best incorporate intrusion detection and
+    prevention capabilities into their use of cloud services in a
+    way that ensures adequate visibility to agency operators and
+    helps DHS to protect Federal information. Updates to the
+    capabilities outlined in applicable OMB Memoranda and DHS’s
+    TIC RA to revisit the critical capabilities for boundary
+    protection, de-emphasize the prescribed architectural
+    implementation, and focus on capabilities, especially those
+    that serve as compensating controls for commercial cloud
+    environments;
 
-    -   Which TIC capabilities, if any, are appropriate for traffic
-        > associated with systems protecting FISMA-Low data, or any
-        > lower impact data as aligned with the tasking for Commerce’s
-        > proposed revisions to FIPS Publication 199 and 200;
+-   Which TIC capabilities, if any, are appropriate for traffic
+    associated with systems protecting FISMA-Low data, or any
+    lower impact data as aligned with the tasking for Commerce’s
+    proposed revisions to FIPS Publication 199 and 200;
 
-    -   The impact of allowing traffic associated with systems deployed
-        > to commercial cloud to not employ physical TIC protection if
-        > those systems meet the appropriate operational security
-        > capabilities for cloud described in the updated RA;
+-   The impact of allowing traffic associated with systems deployed
+    to commercial cloud to not employ physical TIC protection if
+    those systems meet the appropriate operational security
+    capabilities for cloud described in the updated RA;
 
-    -   Best practices agencies should follow in implementing
-        > protections at other levels beyond the network, including how
-        > these practices should be integrated with the agencies’
-        > network security program;
+-   Best practices agencies should follow in implementing
+    protections at other levels beyond the network, including how
+    these practices should be integrated with the agencies’
+    network security program;
 
-    -   Elimination of the existing TIC-related FISMA metrics and manual
-        > TIC Compliance Validation (TCV) process, replacing both with
-        > automated metric collection, to the extent possible, with a
-        > primary focus on both security and availability measures. This
-        > should leverage, to the extent possible, existing capabilities
-        > under the CDM program and build on previous research DHS has
-        > undertaken to automate TIC compliance using this program; and
+-   Elimination of the existing TIC-related FISMA metrics and manual
+    TIC Compliance Validation (TCV) process, replacing both with
+    automated metric collection, to the extent possible, with a
+    primary focus on both security and availability measures. This
+    should leverage, to the extent possible, existing capabilities
+    under the CDM program and build on previous research DHS has
+    undertaken to automate TIC compliance using this program; and
 
-    -   Options for the reallocation, if necessary, of current
-        > TIC-related DHS personnel and resources toward helping
-        > agencies resolve operational issues in cloud migration.
+-   Options for the reallocation, if necessary, of current
+    TIC-related DHS personnel and resources toward helping
+    agencies resolve operational issues in cloud migration.
 
 ### 3. Consolidate Network Acquisitions and Management
 
@@ -600,8 +597,7 @@ revisions to the existing TIC policy and RA, agencies will be able to
 make cost-effective acquisition decisions based on their existing tools
 and overall risk tolerance.
 
-***Decrease Risk by Improving Situational Awareness of Managed External
-Network Connections to the Internet**.* Approximately 40 of the 102
+***Decrease Risk by Improving Situational Awareness of Managed External Network Connections to the Internet.*** Approximately 40 of the 102
 small agencies supported by the Networx contract currently receive MTIPS
 services. The result of this gap in MTIPS capabilities is a lack of
 shared situational awareness regarding the network traffic traversing
@@ -614,26 +610,26 @@ to provide the requisite information.
 
 Next steps to support the objectives outlined above are as follows:
 
-> **Immediate Action:**
->
-> It is recommended that the President direct implementation of the plan
-> outlined below. This plan will leverage the consolidated buying power
-> of the Federal Government to procure more cost effective and secure
-> network services.
->
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> DHS to provide GSA and agencies with baseline configuration guidance
-> for Managed Security Services (MSS) capabilities offered under EIS in
-> order to maximize the return on investment for the security
-> capabilities procured by agencies and to ensure compliance with
-> current TIC policy.
->
-> **Upon Approval of the President and within a Timeline of 90 Days:**
->
-> GSA, in coordination with DHS, shall develop a comprehensive
-> acquisition strategy that provides a feasibility assessment and
-> roadmap to accomplish the following tasks:
+**Immediate Action:**
+
+It is recommended that the President direct implementation of the plan
+outlined below. This plan will leverage the consolidated buying power
+of the Federal Government to procure more cost effective and secure
+network services.
+
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+DHS to provide GSA and agencies with baseline configuration guidance
+for Managed Security Services (MSS) capabilities offered under EIS in
+order to maximize the return on investment for the security
+capabilities procured by agencies and to ensure compliance with
+current TIC policy.
+
+**Upon Approval of the President and within a Timeline of 90 Days:**
+
+GSA, in coordination with DHS, shall develop a comprehensive
+acquisition strategy that provides a feasibility assessment and
+roadmap to accomplish the following tasks:
 
 -   Provide a path for all small agencies to more easily and cost
     effectively utilize EIS services. This strategy should ensure the
@@ -657,37 +653,34 @@ Next steps to support the objectives outlined above are as follows:
     cybersecurity-related contract management activities for small
     agencies.
 
-> **Other High-Level Actions:**
->
-> ***Increase Economies of Scale through Consolidation of Contracts for
-> Small Agencies***. Currently, 102 Federal small agencies are supported
-> by the legacy Networx contract, each on separate task orders. GSA will
-> support these small agencies in the transition to EIS by consolidating
-> requirements for small agencies and is considering the best approach
-> to leverage a limited number of task orders to purchase the majority
-> of services these agencies need. Through the consolidation of common
-> requirements across small agencies, GSA can leverage one or a small
-> number of task orders under EIS to purchase the majority of services
-> needed for all small agencies, with an option to provide additional
-> specific language focused on agency-specific requirements, in order to
-> realize economies of scale.
->
-> ***Improve Acquisitions Support for Small Agencies to Maximize the Use
-> of MTIPS and other Cybersecurity Services.*** For small agencies,
-> there are often barriers to acquiring and maximizing the benefits of
-> MTIPS. In addition to high costs, many small agencies lack the
-> appropriate expertise to draft effective task orders and the resources
-> to manage their MTIPS contract and hold vendors accountable for
-> accomplishing the work specified in Service Level Agreements (SLAs).
-> As such, GSA will provide guidance to small agencies on how best to
-> leverage its cross-agency acquisition in order to optimize their IT
-> investments and management throughout the procurement process.
+**Other High-Level Actions:**
+
+***Increase Economies of Scale through Consolidation of Contracts for Small Agencies***. Currently, 102 Federal small agencies are supported
+by the legacy Networx contract, each on separate task orders. GSA will
+support these small agencies in the transition to EIS by consolidating
+requirements for small agencies and is considering the best approach
+to leverage a limited number of task orders to purchase the majority
+of services these agencies need. Through the consolidation of common
+requirements across small agencies, GSA can leverage one or a small
+number of task orders under EIS to purchase the majority of services
+needed for all small agencies, with an option to provide additional
+specific language focused on agency-specific requirements, in order to
+realize economies of scale.
+
+***Improve Acquisitions Support for Small Agencies to Maximize the Use of MTIPS and other Cybersecurity Services.*** For small agencies,
+there are often barriers to acquiring and maximizing the benefits of
+MTIPS. In addition to high costs, many small agencies lack the
+appropriate expertise to draft effective task orders and the resources
+to manage their MTIPS contract and hold vendors accountable for
+accomplishing the work specified in Service Level Agreements (SLAs).
+As such, GSA will provide guidance to small agencies on how best to
+leverage its cross-agency acquisition in order to optimize their IT
+investments and management throughout the procurement process.
 
 
-[^5]: *E-Government Act of 2002* (Pub. L. No. 107-347); *Information
+[^5]: [*E-Government Act of 2002*][EGOV2002] (Pub. L. No. 107-347); *Information
     Technology Management Reform Act of 1996*, “Clinger-Cohen Act
-    (CCA),” (Pub. L. 104-106, Division E); and *Paperwork Reduction Act
-    of 1995* (Pub. L. No. 96-511).
+    (CCA),” ([Pub. L. 104-106][PL-104-106], Division E); and *Paperwork Reduction Act of 1995* (Pub. L. No. 96-511).
 
 [^6]: *State of Federal IT Report*, Public Release Version 1.0.
 
@@ -698,15 +691,15 @@ Next steps to support the objectives outlined above are as follows:
     Comprehensive National Cyber Security Initiative (CNCI), established
     by Joint Presidential Directive NSPD-54/HSPD-23; OMB Memorandum
     M-08-16, Guidance for TIC Statement of Capability Form (SOC); OMB
-    Memorandum M-08-26, *Transition from FTS 2001 to Networx*; OMB
-    Memorandum M-08-27, Guidance for TIC Compliance; OMB Memorandum
-    M-09-32, *Update on the TIC Initiative*; and DHS’s TIC Reference
+    Memorandum M-08-26, [*Transition from FTS 2001 to Networx*][M-08-26]; OMB
+    Memorandum M-08-27, [*Guidance for TIC Compliance*][M-08-27]; OMB Memorandum
+    M-09-32, [*Update on the TIC Initiative*][M-09-32]; and DHS’s TIC Reference
     Architecture. These documents provide further details on agency,
     OMB, and DHS responsibilities and reporting requirements,
     acquisition vehicles, and technical capabilities under the TIC
     initiative. The *Homeland Security Act*, as amended by section 223
     of the *Federal Cybersecurity Enhancement Act of 2015*,
-    *Consolidated Appropriations Act of 2016* (Pub. L. No. 114-113, 129
+    [*Consolidated Appropriations Act of 2016*][APPROPS2016] (Pub. L. No. 114-113, 129
     Stat. 2242, Division N, Title II, Subtitle B), requires DHS to
     “deploy, operate, and maintain” and “make available for use by any
     agency” capabilities to detect cybersecurity risks in agency network
@@ -732,16 +725,15 @@ Next steps to support the objectives outlined above are as follows:
     signature-based detection, and acquire, test, and deploy such
     technologies when appropriate.” *Id*. § 151(c)(4).
 
-[^9]: OMB Memorandum M-17-09, *Management of Federal High Value Assets*.
+[^9]: OMB Memorandum M-17-09, [*Management of Federal High Value Assets*][M-17-09].
 
 [^10]: See Footnote 9.
 
-[^11]: *Federal Cybersecurity Enhancement Act of 2015*, *Consolidated
-    Appropriations Act of 2016* (Pub. L. No. 114-113, 129 Stat. 2242,
+[^11]: *Federal Cybersecurity Enhancement Act of 2015*, [*Consolidated
+    Appropriations Act of 2016*][APPROPS-2016] (Pub. L. No. 114-113, 129 Stat. 2242,
     Division N, Title II, Subtitle B).
 
-[^12]: DHS Office of the Inspector General. *Implementation Status of
-    EINSTEIN 3 Accelerated.* March 2014.\
+[^12]: DHS Office of the Inspector General. [*Implementation Status of EINSTEIN 3 Accelerated.*][DHS-OIG-EINSTEIN] March 2014.\
     U.S. Government Accountability Office (GAO) Report 16-294, *DHS
     Needs to Enhance Capabilities, Improve Planning, and Support Greater
     Adoption of its NCPS*. January 2016.
@@ -751,9 +743,7 @@ Next steps to support the objectives outlined above are as follows:
     rapidly authorize and use low-risk applications. The deadline for
     public comment on this initial tailored baseline was in July 2017.
 
-[^14]: The recently rescinded OMB Memorandum M-08-26, *Transition from
-    FTS 2001 to Networx* stated that all agencies should use Networx to
-    acquire telecommunications connectivity, including the option to
+[^14]: The recently rescinded OMB Memorandum M-08-26, [*Transition from FTS 2001 to Networx*][M-08-26] stated that all agencies should use Networx to acquire telecommunications connectivity, including the option to
     purchase Trusted Internet Connections solutions from vendors as a
     managed service, called Managed Trusted Internet Protocol Services
     (MTIPS). As of July 2017, an OMB Memorandum mandating a similar use
@@ -771,3 +761,25 @@ Next steps to support the objectives outlined above are as follows:
 
 [^17]: Pursuant to 6 U.S.C. § 151.
 
+
+[EGOV2002]: https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm
+
+[M-08-26]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2008/m08-26.pdf
+
+[M-08-27]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2008/m08-27.pdf
+
+[M-09-32]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2009/m09-32.pdf
+
+[M-17-09]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-09.pdf
+
+[DHS-OIG-EINSTEIN]: https://www.oig.dhs.gov/assets/Mgmt/2014/OIG_14-52_Mar14.pdf
+
+[APPROPS-2016]: https://www.gpo.gov/fdsys/pkg/PLAW-114publ113/html/PLAW-114publ113.htm
+
+[FISMA2002]: https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm
+
+[FISMA2014]: https://www.congress.gov/113/plaws/publ283/PLAW-113publ283.pdf
+
+[A-130]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf
+
+[PL-104-106]: https://www.govinfo.gov/content/pkg/PLAW-104publ106/html/PLAW-104publ106.htm

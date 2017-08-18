@@ -11,7 +11,7 @@ permalink: /report/appendices/acquisition-pilot/
 ### Applying Nash Equilibrium to Federal Acquisition of Cloud Email
 
 Several challenges must be overcome in the acquisition cycle in order to
-comply with EO 13800 and facilitate shared services, such as cloud
+comply with [EO 13800][EO13800] and facilitate shared services, such as cloud
 email. Budgets are constrained by yearly appropriations, and agencies
 work autonomously, which reduces the Government’s ability to look at its
 purchasing as a whole. Legacy procurement and security regulations,
@@ -42,18 +42,14 @@ such as the company’s quarterly sales cycles.
 |                                  | Q4: $9.45 per user/month          |
 | Tier 3: 10,000 – 50,000 licenses | Q 1-4 $ 9.50 per user/month       |
 
-\*These numbers are fabricated for this example only.
-
-A running total of the licenses purchased would be displayed so that at
+<small>\*These numbers are fabricated for this example only.</small><br/>
+<small>A running total of the licenses purchased would be displayed so that at
 any time, end users would know the price point. This would be validated
-with the companies for the official count.
-
-**To date (6/29/17) Total Licenses purchased Government-wide:
-1,345,000**
-
-Pricing Level= Tier 3, Q2 = \$9.50 per user/month
-
-**Total mailboxes to migrate:** 3,000,000
+with the companies for the official count.</small><br/>
+<small><strong>To date (6/29/17) Total Licenses purchased Government-wide:
+1,345,000</strong></small><br/>
+<small>Pricing Level= Tier 3, Q2 = \$9.50 per user/month</small><br/>
+<small><strong>Total mailboxes to migrate:</strong> 3,000,000</small>
 
 Benefits would include a more constructive and mutually-beneficial
 ecosystem with private sector companies, better and more transparent
@@ -173,3 +169,5 @@ Nash Equilibrium for both the Federal Government and industry.
 
 -   Within 30 days of qualified purchases, agencies or re-sellers will
     record the sale in the dashboard.
+
+[EO13800]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal

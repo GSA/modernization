@@ -231,8 +231,7 @@ such, it is only appropriate where the Government absolutely must retain
 physical control over the infrastructure.
 
 It is important to be wary of on premise solutions that are sold with
-cloud terminology that do not actually meet the NIST Essential
-Characteristics of cloud computing.[^18] Often, products that claim to
+cloud terminology that do not actually meet the [NIST Essential Characteristics of cloud computing][SP-800-145]. Often, products that claim to
 offer private cloud infrastructure fail to deliver on these promises,
 missing key aspects such as rapid elasticity, on-demand self-service, or
 resource pooling.
@@ -276,39 +275,39 @@ determine how best to use the models outlined above.
 Next steps to support the above recommendations are
 as follows:
 
-> **Upon Approval of the President and Within a Timeline of 30 Days:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will conduct a data call requesting that agencies identify systems
-> that may be ready for cloud migration and can be migrated securely but
-> have not yet migrated due to perceived or encountered difficulties. At
-> the conclusion of this data call, OMB and GSA will review the
-> impediments to moving to the cloud outlined by agencies and will
-> prioritize an infusion of technical talent, capital, and updated
-> security policy (developed iteratively to solve agency-specific
-> issues) as needed to enable prioritized cloud migrations. This task is
-> described in more detail in the following section.
->
-> **Upon Approval of the President and within a Timeline of 120 Days:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB,
-> in coordination with DHS, GSA, and its Federal partners, will update
-> the Federal Cloud Computing Strategy (“Cloud-First”).[^19] This
-> strategy will provide additional guidance to agencies on the most
-> impactful use cases for cloud adoption and how best to conduct
-> appropriate operational security in cloud environments. This effort
-> will be informed by the OMB-led efforts with the ATC work regarding
-> reducing the time and complexity of ATOs, including ATOs specific to
-> cloud infrastructure and platforms.
->
-> OMB, working with the Federal Acquisition Regulation (FAR) Council,
-> GSA, and DHS will develop clauses that define consistent requirements
-> for security, privacy, and access to data for use in cloud contracts.
-> These clauses will ensure uniformity in contract language and provide
-> rigor to standard Government terms, which would be particularly
-> valuable to agencies lacking relevant technical, legal, or
-> acquisitions expertise to craft, out of whole cloth, such language in
-> their cloud procurements.
+**Upon Approval of the President and Within a Timeline of 30 Days:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB
+will conduct a data call requesting that agencies identify systems
+that may be ready for cloud migration and can be migrated securely but
+have not yet migrated due to perceived or encountered difficulties. At
+the conclusion of this data call, OMB and GSA will review the
+impediments to moving to the cloud outlined by agencies and will
+prioritize an infusion of technical talent, capital, and updated
+security policy (developed iteratively to solve agency-specific
+issues) as needed to enable prioritized cloud migrations. This task is
+described in more detail in the following section.
+
+**Upon Approval of the President and within a Timeline of 120 Days:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB,
+in coordination with DHS, GSA, and its Federal partners, will update
+the [Federal Cloud Computing Strategy][25-POINT-PLAN] (“Cloud-First”). This
+strategy will provide additional guidance to agencies on the most
+impactful use cases for cloud adoption and how best to conduct
+appropriate operational security in cloud environments. This effort
+will be informed by the OMB-led efforts with the ATC work regarding
+reducing the time and complexity of ATOs, including ATOs specific to
+cloud infrastructure and platforms.
+
+OMB, working with the Federal Acquisition Regulation (FAR) Council,
+GSA, and DHS will develop clauses that define consistent requirements
+for security, privacy, and access to data for use in cloud contracts.
+These clauses will ensure uniformity in contract language and provide
+rigor to standard Government terms, which would be particularly
+valuable to agencies lacking relevant technical, legal, or
+acquisitions expertise to craft, out of whole cloth, such language in
+their cloud procurements.
 
 ### 2.  Accelerate Adoption of Cloud Email and Collaboration Tools
 
@@ -381,93 +380,93 @@ penalized.
 
 Next steps to support the above recommendations are as follows:
 
-> **Upon Approval of the President and within a Timeline of 30 Days:**
->
-> OMB will conduct a data call to agencies regarding their current email
-> contracts, prices, and number of mailboxes. It is imperative that the
-> Government obtain an accurate measurement of the market size of
-> agencies who have not yet migrated to cloud email. While there are
-> clear data on the current need among CFO Act agencies, there is
-> currently no definitive data regarding the adoption of cloud-based
-> email solutions at small and independent agencies. Understanding the
-> full size of the marketplace will enable the Government to maximize
-> its leverage in negotiations with cloud collaboration vendors.
->
-> OMB will convene a task force of agencies to finalize a standard set
-> of requirements for cloud email, including both low and moderate
-> security postures for email and cloud collaboration. These
-> requirements, which will build upon previously completed work, will be
-> circulated to all agencies for comment and serve as the basis for
-> acquisition.
->
-> **Upon Approval of the President and within a Timeline of 45 Days:**
->
-> OMB will issue updated identity policy guidance for public comment
-> that will reduce agency burden and recommend identity service areas
-> suitable for shared services. GSA will provide a business case to the
-> Federal CIO on the consolidation of existing identity services to
-> improve usability and drive secure access and interoperability. This
-> action will enable secure access and collaboration as a service in a
-> way that improves existing agency-specific implementations, which
-> often have various levels of security and do not include
-> interoperability.
->
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> OMB will establish a comprehensive strategy for driving the
-> accelerated migration of agency email and collaboration tools to the
-> cloud for departments and agencies who have still not adopted
-> cloud-based email. This strategy should emphasize achieving both cost
-> savings and improved security.
->
-> **Upon Approval of the President and within a Timeline of 90 Days:**
->
-> OMB will assemble an Acquisition Tiger Team (ATT), which will be
-> charged with drafting and disseminating a “quick start” acquisition
-> package that can help agencies facilitate rapid license and migration
-> service acquisitions. This will make it possible for agencies to award
-> licenses and services that may presently have difficulty doing so. The
-> “quick start” package would include market research, acquisition
-> plans, templates for requesting quotes, identified sources of supply,
-> and Independent Government Cost Estimate calculation templates (based
-> on already completed acquisitions).
->
-> The ATT, working through the appropriate executive agent, will send
-> out Requests for Information (RFIs) or conduct other market research
-> activities to find qualified small business and socio-economic
-> concerns to leverage set aside programs and other authorities to
-> streamline the migration acquisitions to the greatest extent possible.
-> For example, using the 8(a) Digital Service Initiative or vehicles
-> that have resulted from Category Management efforts in this
-> space.[^20]
->
-> **Upon Approval of the President and within a Timeline of 180 Days:**
->
-> The Government should consider incentives for early adoption
-> (migration in the first year following the formalization of the
-> effort), including individualized assistance tailored to a given
-> agency’s needs. To assist in such an effort, OMB will create
-> acquisition/migration cadres, consisting of information technology and
-> acquisition specialists that will be sent to early adopter agencies to
-> help with license and migration acquisitions-related challenges.
-> Initially, these cadres would draw from agencies that have already
-> completed their migrations, such as the Department of the Justice
-> (DOJ) and acquisition experts from the Digital IT Acquisition
-> Professional Training (DITAP) alumni network.
->
-> **Upon Approval of the President and within a Timeline of 240 Days:**
->
-> OMB, with support from GSA, will pilot new acquisition tactics for
-> cloud email and collaboration licenses including but not limited to
-> those discussed above and outlined in Appendix D.
->
-> **Other High-Level Actions:**
->
-> Approved FISMA-Moderate cloud based collaboration tools currently
-> exist. GSA will continue to work with existing cloud email and
-> collaboration providers, and will prioritize approval of a FISMA-High
-> offering. Process improvements will continue iteratively to enable
-> agencies to accelerate adoption of cloud services.
+**Upon Approval of the President and within a Timeline of 30 Days:**
+
+OMB will conduct a data call to agencies regarding their current email
+contracts, prices, and number of mailboxes. It is imperative that the
+Government obtain an accurate measurement of the market size of
+agencies who have not yet migrated to cloud email. While there are
+clear data on the current need among CFO Act agencies, there is
+currently no definitive data regarding the adoption of cloud-based
+email solutions at small and independent agencies. Understanding the
+full size of the marketplace will enable the Government to maximize
+its leverage in negotiations with cloud collaboration vendors.
+
+OMB will convene a task force of agencies to finalize a standard set
+of requirements for cloud email, including both low and moderate
+security postures for email and cloud collaboration. These
+requirements, which will build upon previously completed work, will be
+circulated to all agencies for comment and serve as the basis for
+acquisition.
+
+**Upon Approval of the President and within a Timeline of 45 Days:**
+
+OMB will issue updated identity policy guidance for public comment
+that will reduce agency burden and recommend identity service areas
+suitable for shared services. GSA will provide a business case to the
+Federal CIO on the consolidation of existing identity services to
+improve usability and drive secure access and interoperability. This
+action will enable secure access and collaboration as a service in a
+way that improves existing agency-specific implementations, which
+often have various levels of security and do not include
+interoperability.
+
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+OMB will establish a comprehensive strategy for driving the
+accelerated migration of agency email and collaboration tools to the
+cloud for departments and agencies who have still not adopted
+cloud-based email. This strategy should emphasize achieving both cost
+savings and improved security.
+
+**Upon Approval of the President and within a Timeline of 90 Days:**
+
+OMB will assemble an Acquisition Tiger Team (ATT), which will be
+charged with drafting and disseminating a “quick start” acquisition
+package that can help agencies facilitate rapid license and migration
+service acquisitions. This will make it possible for agencies to award
+licenses and services that may presently have difficulty doing so. The
+“quick start” package would include market research, acquisition
+plans, templates for requesting quotes, identified sources of supply,
+and Independent Government Cost Estimate calculation templates (based
+on already completed acquisitions).
+
+The ATT, working through the appropriate executive agent, will send
+out Requests for Information (RFIs) or conduct other market research
+activities to find qualified small business and socio-economic
+concerns to leverage set aside programs and other authorities to
+streamline the migration acquisitions to the greatest extent possible.
+For example, using the [8(a) Digital Service Initiative][TECHFAR-8A] or vehicles
+that have resulted from Category Management efforts in this
+space.
+
+**Upon Approval of the President and within a Timeline of 180 Days:**
+
+The Government should consider incentives for early adoption
+(migration in the first year following the formalization of the
+effort), including individualized assistance tailored to a given
+agency’s needs. To assist in such an effort, OMB will create
+acquisition/migration cadres, consisting of information technology and
+acquisition specialists that will be sent to early adopter agencies to
+help with license and migration acquisitions-related challenges.
+Initially, these cadres would draw from agencies that have already
+completed their migrations, such as the Department of the Justice
+(DOJ) and acquisition experts from the Digital IT Acquisition
+Professional Training (DITAP) alumni network.
+
+**Upon Approval of the President and within a Timeline of 240 Days:**
+
+OMB, with support from GSA, will pilot new acquisition tactics for
+cloud email and collaboration licenses including but not limited to
+those discussed above and outlined in Appendix D.
+
+**Other High-Level Actions:**
+
+Approved FISMA-Moderate cloud based collaboration tools currently
+exist. GSA will continue to work with existing cloud email and
+collaboration providers, and will prioritize approval of a FISMA-High
+offering. Process improvements will continue iteratively to enable
+agencies to accelerate adoption of cloud services.
 
 ### 3.  Improve Existing and Provide Additional Security Shared Services
 
@@ -486,7 +485,7 @@ realize economies of scale from aggregating data.
 DHS established the CDM Program in 2013 to provide Federal civilian
 agencies with automated continuous monitoring tools to detect
 vulnerabilities and potentially malicious network activity in near
-real-time.[^21]^,^ [^22] CDM Phase 1, which is currently being deployed,
+real-time.[^21][^22] CDM Phase 1, which is currently being deployed,
 is designed to determine “what is on the network” by providing agencies
 with capabilities to identify and remediate vulnerabilities and ensure
 secure hardware and software configurations on their networks. CDM Phase
@@ -529,40 +528,40 @@ modernization and adoption of CDM to identify, detect, and respond to
 threats in the Federal Government’s increasing move to cloud
 environments and mobile devices.
 
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> DHS, in partnership with agencies and GSA, will complete the
-> acquisition strategy for new, long-term task orders to offer CDM
-> lifecycle support to agencies and provide solution development and
-> implementation for Phases 3 and 4 in addition to future work,
-> including cloud security.
->
-> **Upon Approval of the President and within a Timeline of 125 Days:**
->
-> DHS will obtain FedRAMP assistance in developing a DHS ATO package
-> compliant with the FedRAMP process. Upon completion of the
-> authorization process, DHS will begin on-boarding agencies onto the
-> CDM Shared Service Platform (SSP) to provide continuous monitoring as
-> a service capabilities.
->
-> At the end of the 125 days, DHS will update OMB on the current number
-> and status of remaining Memoranda of Agreement it has established with
-> non-CFO Act agencies (above and beyond the current number of 44). DHS
-> will also submit a plan to OMB that details the expectations and
-> timelines for onboarding non-CFO Act agencies to the SSP.
->
-> **Upon Approval of the President and within a Timeline of 150 Days:**
->
-> DHS will complete the data exchanges between the agency- and
-> Federal-level dashboards to provide enterprise-wide situational
-> awareness of an agency’s cyber posture.
->
-> **Upon Approval of the President and within a Timeline of 180 Days:**
->
-> DHS, in partnership with the Federal CIO Council, will implement a
-> concept of operations for the Federal dashboard to include procedures
-> to manage cyber risks across the Federal enterprise, and other factors
-> pertinent to the broader Federal CIO community.
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+DHS, in partnership with agencies and GSA, will complete the
+acquisition strategy for new, long-term task orders to offer CDM
+lifecycle support to agencies and provide solution development and
+implementation for Phases 3 and 4 in addition to future work,
+including cloud security.
+
+**Upon Approval of the President and within a Timeline of 125 Days:**
+
+DHS will obtain FedRAMP assistance in developing a DHS ATO package
+compliant with the FedRAMP process. Upon completion of the
+authorization process, DHS will begin on-boarding agencies onto the
+CDM Shared Service Platform (SSP) to provide continuous monitoring as
+a service capabilities.
+
+At the end of the 125 days, DHS will update OMB on the current number
+and status of remaining Memoranda of Agreement it has established with
+non-CFO Act agencies (above and beyond the current number of 44). DHS
+will also submit a plan to OMB that details the expectations and
+timelines for onboarding non-CFO Act agencies to the SSP.
+
+**Upon Approval of the President and within a Timeline of 150 Days:**
+
+DHS will complete the data exchanges between the agency- and
+Federal-level dashboards to provide enterprise-wide situational
+awareness of an agency’s cyber posture.
+
+**Upon Approval of the President and within a Timeline of 180 Days:**
+
+DHS, in partnership with the Federal CIO Council, will implement a
+concept of operations for the Federal dashboard to include procedures
+to manage cyber risks across the Federal enterprise, and other factors
+pertinent to the broader Federal CIO community.
 
 #### Security Operations Center (SOC) as a Service
 
@@ -605,38 +604,39 @@ Specifically, SOC as a Service capabilities could:
 -   Allow visibility across multiple agency cloud systems to be
     aggregated and managed centrally.
 
-> **Upon Approval of the President and within a Timeline of 60 Days:**
->
-> OMB, in coordination with DHS, will select agencies to provide SOC as
-> a Service offerings for use across the Federal Government. GSA, in
-> coordination with OMB and DHS, will lead contracting efforts to offer
-> commercially provided SOC as a Service for use across the Federal
-> Government.
->
-> **Upon Approval of the President and within a Timeline of 90 Days:**
->
-> Selected agencies will develop a pricing model in alignment with the
-> cloud migration strategy and timeline outlined above.
->
-> **Other High-Level Actions:**
->
-> DHS will work with SOC as a Service providers to ensure that NCPS and
-> CDM capabilities and outcomes can be achieved and that the visibility
-> remains aggregated across cloud and on premise security capabilities.
-> Additionally, selected agencies will create a pilot regarding their
-> SOCaaS capability and identify initial agencies with whom they will
-> collaborate to test access and visibility.
+**Upon Approval of the President and within a Timeline of 60 Days:**
+
+OMB, in coordination with DHS, will select agencies to provide SOC as
+a Service offerings for use across the Federal Government. GSA, in
+coordination with OMB and DHS, will lead contracting efforts to offer
+commercially provided SOC as a Service for use across the Federal
+Government.
+
+**Upon Approval of the President and within a Timeline of 90 Days:**
+
+Selected agencies will develop a pricing model in alignment with the
+cloud migration strategy and timeline outlined above.
+
+**Other High-Level Actions:**
+
+DHS will work with SOC as a Service providers to ensure that NCPS and
+CDM capabilities and outcomes can be achieved and that the visibility
+remains aggregated across cloud and on premise security capabilities.
+Additionally, selected agencies will create a pilot regarding their
+SOCaaS capability and identify initial agencies with whom they will
+collaborate to test access and visibility.
 
 
-[^18]: NIST SP 800-145, *The NIST Definition of Cloud Computing. *
+[^21]: OMB Memorandum M-14-03, [*Enhancing the Security of Federal Information and Information Systems*][M-14-03].
 
-[^19]: “25 Point Implementation Plan to Reform Federal Information
-    Technology Management.” December 2010.
+[^22]: [Coordination of Federal Information Policy – Information Security][44-USC-3553] (44 U.S.C. § 3553(b)(6)).
 
-[^20]: TechFAR Hub, *8(a) Program Digital Service Initiative*.
+[M-14-03]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2014/m-14-03.pdf
 
-[^21]: OMB Memorandum M-14-03, *Enhancing the Security of Federal
-    Information and Information Systems*.
+[SP-800-145]: http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf
 
-[^22]: Coordination of Federal Information Policy – Information Security
-    (44 U.S.C. § 3553(b)(6)).
+[TECHFAR-8A]: https://techfarhub.cio.gov/do-IT/SBA_8a/]
+
+[25-POINT-PLAN]: https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/25-point-implementation-plan-to-reform-federal-it.pdf
+
+[44-USC-3553]: https://www.gpo.gov/fdsys/pkg/USCODE-2014-title44/html/USCODE-2014-title44-chap35-subchapII-sec3553.htm

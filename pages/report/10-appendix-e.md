@@ -10,9 +10,7 @@ permalink: /report/appendices/legal-considerations/
 
 ## Introduction
 
-Executive Order 13800, *Strengthening the Cybersecurity of Federal
-Networks and Critical Infrastructure* requires this report to “describe
-the legal . . . considerations . . . relevant to . . .” transitioning
+Executive Order 13800, [*Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure*][EO13800] requires this report to “describe the legal...considerations...relevant to...” transitioning
 agencies to consolidated network infrastructures or shared services.
 Exec. Order No. 13,800, 82 FR 22391, § 1(c)(vi)(B)(2) (May 11, 2017).
 This appendix, along with the report itself, does so. The report
@@ -168,3 +166,5 @@ the circumstances and agencies affected, but may include:
 
     \(C) availability, which means ensuring timely and reliable access to and
     use of information.
+
+[EO13800]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
