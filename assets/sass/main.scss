@@ -9,6 +9,10 @@ $image-path: '../vendor/uswds/img';
   Begin site customizations.
 ****************************************/
 
+.usa-footer-return-to-top {
+  padding-left: 0;
+}
+
 .site-header-navbar {
   border-bottom: none;
 
