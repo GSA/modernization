@@ -733,10 +733,7 @@ investments and management throughout the procurement process.
     Appropriations Act of 2016*][APPROPS-2016] (Pub. L. No. 114-113, 129 Stat. 2242,
     Division N, Title II, Subtitle B).
 
-[^12]: DHS Office of the Inspector General. [*Implementation Status of EINSTEIN 3 Accelerated.*][DHS-OIG-EINSTEIN] March 2014.\
-    U.S. Government Accountability Office (GAO) Report 16-294, *DHS
-    Needs to Enhance Capabilities, Improve Planning, and Support Greater
-    Adoption of its NCPS*. January 2016.
+[^12]: DHS Office of the Inspector General. [*Implementation Status of EINSTEIN 3 Accelerated.*][DHS-OIG-EINSTEIN] March 2014. U.S. Government Accountability Office (GAO) Report 16-294, *DHS Needs to Enhance Capabilities, Improve Planning, and Support Greater Adoption of its NCPS*. January 2016.
 
 [^13]: This approach was originally piloted by the FedRAMP Tailored
     baseline, which was designed to increase FedRAMP’s flexibility to
