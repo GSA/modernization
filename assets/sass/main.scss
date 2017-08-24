@@ -168,11 +168,12 @@ $image-path: '../vendor/uswds/img';
   @include media($nav-width) {
     display: block;
     float: left;
+    height: 100vh;
     margin-bottom: 525px;
     margin-top: 0px;
     padding-right: 1rem;
     padding-left: 3rem;
-    overflow-y: auto;
+    overflow: auto;
     top: 0rem;
     width: $width-nav-sidebar;
   }
@@ -207,13 +208,14 @@ $image-path: '../vendor/uswds/img';
   padding-right: 3rem;
   padding-left: 3rem;
 
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 
-  p {
+  p, li {
     line-height: 1.7;
-    max-width: 65rem !important;
-    margin-bottom: 5px;
-    margin-bottom: 1.5em;
+  }
+
+  p, h1, h2, h3, h4, h5, h6, ul, ol {
+    max-width: 66ch !important;
   }
 
   @include media($nav-width) {
@@ -243,8 +245,8 @@ $image-path: '../vendor/uswds/img';
     margin-bottom: 0.5em
   }
 
-  h1, h2, h3 {
-    color: #1072bd;
+  h2 {
+    color: $color-primary-darker;
   }
 }
 
