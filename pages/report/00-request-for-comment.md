@@ -13,15 +13,15 @@ In particular, the ATC/signatory agencies are interested in responses to the fol
 
 **Key questions include:**
 
-1. What are major attributes that are missing from the targeted vision? ([Appendix A]({{ site.baseurl}}/report/appendices/data-level-protections/), [Appendix B](/report/appendices/cloud-security-protections/))
+1. What are major attributes that are missing from the targeted vision? ([Appendix A]({{ site.baseurl }}/report/appendices/data-level-protections/), [Appendix B]({{ site.baseurl }}/report/appendices/cloud-security-protections/))
 
-2. What are major attributes that should not be included in the targeted vision? ([Appendix A]({{ site.baseurl}}/report/appendices/data-level-protections/), [Appendix B](/report/appendices/cloud-security-protections/))
+2. What are major attributes that should not be included in the targeted vision? ([Appendix A]({{ site.baseurl }}/report/appendices/data-level-protections/), [Appendix B]({{ site.baseurl }}/report/appendices/cloud-security-protections/))
 
-3. Are there any missing or extraneous tasks in [the plan for implementing network modernization & consolidation]({{ site.baseurl}}/report/network-modernization/)?
+3. Are there any missing or extraneous tasks in [the plan for implementing network modernization & consolidation]({{ site.baseurl }}/report/network-modernization/)?
 
-4. Are there any missing or extraneous tasks in [the plan for implementing shared services to enable future network architectures]({{ site.baseurl}}/report/shared-services/)?
+4. Are there any missing or extraneous tasks in [the plan for implementing shared services to enable future network architectures]({{ site.baseurl }}/report/shared-services/)?
 
-5. What is the feasibility of the [proposed acquisition pilot](/report/appendices/acquisition-pilot/)?
+5. What is the feasibility of the [proposed acquisition pilot]({{ site.baseurl }}/report/appendices/acquisition-pilot/)?
 
 Comments should be submitted via [this web form]({{ site.repo }}/issues/new){:target="_blank"} (GitHub account required) or sent to: [it_mod@ostp.eop.gov](mailto:it_mod@ostp.eop.gov).
 
