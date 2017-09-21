@@ -5,6 +5,8 @@ title: Request for Comment
 permalink: /
 ---
 
+**The comment period is closed.** All submitted comments during this period will be [**publicly posted here**]({{ site.repo }}/issues){:target="_blank"}.
+
 [Executive Order (EO) 13,800][1] tasks the Director of the American Technology Council (ATC) to coordinate a report to the President from the Secretary of the Department of Homeland Security (DHS), the Director of the Office of Management and Budget (OMB), and the Administrator of the General Services Administration (GSA), in consultation with the Secretary of Commerce (Commerce), regarding the modernization of Federal Information Technology (IT). In accordance with EO 13,800 the IT Modernization report was drafted and submitted to the President.
 
 The ATC and signatory agencies seek to gather feedback from industry and any other relevant stakeholders on the targeted vision and proposed implementation plan for Federal IT Modernization outlined in the draft report. The information received will be grouped into high level themes under the key input areas listed below.  These themes will be provided to the signatory agencies for consideration of potential changes in the vision and implementation plan. The agencies are not requesting or accepting offers at this time. Information received in response to this notice will not be evaluated or considered as an offer.
@@ -23,8 +25,6 @@ In particular, the ATC/signatory agencies are interested in responses to the fol
 
 5. What is the feasibility of the [proposed acquisition pilot]({{ site.baseurl }}/report/appendices/acquisition-pilot/)?
 
-Comments should be submitted via **[this web form]({{ site.repo }}/issues/new){:target="_blank"}** (GitHub account required) or sent to: **[itmodernization@cio.gov](mailto:itmodernization@cio.gov)**.
-
-Relevant comments received may be publically posted [to this repository]({{ site.repo }}/issues){:target="_blank"} (along with any included names or affiliations), and comments will be accepted until **20 September 2017**.
+**The comment period is closed.** All submitted comments during this period will be [**publicly posted here**]({{ site.repo }}/issues){:target="_blank"}.
 
 [1]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
