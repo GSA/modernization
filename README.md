@@ -1,6 +1,6 @@
 # Report to the President on IT Modernization
 
-**The comment period is closed.** All submitted comments during this period will be [**publicly posted here**](https://github.com/GSA/modernization/issues){:target="_blank"}.
+**The comment period is closed.** All submitted comments during this period will be <a href="https://github.com/GSA/modernization/issues" target="_blank">**publicly posted here**</a>.
 
 [Executive Order (EO) 13,800](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal) tasks the Director of the American Technology Council (ATC) to coordinate a report to the President from the Secretary of the Department of Homeland Security (DHS), the Director of the Office of Management and Budget (OMB), and the Administrator of the General Services Administration (GSA), in consultation with the Secretary of Commerce (Commerce), regarding the modernization of Federal Information Technology (IT). In accordance with EO 13,800 the IT Modernization report was drafted and submitted to the President.
 
