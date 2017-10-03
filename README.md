@@ -20,7 +20,7 @@ In particular, the ATC/signatory agencies are interested in responses to the fol
 
 5. What is the feasibility of the [proposed acquisition pilot](https://itmodernization.cio.gov/report/appendices/acquisition-pilot/)?
 
-**The comment period is closed.** All submitted comments during this period will be [**publicly posted here**](https://github.com/GSA/modernization/issues){:target="_blank"}.
+**The comment period is closed.** All submitted comments during this period will be <a href="https://github.com/GSA/modernization/issues" target="_blank">**publicly posted here**</a>.
 
 
 ## Development of the report website itself
