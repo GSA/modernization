@@ -1,880 +1,3 @@
-**Preface**
-
-The United States is unparalleled in its commitment to protecting
-Americans’ liberties and freedoms and is unmatched in its national
-security infrastructure. Hardworking Americans have built the world’s
-largest economy and solved some of the world’s greatest challenges
-through innovations in science and technology. It is imperative for the
-Federal Government to leverage these innovations to provide better
-service for its citizens in the most cost-effective and secure manner.
-This Administration has prioritized modernization of Federal information
-technology (IT) systems, and to that end, has committed to help agencies
-better leverage American innovations through increased use of commercial
-technology.
-
-As a demonstration of this commitment, on May 1, 2017, the President
-established the American Technology Council (ATC) to effectuate the
-secure and efficient use of IT across the Federal Government.[^1] Just
-days later, on May 11, 2017, the President signed Executive Order (EO)
-13800, *Strengthening the Cybersecurity of Federal Networks and Critical
-Infrastructure*.[^2] The latter EO tasks the Director of ATC to
-coordinate a report to the President from the Secretary of the
-Department of Homeland Security (DHS), the Director of the Office of
-Management and Budget (OMB), and the Administrator of the General
-Services Administration (GSA), in consultation with the Secretary of
-Commerce (Commerce), regarding the modernization of Federal IT.
-
-Acknowledging that Federal agencies are still working, and must continue
-to work, to meet the objectives of other critical modernization
-initiatives – for instance, by automating their manual processes,
-implementing new and diverse testing and scanning options, deploying
-patches both responsively and preventatively, and by transitioning away
-from unsupported software – this report outlines the current and
-envisioned state of Federal IT, and it provides specific recommendations
-to jumpstart a new wave of modernization efforts.
-
-This report is focused on modernization efforts to improve the security
-posture of Federal IT. Though this covers a significant footprint of
-modernization needs, the public comment period generated responses from
-industry that highlighted the importance of providing an overarching IT
-modernization plan, which aligns these efforts with ongoing work to
-improve citizen-facing services, make better use of mobile technologies,
-improving security across the Federal enterprise, and other key efforts.
-In response to this, the American Technology Council will provide this
-amplifying context following publication of this final report.
-
-The enclosed plan incorporates the efforts of key Government
-stakeholders in identifying ways for the Government to enhance its
-cybersecurity posture, modernize the Federal IT enterprise, and create a
-more robust partnership between Government and industry. Additionally,
-the ATC has convened top private and public sector leaders to elicit and
-incorporate input on the vision for the future of Federal IT, and it
-intends to seek further input to ensure successful implementation of
-modernization recommendations.
-
-**Executive Summary**
-=====================
-
-This report outlines a vision and recommendations
-for the Federal Government to build a more modern and secure
-architecture for Federal IT systems.[^3] Agencies have attempted to
-modernize their systems but have been stymied by a variety of factors,
-including resource prioritization, ability to procure services quickly,
-and technical issues. Recommendations to address the aforementioned
-issues are grouped into two categories of effort: the modernization and
-consolidation of networks and the use of shared services to enable
-future network architectures. In addition to specific recommendations,
-this report outlines an agile process for updating policies and
-reference architectures to help the Government more rapidly leverage
-American innovation.
-
-**Network Modernization and Consolidation.** This report envisions a
-modern Federal IT architecture where agencies are able to maximize
-secure use of cloud computing, modernize Government-hosted applications,
-and securely maintain legacy systems. Specific actions in this report
-focus on the first two areas, where securely maintaining legacy systems
-is addressed in other areas of EO 13800. These actions enable agencies
-to move from protection of their network perimeters and managing legacy
-physical deployments toward protection of Federal data and
-cloud-optimized deployments. The report also emphasizes a risk-based
-approach that focuses agency resources on their highest value assets,
-per OMB’s authorities provided by the Federal Information Security
-Modernization Act of 2014 (FISMA) [^4] and OMB Memorandum M-17-25,
-*Reporting Guidance for Executive Order on Strengthening the
-Cybersecurity of Federal Networks and Critical Infrastructure*. The
-report addresses current impediments or obstacles to adopting modernized
-cloud technologies by piloting new implementation approaches, and using
-these test cases to inform rapid policy updates. The report also focuses
-on consolidating and improving acquisition of network services so that
-management of security services for networks are consolidated where
-possible and managed to high standards. Specific actions include:
-
-1.  **Prioritize the Modernization of High-Risk High Value Assets
-    (HVAs).** Prioritize modernization of legacy IT by focusing on
-    enhancement of security and privacy controls for those assets that
-    are essential for Federal agencies to serve the American people and
-    whose security posture is most vulnerable.
-
-2.  **Modernize the Trusted Internet Connections (TIC) and National
-    Cybersecurity Protection System (NCPS) Program to Enable Cloud
-    Migration.** Use real world implementation test cases to identify
-    solutions to current barriers regarding agency cloud adoption.
-    Update relevant network security policies and architectures to
-    enable agencies to focus on both network and data-level security and
-    privacy, while ensuring incident detection and prevention
-    capabilities are modernized to address the latest threats.
-
-3.  **Consolidate Network Acquisitions and Management.** Consolidate and
-    standardize network and security service acquisition to take full
-    advantage of economies of scale, while minimizing duplicative
-    investments in existing security capabilities.
-
-**Shared Services to Enable Future Network Architectures.** The
-following section of this report lays out an approach to enable, with
-ongoing Government-wide category management efforts, the Federal
-Government to shift toward a consolidated IT model by adopting
-centralized offerings for commodity IT. The recommendations detail steps
-to address current impediments in policy, resource allocation, and
-agency prioritization to enabling the use of cloud, collaboration tools,
-and other security shared services. For the purposes of this Report and
-its implementation, shared services is the provision of consolidated
-capabilities or functions (services and/or IT systems) that are common
-across multiple agencies. Shared Services can enable agency efficiency
-by reducing duplication and costs through consistent delivery of
-standardized capabilities or functions in ways that make the most of
-innovative processes and commercial solutions. Specific actions include:
-
-1.  **Enable use of Commercial Cloud.** Improve contract vehicles to
-    enable agencies to acquire commercial cloud products that meet
-    Government standards.
-
-2.  **Accelerate Adoption of Cloud Email and Collaboration Tools.**
-    Provide support for migration to cloud email and collaboration
-    suites that leverage the Government's buying power. Define the next
-    set of agencies to migrate to commercial email and collaboration
-    suites.
-
-3.  **Improve Existing and Provide Additional Security Shared
-    Services.** Provide consolidated capabilities that replace or
-    augment existing agency-specific technology to improve both
-    visibility and security.
-
-**Resourcing Federal Network IT Modernization.** In order to implement
-the Federal IT modernization efforts outlined in this report, agencies
-will need to realign their IT resources appropriately using
-business-focused, data-driven analysis and technical evaluation. OMB
-will inform agencies that agency Chief Information Officers (CIOs) work
-with their Chief Financial Officers (CFOs) and Senior Agency Officials
-for Privacy (SAOPs), in consultation with OMB, to determine which of
-their systems will be prioritized for modernization, identifying
-strategies to reallocate resources appropriately. In accordance with the
-terms of agency contracts and consistent with law, agencies should
-consider evaluating ongoing and planned acquisitions that further
-develop or enhance legacy IT systems identified that need modernization
-to ensure consistency with broader IT strategies outlined in this
-report. Agencies should also emphasize reprioritizing funds and should
-consider "cut and invest" strategies that reallocate funding from
-obsolete legacy IT systems to modern technologies, cloud solutions, and
-shared services, using agile development practices and the best
-practices within GSA’s Unified Shared Services’ Modernization and
-Migration Management Framework,[^5] where appropriate.
-
-Taken together, these recommendations will modernize the security and
-functionality of Federal IT, allow the Federal Government to improve
-service delivery, and focus effort and resources on what is most
-important to customers of Government services.
-
-**Network Modernization & Consolidation**
-=========================================
-
-Summary of Efforts to Date
---------------------------
-
-The Federal Government has engaged in several efforts to modernize
-existing IT systems, to improve processes for the acquisition and
-development of new solutions, and to restructure underlying frameworks
-for service and lifecycle management. The *E-Government Act of 2002*
-recognized the importance of a well-managed, modern, and secure Federal
-IT ecosystem, building upon concepts captured in the Clinger-Cohen Act,
-the *Paperwork Reduction Act*, and OMB Circular A-130, *Managing
-Information as a Strategic Resource*.[^6] Additionally, the *Federal
-Information Security Management Act of 2002* and, subsequently, *the
-Federal Information Security Modernization Act of 2014,* serve as the
-governing authority for OMB to provide overall guidance and policy for
-Government-wide Federal cybersecurity.
-
-Pursuant to these authorities, OMB established the IT Infrastructure
-Optimization Line of Business, which developed common Government-wide
-performance measures for service levels and costs, identified best
-practices, and provided guidance for agency IT infrastructure transition
-plans. An Enterprise Architecture and Centralizing Infrastructure was
-constructed some years later, and in 2010, the Federal Data Center
-Consolidation Initiative (FDCCI) directed agencies to inventory their
-data centers, develop consolidation plans, and assess virtual or cloud
-alternatives.[^7]
-
-Between the launch of the FDCCI and its conclusion in 2015, the Cloud
-First Initiative and the Federal Risk and Authorization Management
-Program (FedRAMP) were activated in 2011, with FedRAMP providing a
-standardized approach to security assessment, authorization, and
-continuous monitoring for cloud products and services. Driven by the
-momentum of these and other efforts, in 2016 the Data Center
-Optimization Initiative arose as an update to the FDCCI based on
-requirements of the *Federal IT Acquisition Reform Act* (FITARA).[^8]
-These efforts have helped agencies to begin modernizing their IT and
-this Report is intended to help resolve some of the impediments surfaced
-throughout implementation of those efforts and further accelerate
-Federal IT modernization.
-
-Transitioning to consolidated network architectures and shared services
-requires consideration of how these products or services will be
-acquired. Current challenges associated with use of commercial
-acquisition practices limit the Federal Government’s ability to achieve
-the modernization goals.
-
-There are statutory and regulatory requirements that prevent the use of
-accepted commercial best acquisition practices. Changes and
-modifications to the existing acquisition requirements could be
-implemented to achieve efficiencies while maintaining the core tenet of
-fairness.
-
-Current State
--------------
-
-In recent years, Government-wide initiatives and policies have focused
-on the transition to a more efficient, more secure, and customer-focused
-IT environment. The preponderance of efforts to protect Federal IT
-systems to date have been focused at the network level. This drove
-agencies to consolidate human and technical resources around a limited
-number of connections and standardized physical access points, with the
-intent of producing more robust security management.
-
-Current policy, agency prioritization, and associated investments
-prioritized through the budget process have emphasized perimeter
-network-based security protections. This is manifested most visibly
-through the Trusted Internet Connections (TIC) and National
-Cybersecurity Protection System (NCPS) programs.[^9] This report
-recommends emphasizing a layered defensive strategy in Government-wide
-programs, through increasing emphasis on application and data-level
-protections. This shift in focus, coupled with lessons learned from the
-current implementation and advances in technology will drive strategic
-changes to the NCPS program, as described in Appendix C. It will also
-provide greater defense-in-depth capabilities that will help prevent
-malicious actors from moving laterally across linked networks to access
-large amounts of valuable information.
-
-These well-intentioned initiatives have resulted in security
-implementations that negatively affect performance and create barriers
-to use of commercial technology. As an example, policy and existing
-implementation of enterprise cybersecurity tools drives the physical
-consolidation of all network traffic to and from Federal information
-systems. This hampers agencies’ ability to acquire new technologies like
-commercial cloud, which rely on a distributed network model and
-emphasize optimization of virtual rather than physical controls of data.
-In this case, policies and supporting capabilities which require routing
-all traffic through a limited number of on premise access points not
-only impacts service performance and availability, but it also
-undermines the value proposition of a distributed cloud architecture and
-flexible mobile access to services.
-
-Consequently, in order to successfully meet their mission and business
-objectives, agencies often circumvent network-based security protections
-to use commercial cloud. Another negative consequence of overreliance on
-network-based protections is the emergence of operational capability
-gaps at other levels, such as the data and application levels. This has
-resulted in overlooked areas of the IT ecosystem, which are more
-vulnerable and at higher risk of attack or exploit.
-
-Additionally, when individual agencies issue
-agency-specific IT contracts, they reinforce the current emphasis on
-boundary protections and limit opportunities for applying economies of
-scale in provisioning common network and security services for the
-Federal Government. Small agencies, especially, often lack staff
-resources and technical expertise to securely manage existing networks,
-migrate to new computing models, and navigate security acquisition
-processes. Enabling a new approach to modernization and consolidation of
-networks requires a strategy that addresses each of these challenges
-with associated recommendations for legal, policy, resource allocation,
-acquisition, and workforce interventions, as detailed further below.
-
-Future State & Objectives
--------------------------
-
-The future of Federal IT is one in which agencies move further toward a
-risk-based approach to securing their systems that places appropriate
-emphasis on data-level protections and that fully leverages modern
-virtualized technologies. This renewed focus on data-level protections
-for managing risk must be accepted and driven by agency leadership,
-mission owners, IT practitioners, and oversight bodies. Specific
-recommendations that will bridge to this future state are detailed in
-the next section, titled “Implementation Plan.” The following broad
-objectives will drive momentum toward the future state of IT:
-
-Reduce the Federal attack surface through enhanced application and
-data-level protections.
-
-Rather than treating Federal networks as trusted entities to be defended
-at the perimeter, agencies should shift their focus to placing
-protections closer to data, specifically through improved management and
-authentication of devices and user access, as well as through encryption
-of data – both at rest and in transit. This approach curtails an
-attacker’s likelihood of gaining access to valuable data solely by
-accessing the network, and it has the potential to better block and
-isolate malicious activity. As agencies prioritize their modernization
-efforts, they should implement the capabilities that underpin this model
-to their high value assets first.
-
-Improve visibility beyond the network level.
-
-Agencies will gain greater visibility and resilience against more
-sophisticated attacks, including insider threats that may have access to
-agency-owned networks by enhancing protections closer to the data.
-Expanding visibility beyond the network level – for instance, through
-collecting security logs at the application level or establishing a
-vulnerability disclosure policy and placing systems or applications
-under a bug bounty program – provides security teams with other
-information feeds, which they can use to better understand, process, and
-triage information security events and possible incidents. This
-information can provide insight into the gaps in security that agencies
-are experiencing, which informs the types of investments they should
-make to defend against modern threats. Maximizing the effectiveness of
-this approach requires updating tools and models by which staff conduct
-operational security to detect and prevent intrusions. It also requires
-risk-proportionate application of security practices and maintenance of
-situational awareness, particularly in scenarios in which Federal
-information resides in an off-premises environment, such as in
-commercially-provided clouds. Government-wide programs designed to
-deliver these tools and services must evolve, as must the operational
-culture by which agencies collect and analyze logs and interact with the
-security research community.
-
-Ensure that policy, resource allocation, acquisition, and operational
-approaches to security enable use of new technology without sacrificing
-reliability or performance.
-
-Information technology policy, resource allocations, acquisition
-processes, and operational guidance must enable the achievement of
-security objectives while also allowing agencies to take advantage of
-newer approaches to technology, such as commercial cloud-based services
-and mobile devices. Agencies should prioritize the IT resources and
-technical personnel they need to implement necessary data protections
-and provide situational awareness in their daily operations, whether
-information is stored on premises or in a commercial cloud. While some
-successes have occurred in the Federal Government, many real or
-perceived impediments remain to accelerating network consolidation and
-optimization on a Government-wide scale. The recommendations in this
-report collectively address and seek to remedy impediments to
-modernizing Federal IT. Addressing these barriers will enable agencies
-to accelerate toward a new era of modernization without sacrificing
-security or performance.
-
-Implementation Plan
--------------------
-
-This section outlines immediate next steps and long-term considerations
-related to the modernization of Federal networks. The focus areas below
-accelerate Federal efforts on three core concepts: (1) prioritizing high
-value assets; (2) adopting security frameworks that better protect
-systems at the data level; and (3) consolidating and standardizing
-network acquisitions and management wherever possible.
-
-
-1.  Prioritize the Modernization of High-Risk High Value Assets (HVAs)
-
-The HVA Initiative, which began in 2015, was a seminal step in helping
-the Federal Government recognize, categorize, and prioritize
-modernization and security improvements for the primary benefit of its
-“crown jewel” systems.[^10] The implementation plan outlined below goes
-a step further by recommending specific policy, resource allocation, and
-other interventions to provide near-term assistance to agencies as they
-strengthen their ability to protect these assets, which are susceptible
-to the greatest amount of cybersecurity risk. It leverages the current
-ATC supported efforts to improve the Authority to Operate (ATO) process,
-and it corresponds with the direction set forth in Section 1 of EO
-13800, which mandates that all agencies perform a risk assessment and
-identify areas in which additional attention is needed. This is
-consistent with agency responsibilities under FISMA.
-
-Simply applying the next set of patches to these systems and tacking on
-additional tools is no longer sufficient; rather, HVAs must be driven
-toward implementation of modern architectures that are based on
-data-level protections. Systems that are most important to the Federal
-Government, yet are also most vulnerable, should be addressed first.
-
-Next steps to support this recommendation are as follows:
-
-> **Immediate Action:**
->
-> It is recommended that the President direct the implementation of the
-> plan outlined below to improve the security of high-risk HVAs by
-> migrating to a modernized architecture and employing security best
-> practices.
->
-> **Within 30 days of the date of issuance of this final report:**
->
-> Consistent with relevant portions of the enterprise risk management
-> plan to be developed pursuant to Section 1(c)(iv) of EO 13800,
-> Commerce’s National Institute of Standards and Technology (NIST) will
-> provide OMB with a plan to promote a risk management culture that
-> focuses agency effort on the operational performance and compliance of
-> their most valuable systems, while simultaneously allowing for the
-> deployment of low-impact systems in a less burdensome and less costly
-> manner. This plan will include a process and timeline for revising
-> Federal Information Processing Standard (FIPS) Publication 199,
-> *Standards for Security Categorization of Federal Information and
-> Information Systems*, and FIPS Publication 200, *Minimum Security
-> Requirements for Federal Information and Information Systems*. The
-> plan should also include proposed updates to any other relevant NIST
-> Special Publications (SPs) to enable and support improvements in
-> agency risk management processes that lead to the appropriate
-> selection, implementation, and continuous monitoring of controls and
-> capabilities commensurate with the risk to information, systems,
-> agency missions, and individuals. These updates should include the use
-> of the NIST Framework for Improving Critical Infrastructure
-> Cybersecurity (Cybersecurity Framework), and, where appropriate,
-> incorporate lessons from other control and compliance frameworks, such
-> as ISO, SOC 2 Compliance Audits, and Payment Card Industry. These
-> updates should review the security requirements for these other
-> frameworks and system approval processes used, and assess the use of
-> overlays of these frameworks as a viable approach and intended for
-> inclusion into the proposed updates of the relevant Special
-> Publications.
->
-> **Within 60 days of the date of issuance of this final report:**
->
-> Consistent with Section 1(c)(iv)(B) of EO 13800, DHS, in consultation
-> with OMB, will provide a report which identifies common areas of
-> weakness in Government HVAs. The report will include recommendations
-> for addressing these risks Government-wide, informed by agency risk
-> assessments, as well as past and current Risk Vulnerability
-> Assessments (RVAs), and Security Architecture Reviews (SARs) DHS has
-> performed on various agency HVAs.
->
-> NIST will provide OMB with a plan to improve cryptographic agility in
-> the Federal enterprise. This plan will include a process and timeline
-> for revising FIPS Publication 140-2, *Security Requirements for
-> Cryptographic Modules*, as well as plans for future cryptographic
-> transitions. The plan will describe how the Federal Government can
-> maintain strong standards for the cryptographic hardware and software
-> modules it uses, while ensuring that associated processes help the
-> Federal Government make rapid use of new cryptographic primitives and
-> advances.
->
-> **Within 90 days of the date of issuance of this final report:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will update the annual FISMA metrics as well as the Cybersecurity
-> Cross-Agency Priority (CAP) Goal metrics to focus on those critical
-> capabilities that are most commonly lacking among agencies. OMB will
-> focus oversight efforts, including CyberStat Reviews and President’s
-> Management Council (PMC) Cybersecurity Assessments, on driving
-> progress on these capabilities, with a specific focus on HVAs.
->
-> DHS, in consultation with OMB, will work with agencies, including by
-> issuing direction when appropriate, to support mitigation actions to
-> address common areas of risk identified in the Report to the President
-> on Risk Management in accordance with their authorities.
->
-> **Within 120 days of the date of issuance of this final report:\
-> **Consistent with Section 1(c)(iv)(B) of EO 13800 and in execution of
-> their independent statutory authorities, OMB and DHS, will develop a
-> strategy for an approach that clearly describes the lines of authority
-> and operating procedures necessary. This strategy will optimally
-> realign resources across agencies to reduce the risk to HVAs across
-> the Federal enterprise and respond to cybersecurity incidents for
-> those assets. These efforts should align with the recommendations
-> identified in the plan to adequately protect the executive branch
-> enterprise in response to agency risk management reports, per Section
-> (1)(c)(iv) of EO 13800.
->
-> **Within 150 days of the date of issuance of this final report:**
->
-> CIOs, Chief Information Security Officers (CISOs), and SAOPs will
-> review their latest submission of HVAs to DHS and OMB, and will make
-> any necessary changes to reflect the latest information on system
-> prioritization in tandem with the assessments made under their risk
-> assessments as part of Section 1 of Executive Order 13800.
->
-> **Within 180 days of the date of issuance of this final report:**
->
-> DHS, OMB, and the National Security Council (NSC) will review HVA
-> lists submitted to DHS by Federal agencies and will produce a
-> prioritized list of systems for Government-wide intervention. Six HVAs
-> will be selected to receive centralized interventions in staffing and
-> technical support, and the broader, prioritized list will be vetted by
-> the PMC. Additionally, agencies will work with OMB to reallocate their
-> IT resources appropriately in order to align and adequately resource
-> the modernization of HVAs.
->
-> Consistent with the current HVA Program that is administered by DHS
-> and overseen by OMB, any agency that has an HVA that has been
-> identified as having a major or critical weakness in either a risk
-> assessment, RVA, SAR, or an agency-sponsored review will identify a
-> remediation plan. Where the corrective action for a critical weakness
-> for an HVA can be attributed to obsolete or unsupported technology, or
-> critical deficiencies in the solution architecture, the remediation
-> plan shall include a proposal for accelerating modernization within
-> one year and identification of impediments in policy, resource
-> allocation, workforce, or operations. This plan should maximize use of
-> shared IT services, implement application and data-level protections,
-> and emphasize appropriate use of FedRAMP authorized cloud-based
-> architectures. Specific recommendations for modern security approaches
-> are described in Appendix A. Agencies should prioritize existing
-> financial and human resources and should identify other systems of
-> concern that may suffer from similar issues, but that are not
-> categorized as HVAs.
->
-> Where possible and subject to funding, OMB, through the U.S. Digital
-> Service (USDS), and GSA will support DHS in providing hands-on
-> technical assistance to agencies in bolstering protections for systems
-> identified through this process as having the greatest need for
-> modernization.
->
-> Additionally, DHS will work to expand the availability of RVAs and
-> SARs for agency HVAs. OMB will also work with DHS to refocus these
-> assessments to concentrate on hands-on technical engineering
-> interventions, de-emphasizing the review of system documentation and
-> policies. In addition, OMB and DHS will work with GSA to expand the
-> visibility, offerings, and agency use of the Highly Adaptive
-> Cybersecurity Services Special Item Numbers (HACS SINs) on IT Schedule
-> 70.
->
-> **Within 365 days of the date of issuance of this final report:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will work with DHS, GSA, and other stakeholders to capture standard
-> operating procedures for the protection of HVAs and will develop a
-> playbook that agencies can leverage to expand this approach to other
-> systems in a prioritized, risk-based fashion in accordance with FISMA.
-
-### Modernize the Trusted Internet Connections (TIC) and National Cybersecurity Protection System (NCPS) to Improve Protections, Remove Barriers, and Enable Commercial Cloud Migration.
-
-The perimeter-based security model employed by Federal agencies today,
-formalized in OMB Memorandum M-08-05, *Implementation of Trusted
-Internet Connections (TIC)*, focuses on standardizing security at the
-network boundary by consolidating external access points. Under this
-model, agencies are required to reduce external connections to a target
-of 50 and route their traffic through this limited number of secure
-gateways. These gateways apply common security protections, as well as
-common intrusion detection, information sharing, and prevention
-capabilities under DHS’s NCPS. NCPS consists of three sensor
-capabilities, collectively referred to as EINSTEIN, as well as a set of
-analytic tools used by cyber analysts to find, identify and categorize
-cyber threat activity.[^11]
-
-The NCPS sensor suite is deployed in three iterations: EINSTEIN 1, which
-captures and analyzes network flow information; EINSTEIN 2, which
-incorporates intrusion detection technology that scans the content of
-network communications to identify and alert users to known indications
-of malicious activity; and EINSTEIN 3-Accelerated (E3A), which detects
-and blocks malicious activity through domain name systems (DNS)
-sinkholing and email filtering. The TIC policy, and subsequently the
-*Federal Cybersecurity Enhancement Act of 2015*, requires agencies to
-utilize these capabilities, which are currently provided through NCPS,
-to protect all information traveling between an agency information
-system and any external information system.[^12] This perimeter-based
-model sought to provide a means to aggregate all Federal Executive
-Branch traffic so that the Government can apply common methods, such as
-classified indicators, to protect against information security threats
-and maintain consistent situational awareness.
-
-This approach of perimeter-based network security has created several
-challenges for agencies wishing to take advantage of commercial cloud
-services.[^13] DHS recognizes these challenges, and has articulated
-initial steps toward addressing these specific challenges in Appendix C
-of this report. DHS will provide recommendations on how the NCPS and
-Continuous Diagnostics and Mitigation (CDM) programs can be updated to
-enable a layered security architecture that facilitates transition to
-modern computing in the commercial cloud.
-
-Next steps to support this recommendation are as follows:
-
-> **Immediate Action:**
->
-> It is recommended that the President direct the implementation of the
-> plan outlined below to accelerate secure use of commercial cloud
-> through the modernization of the NCPS Program and TIC capabilities,
-> policies, reference architectures, and associated cloud security
-> authorization baselines. This effort will support the prioritization
-> of security resources from lower-value assets to higher-value assets,
-> enabling agencies to build out data-level protections in furtherance
-> of a layered security architecture, and directly accelerating
-> commercial cloud adoption. This effort will be driven by agency use
-> cases, which will also be used to inform rapid updates to policy. This
-> modernization effort will prioritize work to focus on cloud-ready
-> projects and target agencies struggling to comply with the TIC policy
-> and cloud adoption efforts to provide more immediate relief. The goal
-> is to accelerate migration on three cloud-ready systems within the
-> next year. OMB will codify this plan in an update to TIC policy, to
-> provide agencies clear direction on the path forward. The entire
-> process described below will be overseen directly by the ATC,
-> including weekly status updates to the Director of the ATC regarding
-> progress.
->
-> **Within 30 days of the date of issuance of this final report:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will submit a data call to agencies requesting submission of both
-> in-progress and pending projects for cloud migration. Agencies should
-> focus submissions on projects that have experienced delays due to
-> constraints in current TIC policy and NCPS program implementation, and
-> should propose a migration plan that highlights needed changes to
-> requisite policies and capabilities to facilitate faster migration.
->
-> **Within 60 days of the date of issuance of this final report:**
->
-> The ATC, supported by GSA, will include the FedRAMP project management
-> office (PMO) and the Technology Transformation Service (TTS), DHS, OMB
-> to include USDS, NSC, and other relevant parties will review these
-> submissions and bucket them into three categories:
-
-1.  Systems that are sufficiently low risk to migrate to cloud
-    immediately. These systems will be migrated to the cloud, and
-    lessons learned will be captured and used to pilot further changes
-    to existing policy. These systems will also be the focus of
-    additional updates to the FedRAMP baselines to explore further
-    tailoring of controls for low-risk systems.[^14]
-
-2.  Systems that are high-priority cloud migration candidates but
-    present a level of risk significant enough that external assistance
-    is necessary to ensure secure migration. This will represent a small
-    number of “implementation validation case studies” that will receive
-    technical assistance in support of their migrations. Lessons learned
-    from these case studies will be used to inform new approaches to TIC
-    and NCPS policy and operations.
-
-3.  Systems that are such high risk that they should not be migrated
-    until further policy direction is given or capability enhancements
-    are made. These systems will be assessed to evaluate whether there
-    are common features or capabilities that could be provided
-    efficiently, effectively, and securely by cloud service providers
-    (CSPs). This analysis will serve as an input to the FedRAMP Joint
-    Authorization Board (JAB) prioritization of high-baseline CSP
-    offerings available to agencies wanting to migrate high-impact data
-    to the cloud.
-
-> To codify this approach, OMB will provide a preliminary update to the
-> TIC policy that introduces a 90 day sprint during which projects
-> approved by OMB will pilot proposed changes in TIC requirements. This
-> update will also formalize the approach outlined above and in the
-> subsequent two sections.
->
-> **Within 90 days of the date of issuance of this final report:**
-
-1.  For Category 1 of projects above, agencies will be given approval to
-    begin cloud migration by following their proposed migration plans.
-    GSA, DHS, OMB, and NSC will require collection of metrics, which
-    will be used to ensure that the proposed changes to policy do not
-    introduce an unacceptable level of cybersecurity risk. Agency
-    project teams would capture these metrics and lessons learned from
-    these migrations and submit initial findings to GSA, DHS, and OMB.
-    These inputs will inform changes to the TIC policy, Reference
-    Architecture (RA), and NCPS operational model and outcomes and to
-    further tailoring of the FedRAMP baselines. These activities will be
-    undertaken within the understanding that agency heads still own the
-    risk for the system authorizations and control decisions they are
-    making.
-
-2.  For category 2 projects above, GSA, DHS, OMB, NSC, USDS, and other
-    relevant parties will kick off a 90-day sprint to validate
-    particular case studies. The exact number of engagements will be
-    driven by staffing considerations from these organizations, but will
-    consist of at minimum three test cases. These test cases will be
-    operational in nature, and will validate a subset of implementation
-    plans for improving the TIC policy, RA, and NCPS operational model
-    and outcomes in commercial cloud.
-
-3.  For category 3 projects above, GSA, DHS, and OMB will work with
-    agencies to evaluate whether there are common features or
-    capabilities that could be provided efficiently, effectively, and
-    securely by CSPs. This analysis will serve as an input to the
-    FedRAMP JAB’s prioritization of high-baseline CSP offerings
-    available to agencies wanting to migrate high-impact data to the
-    cloud.
-
-> **Within 180 days of the date of issuance of this final report:**
->
-> DHS, GSA, and OMB will use the information gathered from the
-> activities listed in the section immediately preceding to inform rapid
-> draft updates to the TIC policy, the associated reference
-> architectures (RA), and any appropriate NCPS operational models to
-> facilitate outcomes in commercial cloud. The updated draft will codify
-> the findings from these case studies, as well as holistically address
-> incentives and barriers for agencies in securely migrating to
-> commercial cloud solutions. Example areas that we plan to look at as
-> part of the case studies may include the following:
-
--   A recommendation as to whether (1) “all information” traveling to
-    and from agency information systems hosted by commercial cloud
-    providers warrants scanning by DHS through NCPS; (2) which NCPS
-    capabilities are most applicable in commercial cloud environments of
-    differing asset value; and (3) what new NCPS capabilities may be
-    required to maximize effectiveness in a commercial cloud
-    environment;
-
--   How the current NCPS model could be adapted to accommodate a larger
-    number of access points per agency, including any number of
-    virtualized access points for agencies who are migrating their
-    services to cloud environments;
-
--   Requirements to enable lifting the constraint of two TIC Access
-    Points per agency with assurance that consistent configuration
-    management is applied, information is shared, and new updates are
-    deployed rapidly;
-
-    -   How agencies can best incorporate intrusion detection and
-        > prevention capabilities into their use of cloud services in a
-        > way that ensures adequate visibility to agency operators and
-        > helps DHS to protect Federal information. Updates to the
-        > capabilities outlined in applicable OMB Memoranda and DHS’s
-        > TIC RA to revisit the critical capabilities for boundary
-        > protection, de-emphasize the prescribed architectural
-        > implementation, and focus on capabilities, especially those
-        > that serve as compensating controls for commercial cloud
-        > environments;
-
-    -   Which TIC capabilities, if any, are appropriate for traffic
-        > associated with systems protecting FISMA-Low data, or any
-        > lower impact data as aligned with the tasking for Commerce’s
-        > proposed revisions to FIPS Publication 199 and 200;
-
-    -   The impact of allowing traffic associated with systems deployed
-        > to commercial cloud to not employ physical TIC protection if
-        > those systems meet the appropriate operational security
-        > capabilities for cloud described in the updated RA;
-
-    -   Best practices agencies should follow in implementing
-        > protections at other levels beyond the network, including how
-        > these practices should be integrated with the agencies’
-        > network security program;
-
-    -   Elimination of the existing TIC-related FISMA metrics and manual
-        > TIC Compliance Validation (TCV) process, replacing both with
-        > automated metric collection, to the extent possible, with a
-        > primary focus on both security and availability measures. This
-        > should leverage, to the extent possible, existing capabilities
-        > under the CDM program and build on previous research DHS has
-        > undertaken to automate TIC compliance using this program; and
-
-    -   Options for the reallocation, if necessary, of current
-        > TIC-related DHS personnel and resources toward helping
-        > agencies resolve operational issues in cloud migration.
-
-### Consolidate Network Acquisitions and Management
-
-The current model of IT acquisition wherein each agency, and often
-multiple components within a single agency, purchase goods and services
-independently has contributed to a fractured IT landscape. This creates
-an inconsistent security posture and fails to maximize the buying power
-of the Federal Government. To alleviate this problem, the Federal
-Government is implementing category management principles to consolidate
-and standardize network and security service acquisitions to take full
-advantage of economies of scale, reduce burden, and dramatically improve
-technical development and operations. The Enterprise Infrastructure
-Service (EIS) contract is the vehicle the Government will use to
-implement the strategy that achieves these goals.
-
-Currently, GSA is transitioning agencies from the legacy Networx
-contract, under which agencies purchased \$1.79 billion in network and
-telecommunications services in fiscal year (FY) 2016, to a comprehensive
-solution-based contract vehicle called Enterprise Infrastructure
-Solutions (EIS).[^15] The purpose of EIS is to address all aspects of
-agency telecommunications and network infrastructure requirements while
-also leveraging the bulk purchasing power of the Federal Government. EIS
-can be leveraged to help address some of the unique challenges faced by
-small agencies, a community that typically lags behind the large
-agencies in terms of cybersecurity capabilities.[^16] Smaller and
-non-CFO Act agencies struggle to attract and retain top information
-security personnel and often lack the expertise to fully manage their
-information security programs. This impedes the Federal Government’s
-ability to gain a full understanding of the risk to Federal networks.
-EIS can be leveraged to consolidate acquisition activities and other
-security services for small agency networks by focusing on the
-objectives below.
-
-***Reduce Wasteful Spending on Duplicative Security Capabilities.***
-Under the current Networx contract, agencies who do not have their own
-TIC capabilities must procure TIC services by purchasing the full suite
-of Managed Trusted Internet Protocol Services (MTIPS) services,[^17] the
-bundling of which prohibits agencies from procuring only those tools
-they need, thereby increasing cost. EIS will allow agencies the
-flexibility to choose *a la carte* the managed security services tools
-they need to comply with MTIPS requirements, while still being protected
-by the intrusion detection and prevention capabilities DHS
-provides.[^18] Though a positive and cost-saving step for many agencies,
-some small agencies may still struggle to procure TIC-like capabilities
-in this manner due to the complexity of managing the procurement and
-integration of multiple vendors; however, when paired with the proposed
-revisions to the existing TIC policy and RA, agencies will be able to
-make cost-effective acquisition decisions based on their existing tools
-and overall risk tolerance.
-
-***Decrease Risk by Improving Situational Awareness of Managed External
-Network Connections to the Internet**.* Approximately 40 of the 102
-small agencies supported by the Networx contract currently receive MTIPS
-services. The result of this gap in MTIPS capabilities is a lack of
-shared situational awareness regarding the network traffic traversing
-Federal network boundaries. This lack of awareness makes it difficult to
-conduct enhanced monitoring of network traffic and ultimately makes it
-harder to perform incident response activities. Increasing this
-visibility is critical to the defense of the .gov environment, and the
-additional flexibilities noted above will enable the remaining agencies
-to provide the requisite information.
-
-Next steps to support the objectives outlined above are as follows:
-
-> **Immediate Action:**
->
-> It is recommended that the President direct implementation of the plan
-> outlined below. This plan will leverage the consolidated buying power
-> of the Federal Government to procure more cost effective and secure
-> network services.
->
-> **Within 60 days of the date of issuance of this final report:**
->
-> DHS to provide GSA and agencies with baseline configuration guidance
-> for Managed Security Services (MSS) capabilities offered under EIS in
-> order to maximize the return on investment for the security
-> capabilities procured by agencies and to ensure compliance with
-> current TIC policy.
->
-> **Within 90 days of the date of issuance of this final report:**
->
-> GSA, in coordination with DHS, shall develop a comprehensive
-> acquisition strategy that provides a feasibility assessment and
-> roadmap to accomplish the following tasks:
-
--   Provide a path for all small agencies to more easily and cost
-    effectively utilize EIS services. This strategy should ensure the
-    Federal Government is maximizing its buying power when competing
-    contracts under EIS;
-
--   Review current security capabilities currently
-    offered under MTIPS, as defined by the TIC RA, to ensure the
-    capabilities provide adequate security within the current threat
-    environment, and determine if any security capabilities need to be
-    added or removed from the existing MTIPS baseline. This should
-    include an examination, including cost analysis, of the feasibility
-    of providing a service consisting only of traffic aggregation in
-    order to decrease the cost burden on small agencies;
-
--   Identify additional areas of opportunity outside of EIS, such as bug
-    bounty platforms, to consolidate acquisition of cybersecurity
-    services and products; and
-
--   Determine the feasibility of establishing a centralized acquisition
-    support function within GSA that is capable of performing
-    cybersecurity-related contract management activities for small
-    agencies.
-
-> **Other High-Level Actions:**
->
-> ***Increase Economies of Scale through Consolidation of Contracts for
-> Small Agencies***. Currently, 102 Federal small agencies are supported
-> by the legacy Networx contract, each on separate task orders. GSA will
-> support these small agencies in the transition to EIS by consolidating
-> requirements for small agencies and is considering the best approach
-> to leverage a limited number of task orders to purchase the majority
-> of services these agencies need. Through the consolidation of common
-> requirements across small agencies, GSA can leverage one or a small
-> number of task orders under EIS to purchase the majority of services
-> needed for all small agencies, with an option to provide additional
-> specific language focused on agency-specific requirements, in order to
-> realize economies of scale.
->
-> ***Improve Acquisitions Support for Small Agencies to Maximize the Use
-> of MTIPS and other Cybersecurity Services.*** For small agencies,
-> there are often barriers to acquiring and maximizing the benefits of
-> MTIPS. In addition to high costs, many small agencies lack the
-> appropriate expertise to draft effective task orders and the resources
-> to manage their MTIPS contract and hold vendors accountable for
-> accomplishing the work specified in Service Level Agreements (SLAs).
-> As such, GSA will provide guidance to small agencies on how best to
-> leverage its cross-agency acquisition in order to optimize their IT
-> investments and management throughout the procurement process. GSA
-> will also provide a menu of products and services to meet small agency
-> IT needs, leveraging GSA’s buying power and unique position in the
-> marketplace to transfer cost savings to small agencies.
 
 **Shared Services to Enable Future Network Architectures**
 ==========================================================
@@ -1210,83 +333,83 @@ determine how best to use the models outlined above.
 Next steps to support the above recommendations are
 as follows:
 
-> **Within 30 days of the date of issuance of this final report:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB
-> will conduct a data call requesting that agencies identify systems
-> that may be ready for cloud migration and can be migrated securely but
-> have not yet migrated due to perceived or encountered difficulties. At
-> the conclusion of this data call, OMB and GSA will review the
-> impediments to moving to the cloud outlined by agencies and will
-> prioritize an infusion of technical talent, capital, and updated
-> security policy (developed iteratively to solve agency-specific
-> issues) as needed to enable prioritized cloud migrations. This task is
-> described in more detail in the following section.
->
-> **Within 90 days of the date of issuance of this final report:**
->
-> GSA will work with volunteer agencies to pilot new initiatives to
-> improve the speed, reliability, reusability, and risk acceptance
-> transparency for cloud-based SaaS and shared services ATOs. Initial
-> pilots will test new authorities and tools for authorization processes
-> as automation of the new NIST Risk Management Framework for select
-> information systems, implementing the new FedRAMP Tailored baseline
-> for low-impact SaaS products, and leveraging Authorizations to Use for
-> shared services based on commercial cloud offerings.
->
-> Based on the combined efforts, including lessons learned and best
-> practices for extending these pilot activities to a Federal
-> civilian-wide scale, GSA will work with OMB to develop any necessary
-> plans or policy for promoting these initiatives and any other
-> innovative FedRAMP, shared services, or agency-specific efforts across
-> the Federal enterprise.
->
-> **Within 120 days of the date of issuance of this final report:**
->
-> Pursuant to its statutory authorities and in execution thereof, OMB,
-> in coordination with DHS, GSA, and its Federal partners, will update
-> the Federal Cloud Computing Strategy (“Cloud-First”).[^21] This
-> strategy will provide additional guidance to agencies on the most
-> impactful use cases for cloud adoption and how best to conduct
-> appropriate operational security in cloud environments.
->
-> Additionally, OMB will conduct a thorough review of all relevant
-> policies pertaining to IT modernization, cloud migration,
-> infrastructure consolidation, and shared services, among others, and
-> will initiate revisions, rescissions, or other rapid policy updates
-> that may improve the ability of agencies to modernize effectively,
-> securely, and efficiently. If necessary, OMB will issue further
-> guidance that will augment and enhance existing Federal technology and
-> information security policy.
->
-> OMB, working with the Federal Acquisition Regulation (FAR) Council,
-> GSA, and DHS will develop clauses that define consistent requirements
-> for security, privacy, and access to data for use in cloud contracts.
-> These clauses will ensure uniformity in contract language and provide
-> rigor to standard Government terms, which would be particularly
-> valuable to agencies lacking relevant technical, legal, or
-> acquisitions expertise to craft, out of whole cloth, such language in
-> their cloud procurements.
->
-> **Within 180 days of the date of issuance of this final report:**
->
-> OMB, working with the Federal Acquisition Regulatory Council (FAR
-> Council) and DHS will develop clauses that define consistent
-> requirements for security, privacy, and access to data for use in
-> cloud contracts. These clauses will ensure uniformity in contract
-> language and clear direction in standard Government terms, which would
-> be particularly valuable to agencies lacking relevant technical,
-> legal, or acquisitions expertise to craft, out of whole cloth, such
-> language in their cloud procurements.
->
-> These actions are in addition to OMB’s ongoing work with the FAR
-> Council to reduce regulatory burden on federal IT contractors pursuant
-> to E.O. 13771, as well as efforts with members of the Chief
-> Acquisition Officers Council to identify statutory or administrative
-> changes to align federal procurement practices with successful
-> commercial buying strategies and collaboration with agency Acquisition
-> Innovation Advocates to apply modernized processes to improve the
-> acquisition system’s ability to support the goals of this report.
+**Within 30 days of the date of issuance of this final report:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB
+will conduct a data call requesting that agencies identify systems
+that may be ready for cloud migration and can be migrated securely but
+have not yet migrated due to perceived or encountered difficulties. At
+the conclusion of this data call, OMB and GSA will review the
+impediments to moving to the cloud outlined by agencies and will
+prioritize an infusion of technical talent, capital, and updated
+security policy (developed iteratively to solve agency-specific
+issues) as needed to enable prioritized cloud migrations. This task is
+described in more detail in the following section.
+
+**Within 90 days of the date of issuance of this final report:**
+
+GSA will work with volunteer agencies to pilot new initiatives to
+improve the speed, reliability, reusability, and risk acceptance
+transparency for cloud-based SaaS and shared services ATOs. Initial
+pilots will test new authorities and tools for authorization processes
+as automation of the new NIST Risk Management Framework for select
+information systems, implementing the new FedRAMP Tailored baseline
+for low-impact SaaS products, and leveraging Authorizations to Use for
+shared services based on commercial cloud offerings.
+
+Based on the combined efforts, including lessons learned and best
+practices for extending these pilot activities to a Federal
+civilian-wide scale, GSA will work with OMB to develop any necessary
+plans or policy for promoting these initiatives and any other
+innovative FedRAMP, shared services, or agency-specific efforts across
+the Federal enterprise.
+
+**Within 120 days of the date of issuance of this final report:**
+
+Pursuant to its statutory authorities and in execution thereof, OMB,
+in coordination with DHS, GSA, and its Federal partners, will update
+the Federal Cloud Computing Strategy (“Cloud-First”).[^21] This
+strategy will provide additional guidance to agencies on the most
+impactful use cases for cloud adoption and how best to conduct
+appropriate operational security in cloud environments.
+
+Additionally, OMB will conduct a thorough review of all relevant
+policies pertaining to IT modernization, cloud migration,
+infrastructure consolidation, and shared services, among others, and
+will initiate revisions, rescissions, or other rapid policy updates
+that may improve the ability of agencies to modernize effectively,
+securely, and efficiently. If necessary, OMB will issue further
+guidance that will augment and enhance existing Federal technology and
+information security policy.
+
+OMB, working with the Federal Acquisition Regulation (FAR) Council,
+GSA, and DHS will develop clauses that define consistent requirements
+for security, privacy, and access to data for use in cloud contracts.
+These clauses will ensure uniformity in contract language and provide
+rigor to standard Government terms, which would be particularly
+valuable to agencies lacking relevant technical, legal, or
+acquisitions expertise to craft, out of whole cloth, such language in
+their cloud procurements.
+
+**Within 180 days of the date of issuance of this final report:**
+
+OMB, working with the Federal Acquisition Regulatory Council (FAR
+Council) and DHS will develop clauses that define consistent
+requirements for security, privacy, and access to data for use in
+cloud contracts. These clauses will ensure uniformity in contract
+language and clear direction in standard Government terms, which would
+be particularly valuable to agencies lacking relevant technical,
+legal, or acquisitions expertise to craft, out of whole cloth, such
+language in their cloud procurements.
+
+These actions are in addition to OMB’s ongoing work with the FAR
+Council to reduce regulatory burden on federal IT contractors pursuant
+to E.O. 13771, as well as efforts with members of the Chief
+Acquisition Officers Council to identify statutory or administrative
+changes to align federal procurement practices with successful
+commercial buying strategies and collaboration with agency Acquisition
+Innovation Advocates to apply modernized processes to improve the
+acquisition system’s ability to support the goals of this report.
 
 1.  Accelerate Adoption of Cloud Email and Collaboration Tools
 
@@ -1353,119 +476,119 @@ afford higher prices, that are penalized.
 
 Next steps to support the above recommendations are as follows:
 
-> **Within 30 days of the date of issuance of this final report:**
->
-> OMB will conduct a data call to agencies regarding their current email
-> contracts, prices, and number of mailboxes. It is imperative that the
-> Government obtain an accurate measurement of the market size of
-> agencies who have not yet migrated to cloud email. While there are
-> clear data on the current need among CFO Act agencies, there is
-> currently no definitive data regarding the adoption of cloud-based
-> email solutions at small and independent agencies. Understanding the
-> full size of the marketplace will enable the Government to maximize
-> its leverage in negotiations with cloud collaboration vendors.
->
-> OMB will convene a task force of agencies to finalize a standard set
-> of requirements for cloud email, including both low and moderate
-> security postures for email and cloud collaboration. These
-> requirements, which will build upon previously completed work, will be
-> circulated to all agencies for comment and serve as the basis for
-> acquisition.
->
-> **Within 60 days of the date of issuance of this final report:**
->
-> OMB will establish a comprehensive strategy for driving the
-> accelerated migration of agency email and collaboration tools to the
-> cloud for departments and agencies who have still not adopted
-> cloud-based email. This strategy should emphasize achieving both cost
-> savings and improved security.
->
-> **Within 75 days of the date of issuance of this final report:**
->
-> OMB will issue updated identity policy guidance for public comment
-> that will reduce agency burden and recommend identity service areas
-> suitable for shared services. GSA will provide a business case to the
-> Federal CIO on the consolidation of existing identity services to
-> improve usability and drive secure access and interoperability. This
-> action will enable secure access and collaboration as a service in a
-> way that improves existing agency-specific implementations, which
-> often have various levels of security and do not include
-> interoperability.
->
-> **Within 90 days of the date of issuance of this final report:**
->
-> OMB will assemble an Acquisition Tiger Team (ATT), which will be
-> charged with drafting and disseminating a “quick start” acquisition
-> package that can help agencies facilitate rapid license and migration
-> service acquisitions. This will make it possible for agencies to award
-> licenses and services that may presently have difficulty doing so. The
-> “quick start” package would include market research, acquisition
-> plans, templates for requesting quotes, identified sources of supply,
-> and Independent Government Cost Estimate calculation templates (based
-> on already completed acquisitions).
->
-> The ATT, working through the appropriate executive agent, will send
-> out Requests for Information (RFIs) or conduct other market research
-> activities to find qualified small business and socio-economic
-> concerns to leverage set aside programs and other authorities to
-> streamline the migration acquisitions to the greatest extent possible.
-> For example, using the 8(a) Digital Service Initiative or vehicles
-> that have resulted from Category Management efforts in this
-> space.[^22]
->
-> **Within 180 days of the date of issuance of this final report:**
->
-> The Government should consider incentives for early adoption
-> (migration in the first year following the formalization of the
-> effort), including individualized assistance tailored to a given
-> agency’s needs. To assist in such an effort, OMB will create
-> acquisition/migration cadres, consisting of information technology and
-> acquisition specialists that will be sent to early adopter agencies to
-> help with license and migration acquisitions-related challenges.
-> Initially, these cadres would draw from agencies that have already
-> completed their migrations, such as the Department of the Justice
-> (DOJ) and acquisition experts from the Digital IT Acquisition
-> Professional Training (DITAP) alumni network.
->
-> **Within 240 days of the date of issuance of this final report:**
->
-> OMB, with support from GSA, will pilot new acquisition tactics for
-> cloud email and collaboration licenses including but not limited to
-> those discussed above and outlined in Appendix D.
->
-> **Other High-Level Actions:**
->
-> Approved FISMA-Moderate cloud-based collaboration tools currently
-> exist. GSA will continue to work with existing cloud email and
-> collaboration providers, and will prioritize approval of a FISMA-High
-> offering. At the same time, process improvements will continue
-> iteratively to enable agencies to accelerate adoption of cloud
-> services.
->
-> Within the Federal Government, having a qualified and agile
-> acquisition workforce is paramount to ensure the Federal Government
-> acquires optimal solutions to achieve successful acquisition outcomes.
-> Providing specialized training and career development opportunities
-> for the acquisition workforce is a critical component for ensuring tax
-> payer dollars are effectively managed and obligated to achieve the
-> requirements addressed in the Federal IT Modernization Report.
-> Providing training and career development opportunities is a
-> priority for cybersecurity adoption, cloud email, and cloud adoption.
-> The Federal Acquisition Certification in Contracting (FAC-C) core plus
-> specialization in digital services is under review and is a component
-> of the DITAP development program. The DITAP program focuses on
-> providing contracting professionals with training and experiential
-> learning opportunities to gain the expertise necessary to better
-> understand the market conditions and drivers, effectively manage risks
-> to successfully plan, and negotiate and acquire digital supplies and
-> services. Moreover, completion of the DITAP development
-> program empowers the graduates to serve as change agents and expert
-> business advisors to members of the integrated acquisition team
-> (program managers, legal, finance, contracting officer's
-> representative and other stakeholders). Having a Government-wide,
-> holistic and integrated training and career development approach is
-> vital to deliver results to the American People and build a stronger
-> more capable Federal Government.
+**Within 30 days of the date of issuance of this final report:**
+
+OMB will conduct a data call to agencies regarding their current email
+contracts, prices, and number of mailboxes. It is imperative that the
+Government obtain an accurate measurement of the market size of
+agencies who have not yet migrated to cloud email. While there are
+clear data on the current need among CFO Act agencies, there is
+currently no definitive data regarding the adoption of cloud-based
+email solutions at small and independent agencies. Understanding the
+full size of the marketplace will enable the Government to maximize
+its leverage in negotiations with cloud collaboration vendors.
+
+OMB will convene a task force of agencies to finalize a standard set
+of requirements for cloud email, including both low and moderate
+security postures for email and cloud collaboration. These
+requirements, which will build upon previously completed work, will be
+circulated to all agencies for comment and serve as the basis for
+acquisition.
+
+**Within 60 days of the date of issuance of this final report:**
+
+OMB will establish a comprehensive strategy for driving the
+accelerated migration of agency email and collaboration tools to the
+cloud for departments and agencies who have still not adopted
+cloud-based email. This strategy should emphasize achieving both cost
+savings and improved security.
+
+**Within 75 days of the date of issuance of this final report:**
+
+OMB will issue updated identity policy guidance for public comment
+that will reduce agency burden and recommend identity service areas
+suitable for shared services. GSA will provide a business case to the
+Federal CIO on the consolidation of existing identity services to
+improve usability and drive secure access and interoperability. This
+action will enable secure access and collaboration as a service in a
+way that improves existing agency-specific implementations, which
+often have various levels of security and do not include
+interoperability.
+
+**Within 90 days of the date of issuance of this final report:**
+
+OMB will assemble an Acquisition Tiger Team (ATT), which will be
+charged with drafting and disseminating a “quick start” acquisition
+package that can help agencies facilitate rapid license and migration
+service acquisitions. This will make it possible for agencies to award
+licenses and services that may presently have difficulty doing so. The
+“quick start” package would include market research, acquisition
+plans, templates for requesting quotes, identified sources of supply,
+and Independent Government Cost Estimate calculation templates (based
+on already completed acquisitions).
+
+The ATT, working through the appropriate executive agent, will send
+out Requests for Information (RFIs) or conduct other market research
+activities to find qualified small business and socio-economic
+concerns to leverage set aside programs and other authorities to
+streamline the migration acquisitions to the greatest extent possible.
+For example, using the 8(a) Digital Service Initiative or vehicles
+that have resulted from Category Management efforts in this
+space.[^22]
+
+**Within 180 days of the date of issuance of this final report:**
+
+The Government should consider incentives for early adoption
+(migration in the first year following the formalization of the
+effort), including individualized assistance tailored to a given
+agency’s needs. To assist in such an effort, OMB will create
+acquisition/migration cadres, consisting of information technology and
+acquisition specialists that will be sent to early adopter agencies to
+help with license and migration acquisitions-related challenges.
+Initially, these cadres would draw from agencies that have already
+completed their migrations, such as the Department of the Justice
+(DOJ) and acquisition experts from the Digital IT Acquisition
+Professional Training (DITAP) alumni network.
+
+**Within 240 days of the date of issuance of this final report:**
+
+OMB, with support from GSA, will pilot new acquisition tactics for
+cloud email and collaboration licenses including but not limited to
+those discussed above and outlined in Appendix D.
+
+**Other High-Level Actions:**
+
+Approved FISMA-Moderate cloud-based collaboration tools currently
+exist. GSA will continue to work with existing cloud email and
+collaboration providers, and will prioritize approval of a FISMA-High
+offering. At the same time, process improvements will continue
+iteratively to enable agencies to accelerate adoption of cloud
+services.
+
+Within the Federal Government, having a qualified and agile
+acquisition workforce is paramount to ensure the Federal Government
+acquires optimal solutions to achieve successful acquisition outcomes.
+Providing specialized training and career development opportunities
+for the acquisition workforce is a critical component for ensuring tax
+payer dollars are effectively managed and obligated to achieve the
+requirements addressed in the Federal IT Modernization Report.
+Providing training and career development opportunities is a
+priority for cybersecurity adoption, cloud email, and cloud adoption.
+The Federal Acquisition Certification in Contracting (FAC-C) core plus
+specialization in digital services is under review and is a component
+of the DITAP development program. The DITAP program focuses on
+providing contracting professionals with training and experiential
+learning opportunities to gain the expertise necessary to better
+understand the market conditions and drivers, effectively manage risks
+to successfully plan, and negotiate and acquire digital supplies and
+services. Moreover, completion of the DITAP development
+program empowers the graduates to serve as change agents and expert
+business advisors to members of the integrated acquisition team
+(program managers, legal, finance, contracting officer's
+representative and other stakeholders). Having a Government-wide,
+holistic and integrated training and career development approach is
+vital to deliver results to the American People and build a stronger
+more capable Federal Government.
 
 1.  Improve Existing and Provide Additional Security Shared Services
 
@@ -1527,44 +650,44 @@ modernization and adoption of CDM to identify, detect, and respond to
 threats in the Federal Government’s increasing move to cloud
 environments and mobile devices.
 
-> **Within 60 days of the date of issuance of this final report:**
->
-> DHS, in partnership with agencies and GSA, will complete the
-> acquisition strategy for new, long-term task orders to offer CDM
-> lifecycle support to agencies and provide solution development and
-> implementation for Phases 3 and 4 in addition to future work,
-> including cloud security.
->
-> **Within 125 days of the date of issuance of this final report:**
->
-> DHS will leverage all available departmental resources, to the extent
-> practicable, to obtain an initial ATO for the CDM Group F Platform. If
-> necessary, DHS will request additional support from OMB, GSA, or other
-> entities to ensure an efficient authorization, consistent with the
-> appropriate security posture required of the CDM Program, potential
-> customer agencies, and the authorizing official. Upon completion of
-> the authorization process, DHS will begin onboarding agencies onto CDM
-> to provide continuous monitoring as a service capabilities.
->
-> At the end of the 125 days, DHS will update OMB on the current number
-> and status of remaining Memoranda of Agreement it has established with
-> non-CFO Act agencies (above and beyond the current number of 44). DHS
-> will also submit a plan to OMB that details the expectations and
-> timelines for onboarding non-CFO Act agencies to the CDM Group F
-> Platform.
->
-> **Within 150 days of the date of issuance of this final report:**
->
-> DHS will complete the data exchanges between the agency- and
-> Federal-level dashboards to provide enterprise-wide situational
-> awareness of an agency’s cyber posture.
->
-> **Within 180 days of the date of issuance of this final report:**
->
-> DHS, in partnership with the Federal CIO Council, will implement a
-> concept of operations for the Federal dashboard to include procedures
-> to manage cyber risks across the Federal enterprise, and other factors
-> pertinent to the broader Federal CIO community.
+**Within 60 days of the date of issuance of this final report:**
+
+DHS, in partnership with agencies and GSA, will complete the
+acquisition strategy for new, long-term task orders to offer CDM
+lifecycle support to agencies and provide solution development and
+implementation for Phases 3 and 4 in addition to future work,
+including cloud security.
+
+**Within 125 days of the date of issuance of this final report:**
+
+DHS will leverage all available departmental resources, to the extent
+practicable, to obtain an initial ATO for the CDM Group F Platform. If
+necessary, DHS will request additional support from OMB, GSA, or other
+entities to ensure an efficient authorization, consistent with the
+appropriate security posture required of the CDM Program, potential
+customer agencies, and the authorizing official. Upon completion of
+the authorization process, DHS will begin onboarding agencies onto CDM
+to provide continuous monitoring as a service capabilities.
+
+At the end of the 125 days, DHS will update OMB on the current number
+and status of remaining Memoranda of Agreement it has established with
+non-CFO Act agencies (above and beyond the current number of 44). DHS
+will also submit a plan to OMB that details the expectations and
+timelines for onboarding non-CFO Act agencies to the CDM Group F
+Platform.
+
+**Within 150 days of the date of issuance of this final report:**
+
+DHS will complete the data exchanges between the agency- and
+Federal-level dashboards to provide enterprise-wide situational
+awareness of an agency’s cyber posture.
+
+**Within 180 days of the date of issuance of this final report:**
+
+DHS, in partnership with the Federal CIO Council, will implement a
+concept of operations for the Federal dashboard to include procedures
+to manage cyber risks across the Federal enterprise, and other factors
+pertinent to the broader Federal CIO community.
 
 **Security Operations Center (SOC) as a Service**
 
@@ -1607,32 +730,32 @@ Specifically, SOC as a Service capabilities could:
 -   Allow visibility across multiple agency cloud systems to be
     aggregated and managed centrally.
 
-> **Within 180 days of the date of issuance of this final report:**
->
-> OMB, DHS, and GSA will identify potential offerings to provide SOC as
-> a Service capabilities to other agencies across the Federal
-> Government. Additionally, GSA, in coordination with OMB and DHS, will
-> lead contracting efforts to also offer commercially available SOC as a
-> Service capabilities to Federal agencies.
->
-> **Within 210 days of the date of issuance of this final report:**
->
-> Any agency that plans to offer SOC as a Service capabilities will
-> provide to OMB and DHS a pricing model in alignment with the cloud
-> migration strategy and timeline outlined above. Additionally, OMB will
-> designate a slate of agencies with insufficient SOC capabilities and
-> require them to establish plans for transitioning to SOC as a Service,
-> whether it is Government or private sector provided.
->
-> **Other High-Level Actions:**
->
-> DHS will work with SOC as a Service providers, be it a Government or
-> private sector provider, to ensure that NCPS and CDM capabilities and
-> outcomes can be achieved and that the visibility remains aggregated
-> across cloud and on premise security capabilities. Additionally,
-> agencies designated as potential SOC as a Service providers will
-> establish pilots involving agencies designated by OMB as possessing
-> insufficient SOC capabilities.
+**Within 180 days of the date of issuance of this final report:**
+
+OMB, DHS, and GSA will identify potential offerings to provide SOC as
+a Service capabilities to other agencies across the Federal
+Government. Additionally, GSA, in coordination with OMB and DHS, will
+lead contracting efforts to also offer commercially available SOC as a
+Service capabilities to Federal agencies.
+
+**Within 210 days of the date of issuance of this final report:**
+
+Any agency that plans to offer SOC as a Service capabilities will
+provide to OMB and DHS a pricing model in alignment with the cloud
+migration strategy and timeline outlined above. Additionally, OMB will
+designate a slate of agencies with insufficient SOC capabilities and
+require them to establish plans for transitioning to SOC as a Service,
+whether it is Government or private sector provided.
+
+**Other High-Level Actions:**
+
+DHS will work with SOC as a Service providers, be it a Government or
+private sector provider, to ensure that NCPS and CDM capabilities and
+outcomes can be achieved and that the visibility remains aggregated
+across cloud and on premise security capabilities. Additionally,
+agencies designated as potential SOC as a Service providers will
+establish pilots involving agencies designated by OMB as possessing
+insufficient SOC capabilities.
 
 **Conclusions & Summary of Requests for Engagement**
 ====================================================
@@ -2511,22 +1634,22 @@ funded and reimbursed. The specific authorities may vary depending on
 the circumstances and agencies affected, but may include:
 
 -   The Economy Act, 31 U.S.C. § 1535, which authorizes Federal agencies
-    > to enter into agreements to obtain supplies or services from
-    > another Federal agency and requires full reimbursement.
+    to enter into agreements to obtain supplies or services from
+    another Federal agency and requires full reimbursement.
 
 -   Agency-specific authorities. For example, 40 U.S.C. § 501 authorized
-    > GSA to procure and supply property and services for executive
-    > agencies. The funding source utilized in conjunction with 40
-    > U.S.C. § 501 will depend on which office within GSA is providing
-    > the property and services, but may include the Acquisition
-    > Services Fund (40 U.S.C. § 321), a Working Capital Fund, or other
-    > specific authorities. In general, full reimbursement will be
-    > required unless specifically authorized otherwise. In an example
-    > of such a specific authorization, 44 U.S.C. § 3553(b)(6)(B)
-    > authorizes DHS to “upon request by an agency, deploy\[\],
-    > operate\[\], and maintain\[\] technology to assist the agency to
-    > continuously diagnose and mitigate against cyber threats and
-    > vulnerabilities, with or without reimbursement.”
+    GSA to procure and supply property and services for executive
+    agencies. The funding source utilized in conjunction with 40
+    U.S.C. § 501 will depend on which office within GSA is providing
+    the property and services, but may include the Acquisition
+    Services Fund (40 U.S.C. § 321), a Working Capital Fund, or other
+    specific authorities. In general, full reimbursement will be
+    required unless specifically authorized otherwise. In an example
+    of such a specific authorization, 44 U.S.C. § 3553(b)(6)(B)
+    authorizes DHS to “upon request by an agency, deploy\[\],
+    operate\[\], and maintain\[\] technology to assist the agency to
+    continuously diagnose and mitigate against cyber threats and
+    vulnerabilities, with or without reimbursement.”
 
 **Appendix F: Summary of Recommendations**
 
@@ -2755,55 +1878,55 @@ the circumstances and agencies affected, but may include:
 |             |             | incidents.  |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | 6           | Agency      | -   Review  | DHS and OMB | 150 days    |
-|             | CIOs,       |     > their |             |             |
-|             | CISOs, and  |     > lates |             |             |
+|             | CIOs,       |     their |             |             |
+|             | CISOs, and  |     lates |             |             |
 |             | SAOPs       | t           |             |             |
-|             |             |     > submi |             |             |
+|             |             |     submi |             |             |
 |             |             | ssion       |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > HVAs  |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > make  |             |             |
-|             |             |     > any   |             |             |
-|             |             |     > neces |             |             |
+|             |             |     of    |             |             |
+|             |             |     HVAs  |             |             |
+|             |             |     and   |             |             |
+|             |             |     make  |             |             |
+|             |             |     any   |             |             |
+|             |             |     neces |             |             |
 |             |             | sary        |             |             |
-|             |             |     > chang |             |             |
+|             |             |     chang |             |             |
 |             |             | es          |             |             |
-|             |             |     > to    |             |             |
-|             |             |     > refle |             |             |
+|             |             |     to    |             |             |
+|             |             |     refle |             |             |
 |             |             | ct          |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > lates |             |             |
+|             |             |     the   |             |             |
+|             |             |     lates |             |             |
 |             |             | t           |             |             |
-|             |             |     > infor |             |             |
+|             |             |     infor |             |             |
 |             |             | mation      |             |             |
-|             |             |     > on    |             |             |
-|             |             |     > syste |             |             |
+|             |             |     on    |             |             |
+|             |             |     syste |             |             |
 |             |             | m           |             |             |
-|             |             |     > prior |             |             |
+|             |             |     prior |             |             |
 |             |             | itization   |             |             |
-|             |             |     > in    |             |             |
-|             |             |     > tande |             |             |
+|             |             |     in    |             |             |
+|             |             |     tande |             |             |
 |             |             | m           |             |             |
-|             |             |     > with  |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > asses |             |             |
+|             |             |     with  |             |             |
+|             |             |     the   |             |             |
+|             |             |     asses |             |             |
 |             |             | sments      |             |             |
-|             |             |     > made  |             |             |
-|             |             |     > under |             |             |
-|             |             |     > their |             |             |
-|             |             |     > risk  |             |             |
-|             |             |     > asses |             |             |
+|             |             |     made  |             |             |
+|             |             |     under |             |             |
+|             |             |     their |             |             |
+|             |             |     risk  |             |             |
+|             |             |     asses |             |             |
 |             |             | sments      |             |             |
-|             |             |     > as    |             |             |
-|             |             |     > part  |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > Secti |             |             |
+|             |             |     as    |             |             |
+|             |             |     part  |             |             |
+|             |             |     of    |             |             |
+|             |             |     Secti |             |             |
 |             |             | on          |             |             |
-|             |             |     > 1 of  |             |             |
-|             |             |     > Execu |             |             |
+|             |             |     1 of  |             |             |
+|             |             |     Execu |             |             |
 |             |             | tive        |             |             |
-|             |             |     > Order |             |             |
+|             |             |     Order |             |             |
 |             |             |  13800.     |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | 7           | DHS, OMB,   | Review HVA  | President’s | 180 days    |
@@ -2860,34 +1983,34 @@ the circumstances and agencies affected, but may include:
 |             |             |             |             |             |
 |             |             | -   Maximiz |             |             |
 |             |             | e           |             |             |
-|             |             |     > use   |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > share |             |             |
+|             |             |     use   |             |             |
+|             |             |     of    |             |             |
+|             |             |     share |             |             |
 |             |             | d           |             |             |
-|             |             |     > IT    |             |             |
-|             |             |     > servi |             |             |
+|             |             |     IT    |             |             |
+|             |             |     servi |             |             |
 |             |             | ces         |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > consi |             |             |
+|             |             |     and   |             |             |
+|             |             |     consi |             |             |
 |             |             | der         |             |             |
-|             |             |     > appli |             |             |
+|             |             |     appli |             |             |
 |             |             | cation      |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > data- |             |             |
+|             |             |     and   |             |             |
+|             |             |     data- |             |             |
 |             |             | level       |             |             |
-|             |             |     > prote |             |             |
+|             |             |     prote |             |             |
 |             |             | ctions      |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > use   |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > comme |             |             |
+|             |             |     and   |             |             |
+|             |             |     the   |             |             |
+|             |             |     use   |             |             |
+|             |             |     of    |             |             |
+|             |             |     comme |             |             |
 |             |             | rcial       |             |             |
-|             |             |     > cloud |             |             |
+|             |             |     cloud |             |             |
 |             |             | -based      |             |             |
-|             |             |     > archi |             |             |
+|             |             |     archi |             |             |
 |             |             | tectures;   |             |             |
-|             |             |     > and   |             |             |
+|             |             |     and   |             |             |
 |             |             |             |             |             |
 |             |             | Prioritize  |             |             |
 |             |             | existing    |             |             |
@@ -2932,70 +2055,70 @@ the circumstances and agencies affected, but may include:
 |             |             |             |             |             |
 |             |             | -   Maximiz |             |             |
 |             |             | e           |             |             |
-|             |             |     > use   |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > share |             |             |
+|             |             |     use   |             |             |
+|             |             |     of    |             |             |
+|             |             |     share |             |             |
 |             |             | d           |             |             |
-|             |             |     > IT    |             |             |
-|             |             |     > servi |             |             |
+|             |             |     IT    |             |             |
+|             |             |     servi |             |             |
 |             |             | ces         |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > consi |             |             |
+|             |             |     and   |             |             |
+|             |             |     consi |             |             |
 |             |             | der         |             |             |
-|             |             |     > appli |             |             |
+|             |             |     appli |             |             |
 |             |             | cation      |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > data- |             |             |
+|             |             |     and   |             |             |
+|             |             |     data- |             |             |
 |             |             | level       |             |             |
-|             |             |     > prote |             |             |
+|             |             |     prote |             |             |
 |             |             | ctions      |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > use   |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > comme |             |             |
+|             |             |     and   |             |             |
+|             |             |     the   |             |             |
+|             |             |     use   |             |             |
+|             |             |     of    |             |             |
+|             |             |     comme |             |             |
 |             |             | rcial       |             |             |
-|             |             |     > cloud |             |             |
+|             |             |     cloud |             |             |
 |             |             | -based      |             |             |
-|             |             |     > archi |             |             |
+|             |             |     archi |             |             |
 |             |             | tectures;   |             |             |
-|             |             |     > and   |             |             |
+|             |             |     and   |             |             |
 |             |             |             |             |             |
 |             |             | -   Priorit |             |             |
 |             |             | ize         |             |             |
-|             |             |     > exist |             |             |
+|             |             |     exist |             |             |
 |             |             | ing         |             |             |
-|             |             |     > finan |             |             |
+|             |             |     finan |             |             |
 |             |             | cial        |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > human |             |             |
-|             |             |     > resou |             |             |
+|             |             |     and   |             |             |
+|             |             |     human |             |             |
+|             |             |     resou |             |             |
 |             |             | rces        |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > shoul |             |             |
+|             |             |     and   |             |             |
+|             |             |     shoul |             |             |
 |             |             | d           |             |             |
-|             |             |     > ident |             |             |
+|             |             |     ident |             |             |
 |             |             | ify         |             |             |
-|             |             |     > other |             |             |
-|             |             |     > syste |             |             |
+|             |             |     other |             |             |
+|             |             |     syste |             |             |
 |             |             | ms          |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > conce |             |             |
+|             |             |     of    |             |             |
+|             |             |     conce |             |             |
 |             |             | rn          |             |             |
-|             |             |     > that  |             |             |
-|             |             |     > may   |             |             |
-|             |             |     > suffe |             |             |
+|             |             |     that  |             |             |
+|             |             |     may   |             |             |
+|             |             |     suffe |             |             |
 |             |             | r           |             |             |
-|             |             |     > from  |             |             |
-|             |             |     > simil |             |             |
+|             |             |     from  |             |             |
+|             |             |     simil |             |             |
 |             |             | ar          |             |             |
-|             |             |     > issue |             |             |
+|             |             |     issue |             |             |
 |             |             | s           |             |             |
-|             |             |     > not   |             |             |
-|             |             |     > categ |             |             |
+|             |             |     not   |             |             |
+|             |             |     categ |             |             |
 |             |             | orized      |             |             |
-|             |             |     > as    |             |             |
-|             |             |     > HVAs. |             |             |
+|             |             |     as    |             |             |
+|             |             |     HVAs. |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | 10          | DHS (in     | Provide     | \[For       | 180 days    |
 |             | coordinatio | hands-on    | internal    |             |
@@ -3311,125 +2434,125 @@ the circumstances and agencies affected, but may include:
 |             |             | following:  |             |             |
 |             |             |             |             |             |
 |             |             | -   Provide |             |             |
-|             |             |     > a     |             |             |
-|             |             |     > path  |             |             |
-|             |             |     > for   |             |             |
-|             |             |     > all   |             |             |
-|             |             |     > small |             |             |
-|             |             |     > agenc |             |             |
+|             |             |     a     |             |             |
+|             |             |     path  |             |             |
+|             |             |     for   |             |             |
+|             |             |     all   |             |             |
+|             |             |     small |             |             |
+|             |             |     agenc |             |             |
 |             |             | ies         |             |             |
-|             |             |     > to    |             |             |
-|             |             |     > more  |             |             |
-|             |             |     > easil |             |             |
+|             |             |     to    |             |             |
+|             |             |     more  |             |             |
+|             |             |     easil |             |             |
 |             |             | y           |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > cost- |             |             |
+|             |             |     and   |             |             |
+|             |             |     cost- |             |             |
 |             |             | effectively |             |             |
-|             |             |     > utili |             |             |
+|             |             |     utili |             |             |
 |             |             | ze          |             |             |
-|             |             |     > EIS   |             |             |
-|             |             |     > servi |             |             |
+|             |             |     EIS   |             |             |
+|             |             |     servi |             |             |
 |             |             | ces;        |             |             |
 |             |             |             |             |             |
 |             |             | -   Review  |             |             |
-|             |             |     > curre |             |             |
+|             |             |     curre |             |             |
 |             |             | nt          |             |             |
-|             |             |     > secur |             |             |
+|             |             |     secur |             |             |
 |             |             | ity         |             |             |
-|             |             |     > capab |             |             |
+|             |             |     capab |             |             |
 |             |             | ilities     |             |             |
-|             |             |     > curre |             |             |
+|             |             |     curre |             |             |
 |             |             | ntly        |             |             |
-|             |             |     > offer |             |             |
+|             |             |     offer |             |             |
 |             |             | ed          |             |             |
-|             |             |     > under |             |             |
-|             |             |     > MTIPS |             |             |
-|             |             |     > to    |             |             |
-|             |             |     > ensur |             |             |
+|             |             |     under |             |             |
+|             |             |     MTIPS |             |             |
+|             |             |     to    |             |             |
+|             |             |     ensur |             |             |
 |             |             | e           |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > capab |             |             |
+|             |             |     the   |             |             |
+|             |             |     capab |             |             |
 |             |             | ilities     |             |             |
-|             |             |     > provi |             |             |
+|             |             |     provi |             |             |
 |             |             | de          |             |             |
-|             |             |     > adequ |             |             |
+|             |             |     adequ |             |             |
 |             |             | ate         |             |             |
-|             |             |     > secur |             |             |
+|             |             |     secur |             |             |
 |             |             | ity         |             |             |
-|             |             |     > withi |             |             |
+|             |             |     withi |             |             |
 |             |             | n           |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > curre |             |             |
+|             |             |     the   |             |             |
+|             |             |     curre |             |             |
 |             |             | nt          |             |             |
-|             |             |     > threa |             |             |
+|             |             |     threa |             |             |
 |             |             | t           |             |             |
-|             |             |     > envir |             |             |
+|             |             |     envir |             |             |
 |             |             | onment;     |             |             |
 |             |             |             |             |             |
 |             |             | -   Identif |             |             |
 |             |             | y           |             |             |
-|             |             |     > addit |             |             |
+|             |             |     addit |             |             |
 |             |             | ional       |             |             |
-|             |             |     > areas |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > oppor |             |             |
+|             |             |     areas |             |             |
+|             |             |     of    |             |             |
+|             |             |     oppor |             |             |
 |             |             | tunity      |             |             |
-|             |             |     > outsi |             |             |
+|             |             |     outsi |             |             |
 |             |             | de          |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > EIS   |             |             |
-|             |             |     > to    |             |             |
-|             |             |     > conso |             |             |
+|             |             |     of    |             |             |
+|             |             |     EIS   |             |             |
+|             |             |     to    |             |             |
+|             |             |     conso |             |             |
 |             |             | lidate      |             |             |
-|             |             |     > acqui |             |             |
+|             |             |     acqui |             |             |
 |             |             | sition      |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > cyber |             |             |
+|             |             |     of    |             |             |
+|             |             |     cyber |             |             |
 |             |             | security    |             |             |
-|             |             |     > servi |             |             |
+|             |             |     servi |             |             |
 |             |             | ces         |             |             |
-|             |             |     > and   |             |             |
-|             |             |     > produ |             |             |
+|             |             |     and   |             |             |
+|             |             |     produ |             |             |
 |             |             | cts;        |             |             |
-|             |             |     > and   |             |             |
+|             |             |     and   |             |             |
 |             |             |             |             |             |
 |             |             | -   Determi |             |             |
 |             |             | ne          |             |             |
-|             |             |     > the   |             |             |
-|             |             |     > feasi |             |             |
+|             |             |     the   |             |             |
+|             |             |     feasi |             |             |
 |             |             | bility      |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > estab |             |             |
+|             |             |     of    |             |             |
+|             |             |     estab |             |             |
 |             |             | lishing     |             |             |
-|             |             |     > a     |             |             |
-|             |             |     > centr |             |             |
+|             |             |     a     |             |             |
+|             |             |     centr |             |             |
 |             |             | alized      |             |             |
-|             |             |     > acqui |             |             |
+|             |             |     acqui |             |             |
 |             |             | sition      |             |             |
-|             |             |     > suppo |             |             |
+|             |             |     suppo |             |             |
 |             |             | rt          |             |             |
-|             |             |     > funct |             |             |
+|             |             |     funct |             |             |
 |             |             | ion         |             |             |
-|             |             |     > withi |             |             |
+|             |             |     withi |             |             |
 |             |             | n           |             |             |
-|             |             |     > GSA   |             |             |
-|             |             |     > capab |             |             |
+|             |             |     GSA   |             |             |
+|             |             |     capab |             |             |
 |             |             | le          |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > perfo |             |             |
+|             |             |     of    |             |             |
+|             |             |     perfo |             |             |
 |             |             | rming       |             |             |
-|             |             |     > cyber |             |             |
+|             |             |     cyber |             |             |
 |             |             | security-re |             |             |
 |             |             | lated       |             |             |
-|             |             |     > contr |             |             |
+|             |             |     contr |             |             |
 |             |             | act         |             |             |
-|             |             |     > manag |             |             |
+|             |             |     manag |             |             |
 |             |             | ement       |             |             |
-|             |             |     > activ |             |             |
+|             |             |     activ |             |             |
 |             |             | ities       |             |             |
-|             |             |     > for   |             |             |
-|             |             |     > small |             |             |
-|             |             |     > agenc |             |             |
+|             |             |     for   |             |             |
+|             |             |     small |             |             |
+|             |             |     agenc |             |             |
 |             |             | ies.        |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | 23          | GSA         | Support     | \[For       | None given  |
@@ -3900,41 +3023,41 @@ the circumstances and agencies affected, but may include:
 |             |             | include:    |             |             |
 |             |             |             |             |             |
 |             |             | -   Market  |             |             |
-|             |             |     > resea |             |             |
+|             |             |     resea |             |             |
 |             |             | rch,        |             |             |
 |             |             |             |             |             |
 |             |             | -   Acquisi |             |             |
 |             |             | tion        |             |             |
-|             |             |     > plans |             |             |
+|             |             |     plans |             |             |
 |             |             | ,           |             |             |
 |             |             |             |             |             |
 |             |             | -   Templat |             |             |
 |             |             | es          |             |             |
-|             |             |     > for   |             |             |
-|             |             |     > reque |             |             |
+|             |             |     for   |             |             |
+|             |             |     reque |             |             |
 |             |             | sting       |             |             |
-|             |             |     > quote |             |             |
+|             |             |     quote |             |             |
 |             |             | s,          |             |             |
 |             |             |             |             |             |
 |             |             | -   Identif |             |             |
 |             |             | ied         |             |             |
-|             |             |     > sourc |             |             |
+|             |             |     sourc |             |             |
 |             |             | es          |             |             |
-|             |             |     > of    |             |             |
-|             |             |     > suppl |             |             |
+|             |             |     of    |             |             |
+|             |             |     suppl |             |             |
 |             |             | y,          |             |             |
-|             |             |     > and   |             |             |
+|             |             |     and   |             |             |
 |             |             |             |             |             |
 |             |             | -   Indepen |             |             |
 |             |             | dent        |             |             |
-|             |             |     > Gover |             |             |
+|             |             |     Gover |             |             |
 |             |             | nment       |             |             |
-|             |             |     > Cost  |             |             |
-|             |             |     > Estim |             |             |
+|             |             |     Cost  |             |             |
+|             |             |     Estim |             |             |
 |             |             | ate         |             |             |
-|             |             |     > calcu |             |             |
+|             |             |     calcu |             |             |
 |             |             | lation      |             |             |
-|             |             |     > templ |             |             |
+|             |             |     templ |             |             |
 |             |             | ates.       |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | 39          | Acquisition | Send out    | Public      | 90 days     |
@@ -4359,109 +3482,7 @@ We want to express appreciation for the sincerity, depth of thought, and
 time taken by each of the commenters and encourage the community to go
 to the public website and read each of the submissions.
 
-[^1]: *Presidential Executive Order on the Establishment of the American
-    Technology Council*. May 2017.
 
-[^2]: *Presidential Executive Order on Strengthening the Cybersecurity
-    of Federal Networks and Critical Infrastructure*. May 2017.
-
-[^3]: Not to include national security systems as defined in Section
-    3552(b)(6) of Title 44, United States Code.
-
-[^4]: *Federal Information Security Modernization Act of 2014* (Pub. L.
-    No. 113-283, 128 Stat. 3073), as amended.
-
-[^5]: Introduction to Modernization and Migration Management (M3),
-    Unified Shared Services Management.
-
-[^6]: *E-Government Act of 2002* (Pub. L. No. 107-347); *Information
-    Technology Management Reform Act of 1996*, “Clinger-Cohen Act
-    (CCA),” (Pub. L. 104-106, Division E); and *Paperwork Reduction Act
-    of 1995* (Pub. L. No. 96-511).
-
-[^7]: *State of Federal IT Report*, Public Release Version 1.0.
-
-[^8]: *Federal IT Acquisition Reform Act* (included in the *National
-    Defense Authorization Act for Fiscal Year 2015* – Pub. L. 113-291).
-
-[^9]: The TIC and NCPS initiatives are further described in the
-    Comprehensive National Cyber Security Initiative (CNCI), established
-    by Joint Presidential Directive NSPD-54/HSPD-23; OMB Memorandum
-    M-08-16, Guidance for TIC Statement of Capability Form (SOC); OMB
-    Memorandum M-08-26, *Transition from FTS 2001 to Networx*; OMB
-    Memorandum M-08-27, Guidance for TIC Compliance; OMB Memorandum
-    M-09-32, *Update on the TIC Initiative*; and DHS’s TIC Reference
-    Architecture. These documents provide further details on agency,
-    OMB, and DHS responsibilities and reporting requirements,
-    acquisition vehicles, and technical capabilities under the TIC
-    initiative. The *Homeland Security Act*, as amended by section 223
-    of the *Federal Cybersecurity Enhancement Act of 2015*,
-    *Consolidated Appropriations Act of 2016* (Pub. L. No. 114-113, 129
-    Stat. 2242, Division N, Title II, Subtitle B), requires DHS to
-    “deploy, operate, and maintain” and “make available for use by any
-    agency” capabilities to detect cybersecurity risks in agency network
-    traffic and take actions to mitigate those risks (6 U.S.C.
-    § 151(b)(1)). DHS currently provides these capabilities through its
-    NCPS program and, as required by law, ensures all retention, use,
-    and disclosure of information obtained through NCPS occurs only for
-    protecting information and information systems from cybersecurity
-    risks (*See id*. § 151(c)(3)). The *Federal Cybersecurity
-    Enhancement Act of 2015* also requires agencies to apply these
-    capabilities to “all information traveling between an agency
-    information system and any information system other than an agency
-    information system.” *Id.* § 151, note. Notably, these statutory
-    provisions have flexibility regarding the technological means
-    through which DHS offers these intrusion detection and prevention
-    capabilities and is not tied to the current NCPS implementation.
-    Indeed, the Homeland Security Act encourages development of these
-    capabilities by requiring DHS to “regularly assess through
-    operational test and evaluation in real world or simulated
-    environments available advanced protective technologies to improve
-    detection and prevention capabilities, including commercial and
-    noncommercial technologies and detection technologies beyond
-    signature-based detection, and acquire, test, and deploy such
-    technologies when appropriate.” *Id*. § 151(c)(4).
-
-[^10]: OMB Memorandum M-17-09, *Management of Federal High Value
-    Assets*.
-
-[^11]: See Footnote 9.
-
-[^12]: *Federal Cybersecurity Enhancement Act of 2015*, *Consolidated
-    Appropriations Act of 2016* (Pub. L. No. 114-113, 129 Stat. 2242,
-    Division N, Title II, Subtitle B).
-
-[^13]: DHS Office of the Inspector General. *Implementation Status of
-    EINSTEIN 3 Accelerated.* March 2014. U.S. Government Accountability
-    Office (GAO) Report 16-294, *DHS Needs to Enhance Capabilities,
-    Improve Planning, and Support Greater Adoption of its NCPS*. January
-    2016.
-
-[^14]: This approach was originally piloted by the FedRAMP Tailored
-    baseline, which is designed to increase FedRAMP’s flexibility to
-    rapidly authorize and use low-risk applications. FedRAMP Tailored
-    was finalized in September 2017, and can be seen at
-    https://tailored.fedramp.gov/policy/.
-
-[^15]: The recently rescinded OMB Memorandum M-08-26, *Transition from
-    FTS 2001 to Networx* stated that all agencies should use Networx to
-    acquire telecommunications connectivity, including the option to
-    purchase Trusted Internet Connections solutions from vendors as a
-    managed service, called Managed Trusted Internet Protocol Services
-    (MTIPS). As of July 2017, an OMB Memorandum mandating a similar use
-    under the EIS contract does not exist.
-
-[^16]: In this report, “large” agencies refer to the 24 agencies
-    required to appoint agency Chief Financial Officers (CFOs) (i.e.,
-    “CFO Act agencies”) under the *Chief Financial Officers Act of 1990*
-    (31 U.S.C. §901). All other agencies aside from these 24 are
-    referred to as “small” agencies.
-
-[^17]: MTIPS providers supply small agencies with a vendor-managed
-    solution that ensures compliance with OMB’s Trusted Internet
-    Connection policy.
-
-[^18]: Pursuant to 6 U.S.C. § 151.
 
 [^19]: NIST Special Publication 800-145, *The NIST Definition of Cloud
     Computing.*
