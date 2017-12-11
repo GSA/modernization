@@ -15,29 +15,29 @@ agencies to consolidated network infrastructures or shared services.
 Exec. Order No. 13,800, 82 FR 22391, § 1(c)(vi)(B)(2) (May 11, 2017).
 This appendix, along with the report itself, does so. The report
 suggests increased use of consolidated network architectures and shared
-services. Generally, federal law contemplates that agencies control
+services. Generally, Federal law contemplates that agencies control
 their own systems and information either directly or through contract.
-Moving to consolidated network architectures and shared services
-generally involves moving away from agency control and thus tends to
-increase tension with relevant law and requires greater analysis and
-legal documentation. While additional legal review and documentation
-would need to be performed during any eventual development of the
-consolidated network architectures and shared services based on their
-exact facts, implementation of the report’s recommendations can likely
-be achieved within existing law in most instances, as long as they are
-designed with a view toward satisfying applicable legal requirements. A
-summary of some of the main areas of law and legal issues implicated by
-this report are discussed below.
+Moving to consolidated network architectures, commercial cloud and
+shared services generally involves moving away from agency control and
+thus tends to increase tension with relevant law and requires greater
+analysis and legal documentation. While additional legal review and
+documentation would need to be performed during any eventual development
+of the consolidated network architectures, commercial cloud, and shared
+services based on their exact facts, implementation of the report’s
+recommendations can likely be achieved within existing law in most
+instances, as long as they are designed with a view toward satisfying
+applicable legal requirements. A summary of some of the main areas of
+law and legal issues implicated by this report are discussed below.
 
 ## The Federal Information Security Modernization Act of 2014 (FISMA)
 
 The Federal Information Security Modernization Act of 2014 (FISMA) and
 later amendments are codified in subsection II of chapter 35 of title 44
 of the U.S. Code. These provisions, which we will refer to here as
-FISMA, create a whole-of-Government approach to federal information
-security[^30] pursuant to which OMB oversees agency information security
+FISMA, create a whole-of-Government approach to Federal information
+security[^32] pursuant to which OMB oversees agency information security
 policies and practices; DHS administers implementation of these policies
-and practices for federal, civilian, executive-branch agencies,
+and practices for Federal, civilian, executive-branch agencies,
 including by assisting agencies and providing certain Government-wide
 protections; and agencies are responsible for providing information
 security protections commensurate with the risk and magnitude of the
@@ -47,10 +47,11 @@ a minimum set of information security controls and techniques, assess
 the effectiveness of these controls, comply with NIST standards, DHS
 directives, and OMB policies, and report certain cybersecurity
 information to DHS, OMB and to Congress. The consolidated network
-architectures and shared services recommended in this report will need
-to provide levels of security and transparency that enable agency heads
-to ensure compliance with FISMA and its related requirements, while also
-providing technical solutions that fit the needs of multiple agencies.
+architectures, commercial cloud, and shared services recommended in this
+report will need to provide levels of security and transparency that
+enable agency heads to ensure compliance with FISMA and its related
+requirements, while also providing technical solutions that fit the
+needs of multiple agencies.
 
 ## The Homeland Security Act’s Federal Intrusion Detection and Prevention System
 
@@ -82,12 +83,12 @@ U.S.C. § 6103 (restrictions on access to tax return information); 13
 U.S.C. § 9(a) (Census confidentiality statute); 18 U.S.C. § 2511
 (Wiretap Act); 6 U.S.C. § 151 (DHS’s Federal Intrusion Detection and
 Prevention System). Personnel operating consolidated network
-architectures and shared services described in this report will
-sometimes require access to such information. Technical capabilities and
-administrative processes will need to be developed to enable compliance
-with the laws and regulations applicable to each type of information.
-This will require a significant role for SAOPs and agency privacy
-programs.
+architectures, commercial cloud, and shared services described in this
+report will sometimes require access to such information. Technical
+capabilities and administrative processes will need to be developed to
+enable compliance with the laws and regulations applicable to each type
+of information. This will require a significant role for SAOPs and
+agency privacy programs.
 
 ## Request for Information from Third Parties
 
@@ -110,14 +111,14 @@ information.
 The Federal Information Technology Acquisition Reform Act (FITARA)
 increases the authority of agency Chief Information Officers to play a
 significant role in the planning, programming, budgeting, management,
-governance and oversight of federal information technology. 40 U.S.C. §
+governance and oversight of Federal information technology. 40 U.S.C. §
 11319(b)(1)(A). FITARA is consistent with a move toward consolidated
-network architectures and shared services and enhances the legal
-authority for agency CIOs move in that direction. Among other actions,
-FITARA and associated policy require agencies to implement data center
-consolidation strategies that support (i) movement of information
-technology infrastructure to the as-a-service model and (ii) transition
-to the cloud. *See* 44 U.S.C. § 3601, note.
+network architectures, commercial cloud, and shared services and
+enhances the legal authority for agency CIOs move in that direction.
+Among other actions, FITARA and associated policy require agencies to
+implement data center consolidation strategies that support (i) movement
+of information technology infrastructure to the as-a-service model and
+(ii) transition to the cloud. *See* 44 U.S.C. § 3601, note.
 
 ## Procurement and Fiscal Considerations
 
@@ -146,12 +147,12 @@ the circumstances and agencies affected, but may include:
     required unless specifically authorized otherwise. In an example
     of such a specific authorization, 44 U.S.C. § 3553(b)(6)(B)
     authorizes DHS to “upon request by an agency, deploy\[\],
-    operat\[e\], and maintain\[\] technology to assist the agency to
+    operate\[\], and maintain\[\] technology to assist the agency to
     continuously diagnose and mitigate against cyber threats and
     vulnerabilities, with or without reimbursement.”
 
 
-[^30]: In FISMA, the term “information security” means protecting
+[^32]: In FISMA, the term “information security” means protecting
     information and information systems from unauthorized access, use,
     disclosure, disruption, modification, or destruction in order to
     provide—
