@@ -9,4 +9,10 @@ permalink: /
 
 Read this [web-friendly version of the report](/report/preface/) by using the navigation links to the left, or <a target="_blank" href="{{ site.report_url }}">download the report as a PDF</a>.
 
+**References:**
+
+* <a href="{{ site.report_url }}">**Final** Report on IT Modernization</a>
+* <a href="{{ site.draft_url }}">Draft Report on IT Modernization</a>
+* [White House announcement of draft report](https://www.whitehouse.gov/blog/2017/08/30/it-modernization)
+
 [1]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal

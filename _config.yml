@@ -5,8 +5,12 @@ smallest_title: Federal IT Modernization
 description: Report to the President on Federal IT Modernization.
 
 # report_url: "https://itmodernization.cio.gov/assets/report/Report%20to%20the%20President%20on%20IT%20Modernization%20-%20Final.pdf"
+# draft_url: https://itmodernization.cio.gov/assets/report/Report%20to%20the%20President%20on%20IT%20Modernization%20-%20Draft.pdf
+
 # Temporary for preview purposes:
 report_url: "https://federalist-proxy.app.cloud.gov/preview/gsa/modernization/final-report/assets/report/Report%20to%20the%20President%20on%20IT%20Modernization%20-%20Final.pdf"
+draft_url: "https://federalist-proxy.app.cloud.gov/preview/gsa/modernization/final-report/assets/report/Report%20to%20the%20President%20on%20IT%20Modernization%20-%20Draft.pdf"
+
 
 # GA and GitHub data
 google_analytics_ua: UA-104788385-1
