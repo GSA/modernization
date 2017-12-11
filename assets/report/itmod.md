@@ -48,7 +48,7 @@
   > **Appendix G**: Summary of Comments Received
   ------------------------------------------------------------------------ ----
 
-[]{#_gjdgxs .anchor}**Preface**
+**Preface**
 
 The United States is unparalleled in its commitment to protecting
 Americans’ liberties and freedoms and is unmatched in its national
@@ -105,7 +105,7 @@ modernization recommendations.
 **Executive Summary**
 =====================
 
-[]{#1fob9te .anchor}This report outlines a vision and recommendations
+This report outlines a vision and recommendations
 for the Federal Government to build a more modern and secure
 architecture for Federal IT systems.[^3] Agencies have attempted to
 modernize their systems but have been stymied by a variety of factors,
@@ -212,7 +212,7 @@ Migration Management Framework,[^5] where appropriate.
 Taken together, these recommendations will modernize the security and
 functionality of Federal IT, allow the Federal Government to improve
 service delivery, and focus effort and resources on what is most
-important to customers of Government services. []{#_3znysh7 .anchor}
+important to customers of Government services.
 
 **Network Modernization & Consolidation**
 =========================================
@@ -315,7 +315,7 @@ gaps at other levels, such as the data and application levels. This has
 resulted in overlooked areas of the IT ecosystem, which are more
 vulnerable and at higher risk of attack or exploit.
 
-[]{#_4d34og8 .anchor}Additionally, when individual agencies issue
+Additionally, when individual agencies issue
 agency-specific IT contracts, they reinforce the current emphasis on
 boundary protections and limit opportunities for applying economies of
 scale in provisioning common network and security services for the
@@ -326,8 +326,6 @@ processes. Enabling a new approach to modernization and consolidation of
 networks requires a strategy that addresses each of these challenges
 with associated recommendations for legal, policy, resource allocation,
 acquisition, and workforce interventions, as detailed further below.
-
-[]{#_2s8eyo1 .anchor}
 
 Future State & Objectives
 -------------------------
@@ -410,7 +408,6 @@ value assets; (2) adopting security frameworks that better protect
 systems at the data level; and (3) consolidating and standardizing
 network acquisitions and management wherever possible.
 
-[]{#_26in1rg .anchor}
 
 1.  Prioritize the Modernization of High-Risk High Value Assets (HVAs)
 
@@ -882,7 +879,7 @@ Next steps to support the objectives outlined above are as follows:
     Federal Government is maximizing its buying power when competing
     contracts under EIS;
 
--   []{#_1ksv4uv .anchor}Review current security capabilities currently
+-   Review current security capabilities currently
     offered under MTIPS, as defined by the TIC RA, to ensure the
     capabilities provide adequate security within the current threat
     environment, and determine if any security capabilities need to be
@@ -932,7 +929,7 @@ Next steps to support the objectives outlined above are as follows:
 **Shared Services to Enable Future Network Architectures**
 ==========================================================
 
-[]{#_2jxsxqh .anchor}**Summary of Efforts to Date **
+**Summary of Efforts to Date **
 
 Category Management and Shared Services are both industry leading
 practices that help the Federal Government deliver common functions in a
@@ -1260,7 +1257,7 @@ TIC policy and guidance will affect some of the eventual business
 decisions surrounding cloud options, agencies should begin working to
 determine how best to use the models outlined above.
 
-[]{#z337ya .anchor}Next steps to support the above recommendations are
+Next steps to support the above recommendations are
 as follows:
 
 > **Within 30 days of the date of issuance of this final report:**
@@ -1340,8 +1337,6 @@ as follows:
 > commercial buying strategies and collaboration with agency Acquisition
 > Innovation Advocates to apply modernized processes to improve the
 > acquisition system’s ability to support the goals of this report.
-
-[]{#wp1130783 .anchor}
 
 1.  Accelerate Adoption of Cloud Email and Collaboration Tools
 
@@ -1689,12 +1684,8 @@ Specifically, SOC as a Service capabilities could:
 > establish pilots involving agencies designated by OMB as possessing
 > insufficient SOC capabilities.
 
-[]{#_3j2qqm3 .anchor}
-
 **Conclusions & Summary of Requests for Engagement**
 ====================================================
-
-[]{#_4i7ojhp .anchor}
 
 Difficulties in agency prioritization of resources in support of IT
 modernization, ability to procure services quickly, and technical issues
