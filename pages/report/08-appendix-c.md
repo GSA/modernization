@@ -33,7 +33,7 @@ prevention capabilities under DHS’s National Cybersecurity Protection
 System (NCPS). NCPS consists of three sensor capabilities (collectively
 referred to as EINSTEIN), as well as a set of analytic tools used by
 cyber analysts to find, identify and categorize cyber threat activity.
-[^27]
+[^29]
 
 The NCPS sensor suite is deployed in three iterations: EINSTEIN 1 (E1),
 which captures and analyzes network flow information; EINSTEIN 2 (E2),
@@ -47,7 +47,7 @@ specifically regarding adoption of commercial cloud and mobile
 technologies. Additionally, signature-based detection and protections
 systems provide value, but are not enough to combat the full spectrum of
 advanced persistent threats that rapidly change attack vectors, tactics,
-techniques, and procedures.[^28] [^29] All of these challenges are
+techniques, and procedures.[^30] [^31] All of these challenges are
 acknowledged and understood by DHS, and efforts are underway to address
 these specific issues.
 
@@ -67,14 +67,17 @@ deliver value to its Federal Executive Branch stakeholder community.
 These challenges include:
 
 1.  Cloud Security and Situational Awareness
+
 2.  Encrypted Network Traffic
+
 3.  Overreliance on Static Signatures
+
 4.  Use and Value of Classified Indicators
 
 ## Cloud Security and Situational Awareness
 
 Federal agencies have started to embrace the use of cloud services to
-include Infrastructure as a service (IaaS), Platform as a Service
+include Infrastructure as a Service (IaaS), Platform as a Service
 (PaaS), and Software as a Service (SaaS), which has the promise to move
 much of the Federal Executive Branch’s computing and data to
 commercially available cloud environments, outside of traditional
@@ -94,6 +97,8 @@ benefits of cloud services by forcing users to route traffic through a
 physical network location rather than being able to connect directly to
 the cloud service.
 
+![ATC Networks - TIC Trombone]({{ site.baseurl}}/assets/img/image4.png)
+
 To address this situation, DHS has engaged with three large cloud
 service providers to determine how DHS may gain the insight and
 situational awareness from within the cloud that is similar to the
@@ -102,8 +107,6 @@ at the TICs. The focus of this engagement thus far has been the
 collection of internal cloud log data, specific to the agency
 application and data that could be fed back to DHS to provide a similar
 level of situational awareness to DHS cyber analysts.
-
-![ATC Networks - TIC Trombone.png]({{ site.baseurl}}/assets/img/image4.png)
 
 ## Encrypted Network Traffic
 
@@ -200,11 +203,11 @@ value of using classified indicators within E3A to determine if their
 use should be continued, or if DHS and the agencies would be better
 served by using only unclassified information.
 
-[^27]: See Footnote 9.
+[^29]: See Footnote 9.
 
-[^28]: DHS Office of the Inspector General, *Implementation Status of
+[^30]: DHS Office of the Inspector General, *Implementation Status of
     EINSTEIN 3 Accelerated*. March 2014.
 
-[^29]: U.S. Government Accountability Office, Report 16-294, *DHS Needs
+[^31]: U.S. Government Accountability Office, Report 16-294, *DHS Needs
     to Enhance Capabilities, Improve Planning, and Support Greater
     Adoption of its NCPS*. January 2016.
