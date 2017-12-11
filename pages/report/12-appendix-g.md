@@ -150,7 +150,7 @@ similar and suggested or implied that the report:
 Many of the comments confirmed that the tasks were appropriate and/or
 offered additional enhancement to the identified tasks.
 
-**Question 5 What is the feasibility of the proposed acquisition pilot?
+**Question 5 - What is the feasibility of the proposed acquisition pilot?
 (Appendix D)**
 
 Comments, in response to this question, suggested that the report:
