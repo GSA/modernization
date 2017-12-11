@@ -1,53 +1,3 @@
-**Table of Contents**
-
-  ------------------------------------------------------------------------ ----
-  **Preface **                                                             2
-
-  **Executive Summary **                                                   3
-
-  **Network Modernization & Consolidation **                               5
-
-  > Summary of Efforts to Date                                             5
-  >
-  > Current State                                                          6
-  >
-  > Future State & Objectives                                              7
-  >
-  > Implementation Plan                                                    8
-
-  **Shared Services to Enable Future Network Architectures **              18
-
-  > Summary of Efforts to Date                                             18
-  >
-  > Current State                                                          18
-  >
-  > Future State & Objectives                                              19
-  >
-  > Implementation Plan                                                    20
-
-  **Conclusions & Summary of Requests for Engagement **                    31
-
-  **Appendices **                                                          32
-
-  > **Appendix A**: Data-Level Protections & Modernization of Federal IT   32
-  >
-  > **Appendix B**: Principles of Cloud-Oriented Security Protections      36
-  >
-  > **Appendix C**: Challenges to Implementing Federal-Wide                40
-  >
-  > Perimeter-Based Security                                               44
-  >
-  > **Appendix D**: Acquisition Pilot: Change the Buying Strategy to       48
-  >
-  > Government-As-One-Purchaser                                            51
-  >
-  > **Appendix E**: Legal Considerations                                   58
-  >
-  > **Appendix F**: Summary of Recommendations
-  >
-  > **Appendix G**: Summary of Comments Received
-  ------------------------------------------------------------------------ ----
-
 **Preface**
 
 The United States is unparalleled in its commitment to protecting
@@ -1291,7 +1241,7 @@ as follows:
 > innovative FedRAMP, shared services, or agency-specific efforts across
 > the Federal enterprise.
 >
-> **Within 120 days of the date of issuance of this final report: **
+> **Within 120 days of the date of issuance of this final report:**
 >
 > Pursuant to its statutory authorities and in execution thereof, OMB,
 > in coordination with DHS, GSA, and its Federal partners, will update
@@ -2051,7 +2001,7 @@ height="2.9583333333333335in"}
 **Figure 3**
 
 **Appendix C: Challenges to Implementing Federal-Wide Perimeter-Based
-Security **
+Security**
 
 Today, the Federal Government applies a defense-in-depth strategy to
 protect its systems that includes agency and DHS-provided protections at
@@ -2423,8 +2373,6 @@ Notional Metrics of Success
     being published, which would allow the Government to begin capturing
     FY 2018 spending on cloud email migrations;
 
-<!-- -->
-
 -   At least two agencies have signed on to pilot the proposed dashboard
     and provide reporting and acquisition of cloud email licenses under
     this effort; and
@@ -2434,7 +2382,7 @@ Notional Metrics of Success
 
 **Appendix E: Legal Considerations**
 
-**Introduction **
+**Introduction**
 
 Executive Order 13800, *Strengthening the Cybersecurity of Federal
 Networks and Critical Infrastructure* requires this report to “describe
