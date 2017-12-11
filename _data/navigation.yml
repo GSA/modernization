@@ -24,6 +24,8 @@ primary:
     href: /report/appendices/legal-considerations/
   - text: "Appendix F"
     href: /report/appendices/summary-of-recommendations/
+  - text: "Appendix G"
+    href: /report/appendices/summary-of-comments/
 
 
 mobile:
@@ -51,3 +53,5 @@ mobile:
     href: /report/appendices/legal-considerations/
   - text: "Appendix F"
     href: /report/appendices/summary-of-recommendations/
+  - text: "Appendix G"
+    href: /report/appendices/summary-of-comments/

@@ -1,5 +1,11 @@
+---
+layout: base
 
-**Appendix G: Summary of Comments Received**
+appendix: true
+
+title: "Appendix G: Summary of Comments Received"
+permalink: /report/appendices/summary-of-comments/
+---
 
 More than 100 companies and individuals submitted comments during the
 three week public comment period for the IT Modernization Report.
@@ -164,4 +170,3 @@ pit-falls.
 We want to express appreciation for the sincerity, depth of thought, and
 time taken by each of the commenters and encourage the community to go
 to the public website and read each of the submissions.
-
