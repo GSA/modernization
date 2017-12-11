@@ -13,11 +13,9 @@ subnav:
     href: "#future-state--objectives"
   - text: Implementation Plan
     href: "#implementation-plan"
-
 ---
 
-Summary of Efforts to Date
---------------------------
+## Summary of Efforts to Date
 
 The Federal Government has engaged in several efforts to modernize
 existing IT systems, to improve processes for the acquisition and
@@ -59,8 +57,7 @@ modifications to the existing acquisition requirements could be
 implemented to achieve efficiencies while maintaining the core tenet of
 fairness.
 
-Current State
--------------
+## Current State
 
 In recent years, Government-wide initiatives and policies have focused
 on the transition to a more efficient, more secure, and customer-focused
@@ -118,8 +115,7 @@ networks requires a strategy that addresses each of these challenges
 with associated recommendations for legal, policy, resource allocation,
 acquisition, and workforce interventions, as detailed further below.
 
-Future State & Objectives
--------------------------
+## Future State & Objectives
 
 The future of Federal IT is one in which agencies move further toward a
 risk-based approach to securing their systems that places appropriate
@@ -186,8 +182,7 @@ modernizing Federal IT. Addressing these barriers will enable agencies
 to accelerate toward a new era of modernization without sacrificing
 security or performance.
 
-Implementation Plan
--------------------
+## Implementation Plan
 
 This section outlines immediate next steps and long-term considerations
 related to the modernization of Federal networks. The focus areas below
