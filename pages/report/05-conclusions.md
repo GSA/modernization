@@ -7,7 +7,7 @@ permalink: /report/conclusions/
 
 Difficulties in agency prioritization of resources in support of IT
 modernization, ability to procure services quickly, and technical issues
-has resulted in an unwieldy and out-of-date Federal IT infrastructure
+have resulted in an unwieldy and out-of-date Federal IT infrastructure
 incapable of operating with the agility and security that is required of
 a multibillion-dollar Federal IT enterprise. In order to aggressively
 modernize IT systems, the Federal Government will need to maximize use
@@ -20,14 +20,14 @@ cloud will be modernized to leverage modern security protections, and
 agencies will assess risk of existing capabilities to prioritize
 resources on protecting the most important systems and information. The
 Federal Government will also accelerate the adoption of cloud email and
-collaboration tools, improve existing shared services, and provide
-additional security shared services for agencies.
+collaboration tools, improve and strengthen existing shared services,
+and provide additional security shared services for agencies.
 
-Achieving these goals will require a shift in the mindset of agency
-leadership, mission owners, IT practitioners, and oversight bodies.
-Federal agencies must consolidate their IT investments and place more
-trust in services and infrastructure operated by others. Such a change
-in outlook will allow for greater utilization of shared services,
+Achieving these goals will require an active shift in the mindset of
+agency leadership, mission owners, IT practitioners, and oversight
+bodies. Federal agencies must consolidate their IT investments and place
+more trust in services and infrastructure operated by others. Such a
+change in outlook will allow for greater utilization of shared services,
 consolidated infrastructure, and cloud-based collaboration tools that
 can deliver improved functionality and drive cost efficiencies to
 improve Government operations and citizen services.
