@@ -7,8 +7,15 @@ title: "Appendix D: Acquisition Pilot: Change the Buying Strategy to
 Government-As-One-Purchaser"
 permalink: /report/appendices/acquisition-pilot/
 ---
-
-### Applying Nash Equilibrium to Federal Acquisition of Cloud Email
+The Government must pursue new acquisition strategies for cloud email
+and collaboration licenses. In furtherance of this objective, pilots
+such as the example outlined in this Appendix may be executed to
+decrease the administrative acquisition burden, specifically for smaller
+agencies who cannot leverage large volume discounts or who have
+acquisition workforce constraints. Additional pilots to leverage the
+Government as one purchaser and speed cloud adoption may include the
+ability to purchase cloud services on a consumption basis and
+coordinated purchasing to obtain tiered-based pricing.
 
 Several challenges must be overcome in the acquisition cycle in order to
 comply with [EO 13800][EO13800] and facilitate shared services, such as cloud
@@ -28,35 +35,41 @@ price points, total number of licenses purchased, and the remaining
 number of mailboxes that need to be migrated. This volume pricing would
 serve as the base rate for any license purchased by the Government.
 
-### Dashboard Example (Cloud-Based E-mail)\*
+### Public Dashboard Example (Cloud-Based E-mail)\*
 
-In this scenario, data would be recorded with the current negotiated
-pricing tiers, along with any incentive pricing based on other factors
-such as the company’s quarterly sales cycles.
+In this scenario, data would be recorded and displayed publicly with the
+current negotiated pricing tiers, along with any incentive pricing based
+on other factors such as the company’s quarterly sales cycles.
 
-| **Gmail**                        | **Quarter/ Price per user/month** |
+| **Cloud Email Provider A**       | **Quarter/ Price per user/month** |
 |----------------------------------|-----------------------------------|
-| Tier 1: 1 – 5,000 licenses       | Q1-3: $10 per user/month          |
-|                                  | Q4: $9 per user/month             |
-| Tier 2: 5,000 – 10,000 licenses  | Q1-3 $9.50 per user/month         |
-|                                  | Q4: $9.45 per user/month          |
-| Tier 3: 10,000 – 50,000 licenses | Q 1-4 $ 9.50 per user/month       |
+| Tier 1: 1 – 5,000 licenses       | Q1-3: 2% discount                 |
+|                                  | Q4: 2.5% discount                 |
+| Tier 2: 5,000 – 10,000 licenses  | Q1-3 2.7% discount                |
+|                                  | Q4: 3.0%                          |
+| Tier 3: 10,000 – 50,000 licenses | Q 1-4: 3.2%                       |
 
-<small>\*These numbers are fabricated for this example only.</small><br/>
-<small>A running total of the licenses purchased would be displayed so that at
+*\*These numbers are fabricated for this example only.*
+
+A running total of the licenses purchased would be displayed so that at
 any time, end users would know the price point. This would be validated
-with the companies for the official count.</small><br/>
-<small><strong>To date (6/29/17) Total Licenses purchased Government-wide:
-1,345,000</strong></small><br/>
-<small>Pricing Level= Tier 3, Q2 = \$9.50 per user/month</small><br/>
-<small><strong>Total mailboxes to migrate:</strong> 3,000,000</small>
+with the companies for the official count.
 
-Benefits would include a more constructive and mutually-beneficial
-ecosystem with private sector companies, better and more transparent
-pricing for Government agencies, and an increased variety of available
-secure solutions. This would also lead to more consistent implementation
-and configurations across the Federal enterprise. Lastly, this would
-incentivize agencies with smaller budgets to adopt cloud email earlier.
+*Publicly Displayed Information Example:*
+
+**As of 6/29/17 Total Licenses purchased Government-wide: 1,345,000**
+
+Pricing Level= Tier 3, Q2 = \$3.2% discount per user/month
+
+**Total mailboxes to migrate:** 3,000,000
+
+The objectives and expected outcomes would include a more constructive
+and mutually-beneficial ecosystem with private sector companies, better
+and more transparent pricing for Government agencies, and an increased
+variety of available secure solutions. This would also lead to more
+consistent implementation and configurations across the Federal
+enterprise. Lastly, this would incentivize agencies with smaller budgets
+to adopt cloud email earlier.
 
 #### Assumptions
 
@@ -73,25 +86,30 @@ This assessment relies on the following assumptions:
 
 -   Agencies must also be active in timely reporting of their data,
     which will be displayed publicly, in order to ensure as specific
-    volumes are reached, discounts are provided; and
+    volumes are reached, discounts are provided;
 
--   The Government has the ability to negotiate a manufacturer’s
-    agreement that will be accepted by agencies.
+-   The Government has the ability to negotiate a Manufacturer’s
+    Agreement that will be accepted by agencies; and
+
+-   This approach is platform agnostic, any cloud-based email provider
+    may be eligible to participate; agencies will still need to follow
+    competition rules as required to place orders.
 
 #### Why This Works
 
 A common strategy for many chains is to locate near a competitor. For
 example, you will almost always see a CVS near a Walgreens or a Burger
 King near a McDonalds. You will see food chains across the street or
-next to each other in almost any city in the US. The thinking is that if
-it works for the competitor, it will likely work for you. Studies have
-shown repeatedly that as chains sprout up in adjacency, volume also goes
-up. This strategy is commonly known as the Nash Equilibrium, a solution
-concept of non-cooperative competition involving two or more “players,”
-where each player knows the equilibrium strategies of the others and no
-one has anything to gain by changing their own strategy.
+next to each other in almost any city in the United States. The thinking
+is that if it works for the competitor, it will likely work for you.
+Studies have shown repeatedly that as chains sprout up in adjacency,
+volume also goes up. This strategy is commonly known as the Nash
+Equilibrium, a solution concept of non-cooperative competition involving
+two or more “players,” where each player knows the equilibrium
+strategies of the others and no one has anything to gain by changing
+their own strategy.
 
-Creating the Marketplace with Hotelling’s Law. In simple terms,
+*Creating the Marketplace with Hotelling’s Law:* In simple terms,
 Hotelling’s Law determines that businesses selling similar products tend
 to locate as close as possible in order to maintain the maximum amount
 of market share possible. Creating a public display and accountability
@@ -100,14 +118,14 @@ the number of mailboxes left to be migrated will create this
 marketplace.
 
 This strategy also takes into account that re-sellers would still be
-able to sell these licenses under existing GSA Schedules or Solutions
-for Enterprise-Wide Procurement contracts; however, they would be
-required to use the current price point, record the sale into the
-dashboard, and make their re-seller fees transparent to Government as
-the differentiation in competition. Ultimately, this will save business
-development and contract negotiation time and effort between the email
-providers and the re-sellers, which will drive down the overhead fees
-the Government has to pay.
+able to sell these licenses under existing GSA Schedules and
+Government-wide Acquisition Contracts (GWACs), or NASA SEWP contracts;
+however, they would be required to use the current price point, record
+the sale into the dashboard, and make their re-seller fees transparent
+to Government as the differentiation in competition. Ultimately, this
+will save business development and contract negotiation time and effort
+between the email providers and the re-sellers, which will drive down
+the overhead fees the Government has to pay.
 
 Services, configurations, and prices all negotiated openly and reported
 publicly will not only ensure the most competitive rates for Government,
@@ -120,15 +138,17 @@ performance and quality of the offerings as a distinguishing factor.
 
 The steps outlined below would be used to test the theory that this
 would change the way we buy these services and establish a shared
-service approach to license purchasing:
+service approach to license purchasing. This is not the full
+implementation plan which will provide more details for how and when
+these general steps will be accomplished. The implementation plan will
+address pilot success criteria to include input and feedback from
+agencies and industry which may change the course of the outcome.
 
 **Get Industry Buy-in and Feedback.** Capitalizing on the recent success
 of the IT CEO Summit, the Office of American Innovation will call a
 follow-up summit with interested cloud providers to discuss the
 proposal. The goal would be to determine whether CSPs would be willing
-to participate in a pilot of the Manufacturer’s Agreements with the
-Federal Government. Suggested industry partners to target are Google,
-Salesforce, Amazon, and Microsoft.
+to participate in a pilot with the Federal Government.
 
 **Measure the Market.** A prerequisite to all other actions is to obtain
 an accurate measurement of the market need in terms of agencies that
@@ -145,7 +165,10 @@ small group of agencies to establish a pilot program to examine the
 impact of the process changes being proposed. Additionally, they will
 lead the creation of a series of support groups that would deploy to
 agencies to provide technical, acquisition, and migration assistance and
-report to ATC on the progress of the pilots.
+report to ATC on the progress of the pilots. This will include a
+strategy to minimize the burden on early adopters, potentially through
+price redetermination terms, modular contracting methods, or
+collaborative purchase agreements.
 
 **Create a Reporting Mechanism with Agencies and Industry.** The Federal
 Government requires that accurate and up-to-date data around the current
@@ -156,7 +179,7 @@ volume pricing is essential to the success of this proposal. Without it,
 this strategy will ultimately fail. This is the foundation for achieving
 Nash Equilibrium for both the Federal Government and industry.
 
-### Metrics of Success
+### Notional Metrics of Success
 
 -   At least one cloud-based email service provider has signed up to
     negotiate a memorandum of understanding within 90 days of the report
