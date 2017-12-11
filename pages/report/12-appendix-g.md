@@ -56,7 +56,7 @@ be placed in closer proximity to the data, and that cloud access
 security brokers (CASBs) should be used to provide secure access to
 cloud resources.
 
-**Acquisition strategy and workforce **
+**Acquisition strategy and workforce**
 
 Several comments indicated concern over halting or pausing acquisitions
 in progress, the need for reform of the acquisition and budgeting
@@ -120,10 +120,10 @@ track or offered additional suggestions and insights to attributes
 proffered within the report.
 
 **Question 3 - Are there any missing or extraneous tasks in the plan for
-implementing network modernization & consolidation? **
+implementing network modernization & consolidation?**
 
 **Question 4 - Are there any missing or extraneous tasks in the plan for
-implementing shared services to enable future network architectures? **
+implementing shared services to enable future network architectures?**
 
 Comments and recommendations in response to questions 3 and 4 were
 similar and suggested or implied that the report:
