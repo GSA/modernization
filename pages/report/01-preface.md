@@ -31,10 +31,21 @@ Commerce (Commerce), regarding the modernization of Federal IT.
 Acknowledging that Federal agencies are still working, and must continue
 to work, to meet the objectives of other critical modernization
 initiatives – for instance, by automating their manual processes,
-deploying patches both responsively and preventatively, and by
-transitioning away from unsupported software – this report outlines the
-current and envisioned state of Federal IT, and it provides specific
-recommendations to jumpstart a new wave of modernization efforts.
+implementing new and diverse testing and scanning options, deploying
+patches both responsively and preventatively, and by transitioning away
+from unsupported software – this report outlines the current and
+envisioned state of Federal IT, and it provides specific recommendations
+to jumpstart a new wave of modernization efforts.
+
+This report is focused on modernization efforts to improve the security
+posture of Federal IT. Though this covers a significant footprint of
+modernization needs, the public comment period generated responses from
+industry that highlighted the importance of providing an overarching IT
+modernization plan, which aligns these efforts with ongoing work to
+improve citizen-facing services, make better use of mobile technologies,
+improving security across the Federal enterprise, and other key efforts.
+In response to this, the American Technology Council will provide this
+amplifying context following publication of this final report.
 
 The enclosed plan incorporates the efforts of key Government
 stakeholders in identifying ways for the Government to enhance its
@@ -45,8 +56,6 @@ incorporate input on the vision for the future of Federal IT, and it
 intends to seek further input to ensure successful implementation of
 modernization recommendations.
 
-
 [1]: https://www.whitehouse.gov/the-press-office/2017/05/01/presidential-executive-order-establishment-american-technology-council
 
 [EO13800]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
-

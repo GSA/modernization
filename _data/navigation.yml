@@ -1,6 +1,6 @@
 
 primary:
-  - text: Request For Comment
+  - text: "Introduction to the Report"
     href: /
   - text: "Preface"
     href: /report/preface/
@@ -24,12 +24,12 @@ primary:
     href: /report/appendices/legal-considerations/
   - text: "Appendix F"
     href: /report/appendices/summary-of-recommendations/
-  - text: "Submit Comment"
-    href: /report/submit-comment/
+  - text: "Appendix G"
+    href: /report/appendices/summary-of-comments/
 
 
 mobile:
-  - text: Request For Comment
+  - text: "Introduction"
     href: /
   - text: "Preface"
     href: /report/preface/
@@ -53,5 +53,5 @@ mobile:
     href: /report/appendices/legal-considerations/
   - text: "Appendix F"
     href: /report/appendices/summary-of-recommendations/
-  - text: "Submit Comment"
-    href: /report/submit-comment/
+  - text: "Appendix G"
+    href: /report/appendices/summary-of-comments/

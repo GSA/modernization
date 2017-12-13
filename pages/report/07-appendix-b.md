@@ -13,16 +13,16 @@ subnav:
     href: "#proportionate-security"
 ---
 
-As noted in the report, the Federal Government has traditionally focused
-its Government-wide information security efforts on protecting network
-boundaries; however, instead of emphasizing physically consolidated
-security at the perimeter, such as in the current Trusted Internet
-Connections (TIC) model, a data-centric approach emphasizes placing
-protections closer to the services and information systems in which
-sensitive data is stored and accessed. This gives agencies flexibility
-in the approaches they choose. For modern services hosted in the cloud,
-agencies can place security protections directly in front of each
-service and allow direct connections from the public internet. For
+As noted in this Report, the Federal Government has traditionally
+focused its Government-wide information security efforts on protecting
+network boundaries; however, instead of emphasizing physically
+consolidated security at the perimeter, such as in the current Trusted
+Internet Connections (TIC) model, a data-centric approach emphasizes
+placing protections closer to the services and information systems in
+which sensitive data is stored and accessed. This gives agencies
+flexibility in the approaches they choose. For modern services hosted in
+the cloud, agencies can place security protections directly in front of
+each service and allow direct connections from the public internet. For
 services hosted in legacy data centers, such capabilities may not be
 available, in which case the agency can still rely on perimeter security
 as they pursue options to modernize their system architecture.
@@ -35,7 +35,7 @@ security capabilities outlined by FedRAMP. The approach in this appendix
 applies to cases wherein an agency is directly operationalizing software
 in a cloud-hosting environment. This does not apply to Software as a
 Service (SaaS) applications operated in full by vendors, as their
-security approaches will be vendor- specific.
+security approaches will be vendor-specific.
 
 Agencies could take the following approach to designing security
 protections in a cloud-based application stack:
@@ -72,7 +72,9 @@ protections in a cloud-based application stack:
     application.
 
 An example diagram showing data-centric security in a cloud provider is
-shown in **Figure 1**. ![ATC Networks - Cloud Moderate.png]({{ site.baseurl }}/assets/img/image1.png)
+shown in **Figure 1**.
+
+![ATC Networks - Cloud Moderate]({{ site.baseurl }}/assets/img/image1.png)
 
 **Figure 1**
 
@@ -117,7 +119,7 @@ without sacrificing the major benefits of adopting modern cloud
 architectures. A diagram of how this may look is represented in Figure
 2.
 
-![ATC Networks - Cloud High.png]({{ site.baseurl }}/assets/img/image2.png)
+![ATC Networks - Cloud High]({{ site.baseurl }}/assets/img/image2.png)
 
 **Figure 2**
 
@@ -140,7 +142,7 @@ along to the application.
 
 While the protections described in this appendix can be useful to many
 applications, the Federal Government should focus its limited security
-resources on its highest- value assets. All security protections come
+resources on its highest-value assets. All security protections come
 with a cost: any security services “on path” can impact reliability and
 performance, add complexity to system operations, and could have
 vulnerabilities that would be used against the applications they are
@@ -157,9 +159,9 @@ for agility and availability, thus freeing security resources for more
 sensitive systems.
 
 An isolated system with no sensitive information therefore might merit a
-more streamlined architecture. **Figure 3** shows how a low-security
+more streamlined architecture. **Figure 3** shows how a low-impact
 system may serve requests directly:
 
-![ATC Networks - Cloud Low.png]({{ site.baseurl }}/assets/img/image3.png)
+![ATC Networks - Cloud Low]({{ site.baseurl }}/assets/img/image3.png)
 
 **Figure 3**
