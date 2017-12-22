@@ -12,7 +12,8 @@ Read this [web-friendly version of the final report](/report/preface/) by using 
 **References:**
 
 * <a href="{{ site.report_url }}">Final Report on IT Modernization</a>
+* [White House announcement of final report](https://www.whitehouse.gov/articles/final-modernization-report/)
 * <a href="{{ site.draft_url }}">Draft Report on IT Modernization</a>
-* [White House announcement of draft report](https://www.whitehouse.gov/blog/2017/08/30/it-modernization)
+* [White House announcement of draft report](https://www.whitehouse.gov/articles/it-modernization/)
 
 [1]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
