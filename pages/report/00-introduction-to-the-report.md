@@ -15,5 +15,6 @@ Read this [web-friendly version of the final report](/report/preface/) by using 
 * [White House announcement of final report](https://www.whitehouse.gov/articles/final-modernization-report/)
 * <a href="{{ site.draft_url }}">Draft Report on IT Modernization</a>
 * [White House announcement of draft report](https://www.whitehouse.gov/articles/it-modernization/)
+* [Public comments received on the draft report](https://github.com/GSA/modernization/issues?utf8=%E2%9C%93&q=label%3A%22Public+comment%22+), archived on GitHub
 
 [1]: https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal
