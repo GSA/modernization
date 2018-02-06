@@ -425,8 +425,7 @@ primary attack vector for compromising individuals and organizations.
 Accelerated rollout of cloud email and collaboration is urgent given the
 number of duplicative legacy systems and their associated cybersecurity
 risks. In addition, even within cloud-based email, there still exists
-price variance. Agencies generally negotiate as individual organizations
-- thus limiting the potential economy of scale that could have been
+price variance. Agencies generally negotiate as individual organizations - thus limiting the potential economy of scale that could have been
 achieved negotiating through the Government Enterprise. Buying power
 through Government-wide price negotiations will achieve efficiencies of
 cost savings and therefore benefit American taxpayers.
